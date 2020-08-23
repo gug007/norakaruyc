@@ -12,6 +12,7 @@
     "cors": "^2.8.5",
     "es6-promise": "^4.2.8",
     "express": "^4.17.1",
+    "google-map-react": "^2.0.8",
     "http-proxy-middleware": "^1.0.5",
     "i18next": "^19.7.0",
     "isomorphic-fetch": "^2.2.1",

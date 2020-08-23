@@ -7,6 +7,7 @@ import { useTranslation } from "react-i18next";
 
 function List({ data }) {
   const { t } = useTranslation();
+
   return (
     <Grid container spacing={1}>
       {data.map((building, i) => {

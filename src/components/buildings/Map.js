@@ -1,0 +1,44 @@
+import React from "react";
+import GoogleMapReact from "google-map-react";
+
+const AnyReactComponent = ({ text }) => (
+  <>
+    <div
+      style={{
+        width: "1rem",
+        height: "1rem",
+        background: "blue",
+        borderRadius: "50%",
+      }}
+    />
+  </>
+);
+
+function Map({ data }) {
+  const map = {
+    center: {
+      lat: data[0].y,
+      lng: data[0].x,
+    },
+    zoom: 15,
+  };
+  return (
+    <div style={{ height: "calc(100vh - 104px)", width: "100%" }}>
+      <GoogleMapReact
+        bootstrapURLKeys={{ key: "AIzaSyC5_tWHM2Cmk-t01IAJ_ogEKezekJyGqhk" }}
+        defaultCenter={map.center}
+        defaultZoom={map.zoom}
+      >
+        {data.map((building, i) => (
+          <AnyReactComponent
+            lat={building.y}
+            lng={building.x}
+            text="My Marker"
+          />
+        ))}
+      </GoogleMapReact>
+    </div>
+  );
+}
+
+export default Map;
