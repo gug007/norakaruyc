@@ -3,15 +3,30 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "es6-promise": "^4.2.8",
+    "express": "^4.17.1",
+    "http-proxy-middleware": "^1.0.5",
+    "i18next": "^19.7.0",
+    "isomorphic-fetch": "^2.2.1",
+    "material-ui-country-flags": "^3.0.1",
+    "material-ui-flags": "^1.0.8",
+    "prettier": "^2.0.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3"
+    "react-i18next": "^11.7.1",
+    "react-scripts": "3.4.3",
+    "react-world-flags": "^1.4.0",
+    "use-http": "^1.0.13"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "nodemon server & react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
