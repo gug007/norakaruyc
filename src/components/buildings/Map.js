@@ -14,11 +14,11 @@ const AnyReactComponent = ({ text }) => (
   </>
 );
 
-function Map({ data }) {
+function Map({ buildings }) {
   const map = {
     center: {
-      lat: data[0].y,
-      lng: data[0].x,
+      lat: buildings[0].y,
+      lng: buildings[0].x,
     },
     zoom: 15,
   };
@@ -29,7 +29,7 @@ function Map({ data }) {
         defaultCenter={map.center}
         defaultZoom={map.zoom}
       >
-        {data.map((building, i) => (
+        {buildings.map((building, i) => (
           <AnyReactComponent
             lat={building.y}
             lng={building.x}

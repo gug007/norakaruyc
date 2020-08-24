@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useMemo, useState } from "react";
 import useFetch from "use-http";
 import FormControl from "@material-ui/core/FormControl";
 import InputLabel from "@material-ui/core/InputLabel";
@@ -11,20 +11,21 @@ import districts from "../../constants/districts";
 import List from "./List";
 import Map from "./Map";
 import Language from "./language/Language";
-import ReorderSharpIcon from "@material-ui/icons/ReorderSharp";
-import RoomOutlinedIcon from "@material-ui/icons/RoomOutlined";
-import IconButton from "@material-ui/core/IconButton";
-
-const LIST = "list";
-const MAP = "map";
+import Nav, { GRID, LIST } from "./Nav";
 
 function Buildings() {
   const [value, setValue] = useState("Կենտրոն");
-  const [view, setView] = useState(LIST);
+  const [status, setStatus] = useState("");
+  const [view, setView] = useState(GRID);
   const {
     loading,
     data = [],
   } = useFetch(`http://localhost:5000?district_select=${value}`, {}, [value]);
+
+  const buildings = useMemo(
+    () => (status ? data.filter((v) => v.status === status) : data),
+    [data, status]
+  );
 
   return (
     <>
@@ -46,26 +47,36 @@ function Buildings() {
               ))}
             </Select>
           </FormControl>
-          <Box display="flex">
-            <IconButton onClick={() => setView(LIST)}>
-              <ReorderSharpIcon color={view === LIST ? "primary" : "default"} />
-            </IconButton>
-            <IconButton onClick={() => setView(MAP)}>
-              <RoomOutlinedIcon color={view === MAP ? "primary" : "default"} />
-            </IconButton>
+          <Box>
             <Language />
           </Box>
         </Container>
       </Box>
       <Divider />
-      <Box mt={2} />
-      <Container>
-        {loading ? (
-          "loading..."
-        ) : (
-          <>{view === LIST ? <List data={data} /> : <Map data={data} />}</>
-        )}
-      </Container>
+      {loading ? (
+        <Container>loading...</Container>
+      ) : (
+        <>
+          <Nav
+            buildings={data}
+            view={view}
+            onChangeView={setView}
+            status={status}
+            onChangeStatus={setStatus}
+          />
+          {view === LIST ? (
+            <Container>
+              <List buildings={buildings} />
+            </Container>
+          ) : view === GRID ? (
+            <Container>
+              <List buildings={buildings} />
+            </Container>
+          ) : (
+            <Map buildings={buildings} />
+          )}
+        </>
+      )}
     </>
   );
 }

@@ -22,11 +22,7 @@ i18n.use(initReactI18next).init({
 });
 
 function App() {
-  return (
-    <>
-      <Buildings />
-    </>
-  );
+  return <Buildings />;
 }
 
 export default App;
