@@ -4,7 +4,7 @@ import ApartmentOutlinedIcon from "@material-ui/icons/ApartmentOutlined";
 
 const AnyReactComponent = ({ text }) => (
   <>
-    <ApartmentOutlinedIcon color="primary" />
+    <ApartmentOutlinedIcon htmlColor="#ff9800" />
   </>
 );
 

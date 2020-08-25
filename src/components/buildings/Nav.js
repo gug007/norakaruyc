@@ -29,6 +29,7 @@ function Nav({ buildings, view, onChangeView, status, onChangeStatus }) {
 
   return (
     <Box
+      height={64}
       display="flex"
       alignItems="center"
       justifyContent="space-between"
@@ -75,7 +76,7 @@ function Nav({ buildings, view, onChangeView, status, onChangeStatus }) {
             )}
           </PopupState>
         </Box>
-        <Box display="flex" py={1.5}>
+        <Box display="flex">
           <IconButton onClick={() => onChangeView(GRID)}>
             <AppsOutlinedIcon color={view === GRID ? "primary" : "action"} />
           </IconButton>

@@ -1,37 +1,22 @@
-import React, { useCallback, useMemo, useState } from "react";
+import React, { useMemo, useState } from "react";
 import useFetch from "use-http";
-import FormControl from "@material-ui/core/FormControl";
-import InputLabel from "@material-ui/core/InputLabel";
-import Select from "@material-ui/core/Select";
-import MenuItem from "@material-ui/core/MenuItem";
 import Container from "@material-ui/core/Container";
 import Divider from "@material-ui/core/Divider";
-import Box from "@material-ui/core/Box";
 import districts from "../../constants/districts";
+import useStatus from "../../hooks/useStatus";
 import List from "./List";
 import Map from "./Map";
-import Language from "./language/Language";
+import Header from "./Header";
 import Nav, { GRID, LIST } from "./Nav";
 
 function Buildings() {
   const [value, setValue] = useState("Կենտրոն");
-  const [status, setStatus] = useState([]);
+  const [status, setStatus] = useStatus();
   const [view, setView] = useState(GRID);
   const {
     loading,
     data = [],
   } = useFetch(`http://localhost:5000?district_select=${value}`, {}, [value]);
-
-  const handleChangeStatus = useCallback(
-    (value) => {
-      setStatus((prev) =>
-        prev.includes(value)
-          ? prev.filter((v) => v !== value)
-          : [...prev, value]
-      );
-    },
-    [setStatus]
-  );
 
   const buildings = useMemo(
     () =>
@@ -41,29 +26,11 @@ function Buildings() {
 
   return (
     <>
-      <Box
-        my={1.5}
-        display="flex"
-        alignItems="center"
-        justifyContent="space-between"
-        clone
-      >
-        <Container>
-          <FormControl variant="outlined">
-            <InputLabel>Select district</InputLabel>
-            <Select value={value} onChange={(v) => setValue(v.target.value)}>
-              {districts.map((district) => (
-                <MenuItem key={district} value={district}>
-                  {district}
-                </MenuItem>
-              ))}
-            </Select>
-          </FormControl>
-          <Box>
-            <Language />
-          </Box>
-        </Container>
-      </Box>
+      <Header
+        district={value}
+        onChangeDistrict={setValue}
+        districts={districts}
+      />
       <Divider />
       {loading ? (
         <Container>loading...</Container>
@@ -74,7 +41,7 @@ function Buildings() {
             view={view}
             onChangeView={setView}
             status={status}
-            onChangeStatus={handleChangeStatus}
+            onChangeStatus={setStatus}
           />
           {view === LIST ? (
             <Container>
