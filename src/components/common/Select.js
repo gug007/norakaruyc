@@ -8,7 +8,7 @@ const Select = ({ value, onChange, options = [], label, ...props }) => {
   return (
     <FormControl fullWidth variant="outlined">
       <InputLabel>{label}</InputLabel>
-      <MuiSelect value={value} onChange={onChange}>
+      <MuiSelect value={value} onChange={onChange} {...props}>
         {options.map(([value, label]) => (
           <MenuItem key={value} value={value}>
             {label}

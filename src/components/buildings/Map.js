@@ -1,16 +1,10 @@
 import React from "react";
 import GoogleMapReact from "google-map-react";
+import ApartmentOutlinedIcon from "@material-ui/icons/ApartmentOutlined";
 
 const AnyReactComponent = ({ text }) => (
   <>
-    <div
-      style={{
-        width: "1rem",
-        height: "1rem",
-        background: "blue",
-        borderRadius: "50%",
-      }}
-    />
+    <ApartmentOutlinedIcon color="primary" />
   </>
 );
 

@@ -1,4 +1,4 @@
-import React, { useMemo, useState } from "react";
+import React, { useCallback, useMemo, useState } from "react";
 import useFetch from "use-http";
 import FormControl from "@material-ui/core/FormControl";
 import InputLabel from "@material-ui/core/InputLabel";
@@ -15,15 +15,27 @@ import Nav, { GRID, LIST } from "./Nav";
 
 function Buildings() {
   const [value, setValue] = useState("Կենտրոն");
-  const [status, setStatus] = useState("");
+  const [status, setStatus] = useState([]);
   const [view, setView] = useState(GRID);
   const {
     loading,
     data = [],
   } = useFetch(`http://localhost:5000?district_select=${value}`, {}, [value]);
 
+  const handleChangeStatus = useCallback(
+    (value) => {
+      setStatus((prev) =>
+        prev.includes(value)
+          ? prev.filter((v) => v !== value)
+          : [...prev, value]
+      );
+    },
+    [setStatus]
+  );
+
   const buildings = useMemo(
-    () => (status ? data.filter((v) => v.status === status) : data),
+    () =>
+      status.length ? data.filter((v) => status.includes(v.status)) : data,
     [data, status]
   );
 
@@ -62,7 +74,7 @@ function Buildings() {
             view={view}
             onChangeView={setView}
             status={status}
-            onChangeStatus={setStatus}
+            onChangeStatus={handleChangeStatus}
           />
           {view === LIST ? (
             <Container>
