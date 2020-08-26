@@ -138,6 +138,14 @@ export default createMuiTheme({
         padding: "0px 16px 12px",
       },
     },
+    MuiToggleButton: {
+      root: {
+        "&$selected": {
+          backgroundColor: "transparent",
+          color: primary,
+        },
+      },
+    },
   },
   palette: {
     primary: {
