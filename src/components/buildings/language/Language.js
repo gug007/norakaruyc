@@ -4,6 +4,7 @@ import Box from "@material-ui/core/Box";
 import Menu from "@material-ui/core/Menu";
 import MenuItem from "@material-ui/core/MenuItem";
 import { useTranslation } from "react-i18next";
+import { useHistory } from "react-router-dom";
 import PopupState, { bindTrigger, bindMenu } from "material-ui-popup-state";
 import amIcon from "./am.svg";
 import ruIcon from "./ru.svg";
@@ -12,10 +13,11 @@ import usIcon from "./us.svg";
 const languages = [
   ["am", amIcon],
   ["ru", ruIcon],
-  ["us", usIcon],
+  ["en", usIcon],
 ];
 
 function Language() {
+  const history = useHistory();
   const { i18n } = useTranslation();
   const selectedIcon = languages.find(([lng]) => lng === i18n.language)[1];
 
@@ -28,19 +30,19 @@ function Language() {
           </IconButton>
           <Box mt={1} />
           <Menu {...bindMenu(popupState)}>
-            {languages
-              .filter(([lng]) => lng !== i18n.language)
-              .map(([lng, icon]) => (
-                <MenuItem
-                  key={lng}
-                  onClick={() => {
-                    i18n.changeLanguage(lng);
-                    popupState.close();
-                  }}
-                >
-                  <img src={icon} height={32} alt="" />
-                </MenuItem>
-              ))}
+            {languages.map(([lng, icon]) => (
+              <MenuItem
+                key={lng}
+                selected={lng === i18n.language}
+                onClick={() => {
+                  history.push(lng);
+                  i18n.changeLanguage(lng);
+                  popupState.close();
+                }}
+              >
+                <img src={icon} height={32} alt="" />
+              </MenuItem>
+            ))}
           </Menu>
         </React.Fragment>
       )}
