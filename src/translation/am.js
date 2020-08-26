@@ -12,8 +12,8 @@ export default {
   address: "Հասցե",
   developer: "Կառուցապատող",
   status: "Կարգավիճակը",
-  permit_start_dt: "Սկսման ամսաթիվը",
-  permit_end_dt: "Ավարտի ամսաթիվը",
+  startDate: "Սկսման ամսաթիվը",
+  endDate: "Ավարտի ամսաթիվը",
   statuses: {
     [notStarted]: "Չսկսված",
     [inProgress]: "Ընթացքում գտնվող",

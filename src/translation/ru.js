@@ -12,8 +12,8 @@ export default {
   address: "Адрес",
   developer: "Застройщик",
   status: "Статус",
-  permit_start_dt: "Data начало",
-  permit_end_dt: "Data окончания",
+  startDate: "Data начало",
+  endDate: "Data окончания",
   statuses: {
     [notStarted]: "Не начато",
     [inProgress]: "В процессе",

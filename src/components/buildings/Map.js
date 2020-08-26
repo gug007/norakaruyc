@@ -25,9 +25,10 @@ function Map({ buildings }) {
       >
         {buildings.map((building, i) => (
           <AnyReactComponent
+            key={i}
             lat={building.y}
             lng={building.x}
-            text="My Marker"
+            building={building}
           />
         ))}
       </GoogleMapReact>

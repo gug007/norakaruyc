@@ -12,8 +12,8 @@ export default {
   address: "Address",
   developer: "Developer",
   status: "Status",
-  permit_start_dt: "Start date",
-  permit_end_dt: "End Date",
+  startDate: "Start date",
+  endDate: "End Date",
   statuses: {
     [notStarted]: "Not started",
     [inProgress]: "In progress",

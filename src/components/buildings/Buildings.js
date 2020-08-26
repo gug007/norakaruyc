@@ -6,6 +6,7 @@ import Container from "@material-ui/core/Container";
 import Divider from "@material-ui/core/Divider";
 import districts from "../../constants/districts";
 import useStatus from "../../hooks/useStatus";
+import Grid from "./Grid";
 import List from "./List";
 import Map from "./Map";
 import Header from "./Header";
@@ -22,11 +23,20 @@ function Buildings() {
     data = [],
   } = useFetch(`http://localhost:5000?district_select=${value}`, {}, [value]);
 
-  const buildings = useMemo(
-    () =>
-      status.length ? data.filter((v) => status.includes(v.status)) : data,
-    [data, status]
-  );
+  const buildings = useMemo(() => {
+    const list = status.length
+      ? data.filter((v) => status.includes(v.status))
+      : data;
+    return list.map((building) => ({
+      ...building,
+      district: building.district,
+      address: building.address,
+      developer: building.constructors,
+      status: building.status,
+      startDate: building.permit_start_dt,
+      endDate: building.permit_end_dt,
+    }));
+  }, [data, status]);
 
   return (
     <>
@@ -52,7 +62,7 @@ function Buildings() {
             </Container>
           ) : view === GRID ? (
             <Container>
-              <List buildings={buildings} />
+              <Grid buildings={buildings} />
             </Container>
           ) : (
             <Map buildings={buildings} />

@@ -35,7 +35,10 @@ function Language() {
                 key={lng}
                 selected={lng === i18n.language}
                 onClick={() => {
-                  history.push(lng);
+                  history.push({
+                    pathname: lng,
+                    search: window.location.search,
+                  });
                   i18n.changeLanguage(lng);
                   popupState.close();
                 }}

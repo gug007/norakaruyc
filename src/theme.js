@@ -146,6 +146,11 @@ export default createMuiTheme({
         },
       },
     },
+    MuiPaper: {
+      root: {
+        border: "1px solid rgba(0, 0, 0, 0.12)",
+      },
+    },
   },
   palette: {
     primary: {
