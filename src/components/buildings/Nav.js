@@ -12,20 +12,34 @@ import Typography from "@material-ui/core/Typography";
 import Button from "@material-ui/core/Button";
 import Popover from "@material-ui/core/Popover";
 import PopupState, { bindTrigger, bindPopover } from "material-ui-popup-state";
+import { useHistory } from "react-router-dom";
+import qs from "query-string";
 
 export const GRID = "grid";
 export const LIST = "list";
 export const MAP = "map";
 
-function Nav({ buildings, view, onChangeView, status, onChangeStatus }) {
+const groupBuildingsBy = (buildings, filter) => {
+  const statuses = groupBy(buildings, filter);
+  return Object.entries(statuses);
+};
+
+function Nav({ buildings, view, status, onChangeStatus }) {
+  const history = useHistory();
   const { t } = useTranslation();
-  const options = useMemo(() => {
-    const statuses = groupBy(buildings, "status");
-    return Object.entries(statuses).map(([key, val]) => [
-      key,
-      `${t(`statuses.${key}`)} (${val.length})`,
-    ]);
-  }, [buildings, t]);
+  const options = useMemo(
+    () =>
+      groupBuildingsBy(buildings, "status").map(([key, val]) => [
+        key,
+        `${t(`statuses.${key}`)} (${val.length})`,
+      ]),
+    [buildings, t]
+  );
+
+  const handleChangeView = (value) => {
+    const data = qs.parse(window.location.search);
+    history.push({ search: qs.stringify({ ...data, view: value }) });
+  };
 
   return (
     <Box
@@ -77,13 +91,13 @@ function Nav({ buildings, view, onChangeView, status, onChangeStatus }) {
           </PopupState>
         </Box>
         <Box display="flex">
-          <IconButton onClick={() => onChangeView(GRID)}>
+          <IconButton onClick={() => handleChangeView(GRID)}>
             <AppsOutlinedIcon color={view === GRID ? "primary" : "action"} />
           </IconButton>
-          <IconButton onClick={() => onChangeView(LIST)}>
+          <IconButton onClick={() => handleChangeView(LIST)}>
             <ReorderSharpIcon color={view === LIST ? "primary" : "action"} />
           </IconButton>
-          <IconButton onClick={() => onChangeView(MAP)}>
+          <IconButton onClick={() => handleChangeView(MAP)}>
             <PlaceOutlinedIcon color={view === MAP ? "primary" : "action"} />
           </IconButton>
         </Box>

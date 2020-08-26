@@ -1,5 +1,7 @@
 import React, { useMemo, useState } from "react";
 import useFetch from "use-http";
+import qs from "query-string";
+import { useLocation } from "react-router-dom";
 import Container from "@material-ui/core/Container";
 import Divider from "@material-ui/core/Divider";
 import districts from "../../constants/districts";
@@ -12,7 +14,9 @@ import Nav, { GRID, LIST } from "./Nav";
 function Buildings() {
   const [value, setValue] = useState("Կենտրոն");
   const [status, setStatus] = useStatus();
-  const [view, setView] = useState(GRID);
+  const location = useLocation();
+  const view = qs.parse(location.search).view || GRID;
+
   const {
     loading,
     data = [],
@@ -39,7 +43,6 @@ function Buildings() {
           <Nav
             buildings={data}
             view={view}
-            onChangeView={setView}
             status={status}
             onChangeStatus={setStatus}
           />
