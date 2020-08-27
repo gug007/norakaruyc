@@ -1,4 +1,5 @@
-import React from "react";
+import React, { useMemo } from "react";
+import { useFirestore, useFirestoreCollectionData } from "reactfire";
 import FormControl from "@material-ui/core/FormControl";
 import InputLabel from "@material-ui/core/InputLabel";
 import Select from "@material-ui/core/Select";
@@ -7,8 +8,17 @@ import Container from "@material-ui/core/Container";
 import Box from "@material-ui/core/Box";
 
 import Language from "./language/Language";
+import { useTranslation } from "react-i18next";
 
-function Header({ district, onChangeDistrict, districts }) {
+function Header({ district, onChangeDistrict }) {
+  const { i18n } = useTranslation();
+  const districtsRef = useFirestore().collection("districts");
+  const districts = useFirestoreCollectionData(districtsRef);
+  const options = useMemo(
+    () => districts.map((d) => [d.name_am, d[`name_${i18n.language}`]]),
+    [districts, i18n.language]
+  );
+
   return (
     <Box
       height={64}
@@ -24,9 +34,9 @@ function Header({ district, onChangeDistrict, districts }) {
             value={district}
             onChange={(v) => onChangeDistrict(v.target.value)}
           >
-            {districts.map((district) => (
-              <MenuItem key={district} value={district}>
-                {district}
+            {options.map(([key, val]) => (
+              <MenuItem key={key} value={key}>
+                {val}
               </MenuItem>
             ))}
           </Select>

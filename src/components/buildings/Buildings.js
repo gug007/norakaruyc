@@ -1,5 +1,6 @@
 import React, { useMemo, useState } from "react";
 import useFetch from "use-http";
+import { SuspenseWithPerf } from "reactfire";
 import qs from "query-string";
 import { useLocation } from "react-router-dom";
 import Container from "@material-ui/core/Container";
@@ -39,7 +40,10 @@ function Buildings() {
   }, [data, status]);
 
   return (
-    <>
+    <SuspenseWithPerf
+      fallback={<p>loading burrito status...</p>}
+      traceId={"load-burrito-status"}
+    >
       <Header
         district={value}
         onChangeDistrict={setValue}
@@ -69,7 +73,7 @@ function Buildings() {
           )}
         </>
       )}
-    </>
+    </SuspenseWithPerf>
   );
 }
 
