@@ -1,0 +1,16 @@
+[
+  {
+    "district": "Էրեբունի",
+    "address": "Էրեբունու փող․ հ 15/3 և 15/4",
+    "constructors": "ԲԻԴԵՔ ՍՊԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Ընթացքում գտնվող",
+    "x": 44.5187363,
+    "y": 40.1433815,
+    "permit_number": "01/18-65258-981",
+    "permit_start_dt": "26-09-2018",
+    "permit_end_dt": "26-09-2021",
+    "sketch": "/images/construction_sketches/159221757987.jpg"
+  }
+]

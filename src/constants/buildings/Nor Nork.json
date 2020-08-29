@@ -1,0 +1,58 @@
+[
+  {
+    "district": "Նոր Նորք",
+    "address": "Բակունցի 11/11",
+    "constructors": "Դռագոն Հաուս ՍՊԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.5707366944,
+    "y": 40.1907741717,
+    "permit_number": "01/18-Գ-6179-15",
+    "permit_start_dt": "18-01-2019",
+    "permit_end_dt": "16-07-2022",
+    "sketch": "/images/construction_sketches/159221781040.jpg"
+  },
+  {
+    "district": "Նոր Նորք",
+    "address": "Լվովյան փող․ հ․ 14",
+    "constructors": "Ֆոր Դիրեկշնս Սպը",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Կառուցապատման աշխատանքները փաստացի ավարտված",
+    "x": 44.5634011,
+    "y": 40.203194,
+    "permit_number": "01/18-Ս-1463-495",
+    "permit_start_dt": "23-04-2020",
+    "permit_end_dt": "23-07-2020",
+    "sketch": "/images/construction_sketches/159221777074.jpg"
+  },
+  {
+    "district": "Նոր Նորք",
+    "address": "Գյուրջյան փող․ հ․ 17/2",
+    "constructors": "Պրոգրես ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.56144981,
+    "y": 40.19121224,
+    "permit_number": "01/18-88966-80",
+    "permit_start_dt": "09-10-2019",
+    "permit_end_dt": "09-10-2020",
+    "sketch": ""
+  },
+  {
+    "district": "Նոր Նորք",
+    "address": "Նանսենի փող․ հ․ 26/2",
+    "constructors": "Սոլար Սիթի ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Ընթացքում գտնվող",
+    "x": 44.5554463,
+    "y": 40.1963597,
+    "permit_number": "01/18-13292-297",
+    "permit_start_dt": "11-03-2020",
+    "permit_end_dt": "11-03-2022",
+    "sketch": "/images/construction_sketches/159221788623.jpg"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "district": "Աջափնյակ",
+    "address": "Հալաբյան փող․ հ․ 55/1",
+    "constructors": "ԱՐԾԱԹ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4783731,
+    "y": 40.2020972,
+    "permit_number": "01/18-Մ-10351-1206",
+    "permit_start_dt": "27-09-2019",
+    "permit_end_dt": "27-11-2020",
+    "sketch": "/images/construction_sketches/ajapnyak/1021.jpg"
+  },
+  {
+    "district": "Աջափնյակ",
+    "address": "Գ․Չաուշի փող․ հ․ 24/4",
+    "constructors": "ՆՈՐԻԿ-70  ՍՊԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Ընթացքում գտնվող",
+    "x": 44.4650822,
+    "y": 40.21190497,
+    "permit_number": "01/18-Բ-2479-909",
+    "permit_start_dt": "16-07-2020",
+    "permit_end_dt": "16-05-2021",
+    "sketch": "/images/construction_sketches/ajapnyak/0606.jpg"
+  },
+  {
+    "district": "Աջափնյակ",
+    "address": "Արզումանյան փող․ հ․ 8/1",
+    "constructors": "Նոբբի ՍՊԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Ընթացքում գտնվող",
+    "x": 44.4756641,
+    "y": 40.1942394,
+    "permit_number": "01/18-Ա-1845-735",
+    "permit_start_dt": "04-07-2019",
+    "permit_end_dt": "04-12-2021",
+    "sketch": "/images/construction_sketches/159160580641.jpg"
+  },
+  {
+    "district": "Աջափնյակ",
+    "address": "Աբելյան փող․ հ․ 2/1",
+    "constructors": "Ջեթ Սեթ ՍՊԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Ընթացքում գտնվող",
+    "x": 44.47795356,
+    "y": 40.19900305,
+    "permit_number": "01/18-Հ-2275-478",
+    "permit_start_dt": "22-04-2020",
+    "permit_end_dt": "22-08-2022",
+    "sketch": "/images/construction_sketches/ajapnyak/0141.jpg"
+  },
+  {
+    "district": "Աջափնյակ",
+    "address": "Մ․Մազմանյան փողոց հ․10/6 հողամաս",
+    "constructors": "Արամ Դեղոյան",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Ընթացքում գտնվող",
+    "x": 44.46444384,
+    "y": 40.2071883,
+    "permit_number": "01/18-Դ-292-262",
+    "permit_start_dt": "05-03-2020",
+    "permit_end_dt": "05-03-2022",
+    "sketch": "/images/construction_sketches/159160560492.jpg"
+  }
+]

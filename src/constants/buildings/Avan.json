@@ -1,0 +1,44 @@
+[
+  {
+    "district": "Ավան",
+    "address": "Չարենցի թաղամաս հ․ 17/7",
+    "constructors": "էլեոնորա Սարգսյան",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.5829268,
+    "y": 40.2158211,
+    "permit_number": "01/18-Ս-2179-347",
+    "permit_start_dt": "20-04-2018",
+    "permit_end_dt": "20-04-2023",
+    "sketch": "/images/construction_sketches/159160573787.jpg"
+  },
+  {
+    "district": "Ավան",
+    "address": "Մ․Բաբաջանյան փող․ 70/7 և 72",
+    "constructors": "ՆԱՐԵԿԱՑԻ ՀԱՈՒԶ ՍՊԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.5627464,
+    "y": 40.2192416,
+    "permit_number": "01/18-67685-1032",
+    "permit_start_dt": "10-08-2020",
+    "permit_end_dt": "10-02-2023",
+    "sketch": "/images/construction_sketches/avan/2628.jpg"
+  },
+  {
+    "district": "Ավան",
+    "address": "Աճառյան փող․ հ․ 37/24 (37/34)",
+    "constructors": "Դի Կվադրա Քոնսթրաքշն ՍՊԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Ընթացքում գտնվող",
+    "x": 44.552874,
+    "y": 40.2190997,
+    "permit_number": "01/18-21099-309",
+    "permit_start_dt": "10-04-2019",
+    "permit_end_dt": "09-04-2022",
+    "sketch": "/images/construction_sketches/avan/3528.jpg"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "district": "Շենգավիթ",
+    "address": "Արարատյան փող. 83/6",
+    "constructors": "Կարեն Բաղդասարյան",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4808989,
+    "y": 40.1450292,
+    "permit_number": "01/18-Բ-1820-609",
+    "permit_start_dt": "11-07-2017",
+    "permit_end_dt": "11-07-2020",
+    "sketch": "/images/construction_sketches/159221819070.jpg"
+  },
+  {
+    "district": "Շենգավիթ",
+    "address": "Հ․Հովսեփյան փող․ հ․ 31 և 31/2 , 12/3",
+    "constructors": "Սահակյանշին ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Ընթացքում գտնվող",
+    "x": 44.4812336,
+    "y": 40.148372,
+    "permit_number": "01/18-65827-930",
+    "permit_start_dt": "20-07-2020",
+    "permit_end_dt": "20-11-2021",
+    "sketch": "/images/construction_sketches/15922182679.jpg"
+  }
+]

@@ -1,5 +1,4 @@
 import React, { useMemo, useState } from "react";
-import useFetch from "use-http";
 import { SuspenseWithPerf } from "reactfire";
 import qs from "query-string";
 import { useLocation } from "react-router-dom";
@@ -12,17 +11,16 @@ import List from "./List";
 import Map from "./Map";
 import Header from "./Header";
 import Nav, { GRID, LIST } from "./Nav";
+import allBuildings from "../../constants/buildings";
 
 function Buildings() {
-  const [value, setValue] = useState("Կենտրոն");
+  const [value, setValue] = useState("Kentron");
   const [status, setStatus] = useStatus();
   const location = useLocation();
   const view = qs.parse(location.search).view || GRID;
 
-  const {
-    loading,
-    data = [],
-  } = useFetch(`http://localhost:5000?district_select=${value}`, {}, [value]);
+  const loading = false;
+  const data = allBuildings[value];
 
   const buildings = useMemo(() => {
     const list = status.length

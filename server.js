@@ -1,8 +1,8 @@
 const express = require("express");
+const fs = require("fs");
 const bodyParser = require("body-parser");
 const cors = require("cors");
 const fetch = require("isomorphic-fetch");
-
 const app = express();
 const port = 5000;
 
@@ -12,15 +12,28 @@ app.use(bodyParser.urlencoded());
 
 const API = "https://www.yerevan.am/permit";
 
-app.get("*", async (req, res) => {
-  const { district_select } = req.query;
-  console.log(req.query);
+const districts = [
+  ["Աջափնյակ", "Ajapnyak"],
+  ["Արաբկիր", "Arabkir"],
+  ["Ավան", "Avan"],
+  ["Դավթաշեն", "Davitashen"],
+  ["Էրեբունի", "Erebuni"],
+  ["Քանաքեռ-Զեյթուն", "Kanaker-Zeytun"],
+  ["Կենտրոն", "Kentron"],
+  ["Մալաթիա-Սեբաստիա", "Malatia-Sebastia"],
+  ["Նոր Նորք", "Nor Nork"],
+  ["Նորք-Մարաշ", "Nork-Marash"],
+  ["Նուբարաշեն", "Nubarashen"],
+  ["Շենգավիթ", "Shengavit"],
+];
+
+const getBuildingsByDistrict = (district) => {
   const body = {
-    district_select,
+    district_select: district,
     typeObjectValue: "Բնակելի շինություններ",
     building_subtype: "Բազմաբնակարան բնակելի շենքի կառուցում",
   };
-  const response = await fetch(API, {
+  return fetch(API, {
     method: "post",
     headers: {
       "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
@@ -29,7 +42,27 @@ app.get("*", async (req, res) => {
       .map(([key, val]) => `${key}=${val}`)
       .join("&"),
   });
-  res.send(await response.json());
+};
+
+app.get("*", async (req, res) => {
+  const { district_select } = req.query;
+  console.log(req.query);
+
+  // const response = await getBuildingsByDistrict(district_select);
+
+  districts.map(async ([am, en]) => {
+    const response = await getBuildingsByDistrict(am);
+    fs.writeFile(
+      `src/constants/buildings/${en}.json`,
+      JSON.stringify(await response.json(), null, 2),
+      (err) => {
+        console.log(err);
+      }
+    );
+  });
+
+  res.send([]);
+  // res.send(await response.json());
 });
 
 app.listen(port, () => {

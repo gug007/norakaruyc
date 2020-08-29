@@ -15,7 +15,7 @@ function Header({ district, onChangeDistrict }) {
   const districtsRef = useFirestore().collection("districts");
   const districts = useFirestoreCollectionData(districtsRef);
   const options = useMemo(
-    () => districts.map((d) => [d.name_am, d[`name_${i18n.language}`]]),
+    () => districts.map((d) => [d.name_en, d[`name_${i18n.language}`]]),
     [districts, i18n.language]
   );
 
