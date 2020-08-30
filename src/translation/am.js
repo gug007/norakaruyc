@@ -14,6 +14,8 @@ export default {
   status: "Կարգավիճակը",
   startDate: "Սկսման ամսաթիվը",
   endDate: "Ավարտի ամսաթիվը",
+  newBuildings: "Նորակառույցներ",
+  yerevan: "Երևան",
   statuses: {
     [notStarted]: "Չսկսված",
     [inProgress]: "Ընթացքում գտնվող",

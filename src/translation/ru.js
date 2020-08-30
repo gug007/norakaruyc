@@ -14,6 +14,8 @@ export default {
   status: "Статус",
   startDate: "Data начало",
   endDate: "Data окончания",
+  newBuildings: "Новостройки",
+  yerevan: "Ереван",
   statuses: {
     [notStarted]: "Не начато",
     [inProgress]: "В процессе",

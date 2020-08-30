@@ -4,6 +4,8 @@ import qs from "query-string";
 import { useLocation } from "react-router-dom";
 import Container from "@material-ui/core/Container";
 import Divider from "@material-ui/core/Divider";
+import Box from "@material-ui/core/Box";
+import Typography from "@material-ui/core/Typography";
 import districts from "../../constants/districts";
 import useStatus from "../../hooks/useStatus";
 import Grid from "./Grid";
@@ -12,8 +14,10 @@ import Map from "./Map";
 import Header from "./Header";
 import Nav, { GRID, LIST } from "./Nav";
 import allBuildings from "../../constants/buildings";
+import { useTranslation } from "react-i18next";
 
 function Buildings() {
+  const { t } = useTranslation();
   const [value, setValue] = useState("Kentron");
   const [status, setStatus] = useStatus();
   const location = useLocation();
@@ -48,6 +52,18 @@ function Buildings() {
         districts={districts}
       />
       <Divider />
+      <Box
+        p={10}
+        display="flex"
+        alignItems="center"
+        justifyContent="center"
+        color="#fff"
+        bgcolor="primary.main"
+      >
+        <Typography variant="h1">
+          {t("newBuildings")} {t("yerevan")}
+        </Typography>
+      </Box>
       {loading ? (
         <Container>loading...</Container>
       ) : (
