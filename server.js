@@ -1,17 +1,6 @@
-const express = require("express");
 const fs = require("fs");
-const bodyParser = require("body-parser");
-const cors = require("cors");
 const fetch = require("isomorphic-fetch");
 const ids = require("./src/constants/buildings/ids.json");
-
-const app = express();
-
-const port = 5000;
-
-// app.use(cors());
-// app.use(bodyParser.json());
-// app.use(bodyParser.urlencoded());
 
 const API = "https://www.yerevan.am/permit";
 
@@ -72,43 +61,9 @@ const getBuildingsByDistrict = (district) => {
       );
     })
   );
-  console.log(ids);
 
   fs.writeFileSync(
     `src/constants/buildings/ids.json`,
     JSON.stringify(ids, null, 2)
   );
 })();
-
-const r = `
-district_select: Կենտրոն
-address: 
-builder: 
-typeObjectValue: Բնակելի շինություններ | Հասարակական շինություններ | Արտադրական շինություններ
-building_subtype: Բազմաբնակարան բնակելի շենքի կառուցում
-`;
-
-const building_subtype = [
-  "Բազմաֆունկցիոնալ բնակելի համալիրի կառուցում",
-  "Ավտոտնակի կառուցում",
-  "Կցակառույցի կառուցում",
-  "Բնակելի տան ընդլայնում",
-  "Բազմաբնակարան բնակելի շենքի կառուցում",
-  "Բնակելի տարածքի վերակառուցում",
-  "Բնակելի տան կառուցում",
-  "Ձեղնահարկի կառուցում",
-  "Բազմաֆունկցիոնալ հասարակական համալիրի կառուցում",
-  "Բազմաֆունկցիոնալ բնակելի շենքի կառուցում",
-  "Պատշգամբի կառուցում",
-  "Բնակելի տարածքում մուտքի կազմակերպում",
-  "Պարսպի կառուցում",
-  "Նախամուտքի կառուցում",
-  "Վերնահարկի կառուցում",
-  "Օժանդակ կառույցի կազմակերպում",
-  "Բնակարանի վերակառուցում",
-  "Բնակելի տան վերակառուցում",
-  "Բնակելի և հասարակական շինության կառուցում",
-  "Բնակելի և հասարակական շինության վերակառուցում",
-  "Բնակելի տան հարկի ավելացում",
-  "Հասարակական տարածքը բնակելիի վերակառուցում",
-];
