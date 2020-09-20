@@ -36,7 +36,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "data": "nodemon server",
+    "data": "nodemon server --ignore src/constants",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"

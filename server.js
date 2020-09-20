@@ -49,12 +49,14 @@ const getBuildingsByDistrict = (district) => {
   districts.map(async ([am, en]) => {
     const response = await getBuildingsByDistrict(am);
     const data = await response.json();
-    console.log(222, data);
+    console.log(222, en, data.length);
     fs.writeFile(
       `src/constants/buildings/${en}.json`,
       JSON.stringify(data, null, 2),
       (err) => {
-        console.log("err", err);
+        if (err) {
+          console.log("err", err);
+        }
       }
     );
   });
