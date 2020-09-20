@@ -1,5 +1,6 @@
 [
   {
+    "id": 17,
     "district": "Դավթաշեն",
     "address": "Դավթաշեն 4-րդ թաղամասի հ.45/5",
     "constructors": "Խաչ9 ՍՊԸ",
@@ -14,6 +15,7 @@
     "sketch": "/images/construction_sketches/15922173359.jpg"
   },
   {
+    "id": 18,
     "district": "Դավթաշեն",
     "address": "Դավթաշեն 4-րդ փող․ 2/1 , 2/2 , 2/3",
     "constructors": "Տիգրան Ավդալյան, Լեռենց ՍՊԸ",
@@ -28,6 +30,7 @@
     "sketch": "/images/construction_sketches/15 davtashen.jpg"
   },
   {
+    "id": 19,
     "district": "Դավթաշեն",
     "address": "Տ․Պետրոսյան փող․ հ․ 1/7",
     "constructors": "ԷԳԱ ՍՊԸ",
@@ -42,6 +45,7 @@
     "sketch": "/images/construction_sketches/19 davtashen.jpg"
   },
   {
+    "id": 20,
     "district": "Դավթաշեն",
     "address": "2-րդ թաղ․ հ․ 26/13",
     "constructors": "Մերուժան Բաղդասարյան",
@@ -56,6 +60,7 @@
     "sketch": ""
   },
   {
+    "id": 21,
     "district": "Դավթաշեն",
     "address": "Դավթաշեն 4-րդ թաղ․ հ․ 45/7",
     "constructors": "Եռանավ ՍՊԸ",
@@ -70,6 +75,7 @@
     "sketch": "/images/construction_sketches/159221725751.jpg"
   },
   {
+    "id": 22,
     "district": "Դավթաշեն",
     "address": "Ա․Միկոյան փող․ հ․ 2/3",
     "constructors": "Իսթեյթ Ինվեստմենթ Ընդ Դիվելոփմենթ ՍՊԸ",
@@ -84,6 +90,7 @@
     "sketch": "/images/construction_sketches/58 davtashen.jpg"
   },
   {
+    "id": 23,
     "district": "Դավթաշեն",
     "address": "1-ին թաղ․ հ․ 11/2",
     "constructors": "Աշոտ Պետրոսյան",
@@ -98,6 +105,7 @@
     "sketch": "/images/construction_sketches/159221753161.jpg"
   },
   {
+    "id": 24,
     "district": "Դավթաշեն",
     "address": "3-րդ թաղ․ հ․ 105 և հ․ 106",
     "constructors": "Նառա Աթանեսյան",
@@ -112,6 +120,7 @@
     "sketch": "/images/construction_sketches/131 davtashen.jpg"
   },
   {
+    "id": 25,
     "district": "Դավթաշեն",
     "address": "Դավթաշեն 1-ին թաղամաս հ․11/2",
     "constructors": "Էդուարդ Գասպարյան",
@@ -126,6 +135,7 @@
     "sketch": "/images/construction_sketches/176 davtashen.jpg"
   },
   {
+    "id": 26,
     "district": "Դավթաշեն",
     "address": "2-րդ թաղ․ հ․ 22/2 և 22/3",
     "constructors": "ՆՅՈՒ ՀՈՄ ՍՊԸ",
@@ -140,6 +150,7 @@
     "sketch": "/images/construction_sketches/159221739235.jpg"
   },
   {
+    "id": 27,
     "district": "Դավթաշեն",
     "address": "Տ․Պետրոսյան փող․ հ․ 1/7",
     "constructors": "ԷԳԱ ՍՊԸ",

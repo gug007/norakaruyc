@@ -1,5 +1,6 @@
 [
   {
+    "id": 28,
     "district": "Շենգավիթ",
     "address": "Արարատյան փող. 83/6",
     "constructors": "Կարեն Բաղդասարյան",
@@ -14,6 +15,7 @@
     "sketch": "/images/construction_sketches/159221819070.jpg"
   },
   {
+    "id": 29,
     "district": "Շենգավիթ",
     "address": "Հ․Հովսեփյան փող․ հ․ 31 և 31/2 , 12/3",
     "constructors": "Սահակյանշին ՓԲԸ",

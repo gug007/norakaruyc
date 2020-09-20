@@ -3,7 +3,10 @@ const fs = require("fs");
 const bodyParser = require("body-parser");
 const cors = require("cors");
 const fetch = require("isomorphic-fetch");
+const ids = require("./src/constants/buildings/ids.json");
+
 const app = express();
+
 const port = 5000;
 
 // app.use(cors());
@@ -46,20 +49,35 @@ const getBuildingsByDistrict = (district) => {
 };
 
 (async () => {
-  districts.map(async ([am, en]) => {
-    const response = await getBuildingsByDistrict(am);
-    const data = await response.json();
-    console.log(222, en, data.length);
-    fs.writeFile(
-      `src/constants/buildings/${en}.json`,
-      JSON.stringify(data, null, 2),
-      (err) => {
-        if (err) {
-          console.log("err", err);
+  await Promise.all(
+    districts.map(async ([am, en]) => {
+      const response = await getBuildingsByDistrict(am);
+      const data = await response.json();
+      console.log(en, data.length);
+
+      const list = data.map((v) => {
+        const uniqId = `${v.x}-${v.y}`;
+        if (!ids.some((id) => id === uniqId)) {
+          ids.push(uniqId);
         }
-      }
-    );
-  });
+        const id = ids.findIndex((id) => id === uniqId);
+        return {
+          id,
+          ...v,
+        };
+      });
+      return fs.writeFileSync(
+        `src/constants/buildings/${en}.json`,
+        JSON.stringify(list, null, 2)
+      );
+    })
+  );
+  console.log(ids);
+
+  fs.writeFileSync(
+    `src/constants/buildings/ids.json`,
+    JSON.stringify(ids, null, 2)
+  );
 })();
 
 const r = `

@@ -1,5 +1,6 @@
 [
   {
+    "id": 108,
     "district": "Մալաթիա-Սեբաստիա",
     "address": "Բաբաջանյան փող.25/1",
     "constructors": "Լևիկ Աղաբեկյան",
@@ -14,6 +15,7 @@
     "sketch": "/images/construction_sketches/159221762867.jpg"
   },
   {
+    "id": 109,
     "district": "Մալաթիա-Սեբաստիա",
     "address": "Սեբաստիայի փող․ հ․ 3/3",
     "constructors": "ԳԵՎՄԻԿ ՍՊԸ",
@@ -28,6 +30,7 @@
     "sketch": ""
   },
   {
+    "id": 110,
     "district": "Մալաթիա-Սեբաստիա",
     "address": "Սեբաստիա փող․ հ․ 3/3",
     "constructors": "ԳԵՎՄԻԿ ՍՊԸ",
@@ -42,6 +45,7 @@
     "sketch": "/images/construction_sketches/159221767264.jpg"
   },
   {
+    "id": 111,
     "district": "Մալաթիա-Սեբաստիա",
     "address": "Սեբաստիայի փող․ հ․ 3/3",
     "constructors": "ԳԵՎՄԻԿ ՍՊԸ",

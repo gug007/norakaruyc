@@ -1,5 +1,6 @@
 [
   {
+    "id": 7,
     "district": "Քանաքեռ-Զեյթուն",
     "address": "Դավիթ Անհաղթի փող․ հ․ 15/8 և 15/7",
     "constructors": "Հայք-Շիննախագիծ ԲԲԸ",
@@ -14,6 +15,7 @@
     "sketch": ""
   },
   {
+    "id": 8,
     "district": "Քանաքեռ-Զեյթուն",
     "address": "Ազատության պողոտա հ․ 26/9",
     "constructors": "ԵՊՀ շրջանավարտների միավորում ՀԿ",
@@ -28,6 +30,7 @@
     "sketch": "/images/construction_sketches/159221805910.jpg"
   },
   {
+    "id": 9,
     "district": "Քանաքեռ-Զեյթուն",
     "address": "Պ․Սևակի փող․ հ․ 1/7",
     "constructors": "ՀՀ ԳԱԱ Գիտության Զարգացման Հիմնադրամ",
@@ -42,6 +45,7 @@
     "sketch": "/images/construction_sketches/159221816570.jpg"
   },
   {
+    "id": 10,
     "district": "Քանաքեռ-Զեյթուն",
     "address": "Կ․Ուլնեցու փող․ 58/25",
     "constructors": "Գոհար Սաղոյան, Դավիթ Իոսիֆյան",
@@ -56,6 +60,7 @@
     "sketch": "/images/construction_sketches/159221810728.jpg"
   },
   {
+    "id": 11,
     "district": "Քանաքեռ-Զեյթուն",
     "address": "Դավիթ Անհաղթի փողոց հ․14/15 և հ․14/12",
     "constructors": "Գարիկ Գրիգորյան",

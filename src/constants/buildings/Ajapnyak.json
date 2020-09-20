@@ -1,5 +1,6 @@
 [
   {
+    "id": 103,
     "district": "Աջափնյակ",
     "address": "Հալաբյան փող․ հ․ 55/1",
     "constructors": "ԱՐԾԱԹ ՓԲԸ",
@@ -14,6 +15,7 @@
     "sketch": "/images/construction_sketches/ajapnyak/1021.jpg"
   },
   {
+    "id": 104,
     "district": "Աջափնյակ",
     "address": "Գ․Չաուշի փող․ հ․ 24/4",
     "constructors": "ՆՈՐԻԿ-70  ՍՊԸ",
@@ -28,6 +30,7 @@
     "sketch": "/images/construction_sketches/ajapnyak/0606.jpg"
   },
   {
+    "id": 105,
     "district": "Աջափնյակ",
     "address": "Արզումանյան փող․ հ․ 8/1",
     "constructors": "Նոբբի ՍՊԸ",
@@ -42,6 +45,7 @@
     "sketch": "/images/construction_sketches/159160580641.jpg"
   },
   {
+    "id": 106,
     "district": "Աջափնյակ",
     "address": "Աբելյան փող․ հ․ 2/1",
     "constructors": "Ջեթ Սեթ ՍՊԸ",
@@ -56,6 +60,7 @@
     "sketch": "/images/construction_sketches/ajapnyak/0141.jpg"
   },
   {
+    "id": 107,
     "district": "Աջափնյակ",
     "address": "Մ․Մազմանյան փողոց հ․10/6 հողամաս",
     "constructors": "Արամ Դեղոյան",

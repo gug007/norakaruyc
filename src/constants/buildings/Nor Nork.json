@@ -1,5 +1,6 @@
 [
   {
+    "id": 12,
     "district": "Նոր Նորք",
     "address": "Բակունցի 11/11",
     "constructors": "Դռագոն Հաուս ՍՊԸ",
@@ -14,6 +15,7 @@
     "sketch": "/images/construction_sketches/159221781040.jpg"
   },
   {
+    "id": 13,
     "district": "Նոր Նորք",
     "address": "Լվովյան փող․ հ․ 14",
     "constructors": "Ֆոր Դիրեկշնս Սպը",
@@ -28,6 +30,7 @@
     "sketch": "/images/construction_sketches/159221777074.jpg"
   },
   {
+    "id": 14,
     "district": "Նոր Նորք",
     "address": "Գյուրջյան փող․ հ․ 17/2",
     "constructors": "Պրոգրես ՓԲԸ",
@@ -42,6 +45,7 @@
     "sketch": ""
   },
   {
+    "id": 15,
     "district": "Նոր Նորք",
     "address": "Նանսենի փող․ հ․ 26/2",
     "constructors": "Սոլար Սիթի ՓԲԸ",

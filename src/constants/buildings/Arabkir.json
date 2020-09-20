@@ -1,5 +1,6 @@
 [
   {
+    "id": 30,
     "district": "Արաբկիր",
     "address": "Վաղարշյան փողոցի հ.14/1 և Սունդուկյան փողոցի հ.69",
     "constructors": "Փոենի ՍՊԸ",
@@ -14,6 +15,7 @@
     "sketch": "/images/construction_sketches/arabkir/3 Arabkir.jpg"
   },
   {
+    "id": 31,
     "district": "Արաբկիր",
     "address": "Բաղրամյան 1-ին նրբ. 30",
     "constructors": "Կաստոր ՍՊԸ",
@@ -28,6 +30,7 @@
     "sketch": "/images/construction_sketches/159160634974.jpg"
   },
   {
+    "id": 32,
     "district": "Արաբկիր",
     "address": "Արաբկիր 17-րդ փողոցի հ.14",
     "constructors": "ԷՅՉ ԸՆԴ ՎԻ ՔՈՆՍԹՐԱՔՇՆՍ ՍՊԸ",
@@ -42,6 +45,7 @@
     "sketch": "/images/construction_sketches/159160626883.jpg"
   },
   {
+    "id": 33,
     "district": "Արաբկիր",
     "address": "Սոսեի փող․ 11",
     "constructors": "Մասիս Աբնուսյան",
@@ -56,6 +60,7 @@
     "sketch": "/images/construction_sketches/15916063834.jpg"
   },
   {
+    "id": 34,
     "district": "Արաբկիր",
     "address": "Շչորսի /Քեռու/ փողոցի հ.53",
     "constructors": "Միսակ Թեբելեկյան",
@@ -70,6 +75,7 @@
     "sketch": "/images/construction_sketches/159160631146.jpg"
   },
   {
+    "id": 35,
     "district": "Արաբկիր",
     "address": "Մամիկոնյանց փողոցի հ.42/1",
     "constructors": "Մամիկ 41/1 ՍՊԸ",
@@ -84,6 +90,7 @@
     "sketch": "/images/construction_sketches/arabkir/8 Arabkir.jpg"
   },
   {
+    "id": 36,
     "district": "Արաբկիր",
     "address": "Ա․Խաչատրյան փող․ 31/3 , 31/6 , 31/7",
     "constructors": "Վահագն Խեքոյան, Արայիկ Մխիթարյան, Լիլիթ Խլղաթյան, Ալիկ Մխիթարյան",
@@ -98,6 +105,7 @@
     "sketch": "/images/construction_sketches/15916058509.jpg"
   },
   {
+    "id": 37,
     "district": "Արաբկիր",
     "address": "Հյուսիսային Ճառագայթ թաղ․",
     "constructors": "Սաթենիկ Ռոստամին, Դիրուս Ռոստամին, Վերժինեհ Հաթամին, Մասիս Հաթամին",
@@ -112,6 +120,7 @@
     "sketch": ""
   },
   {
+    "id": 38,
     "district": "Արաբկիր",
     "address": "Մալխասյանց փող․ հ․ 12/2",
     "constructors": "Ա․Վ․Ա․Ս․ ՍՊԸ",
@@ -126,6 +135,7 @@
     "sketch": "/images/construction_sketches/arabkir/20 Arabkir.jpg"
   },
   {
+    "id": 39,
     "district": "Արաբկիր",
     "address": "Արաբկիր 39-րդ փող․ հ․ 28/1 հ․ 30 հ․ 30/1 հ․ 30/2",
     "constructors": "Գյուլնարա Մարգարյան և համակառուցապատողներ",
@@ -140,6 +150,7 @@
     "sketch": "/images/construction_sketches/159160617920.jpg"
   },
   {
+    "id": 40,
     "district": "Արաբկիր",
     "address": "Ն․ Զարյան փող․ հ․ 104/1 բն․ տուն",
     "constructors": "Սվետլանա Օհանյան",
@@ -154,6 +165,7 @@
     "sketch": "/images/construction_sketches/arabkir/41 Arabkir.jpg"
   },
   {
+    "id": 41,
     "district": "Արաբկիր",
     "address": "Արաբկիր 33-րդ փող․ հ․ 11",
     "constructors": "Վանանդ Գևորգյան և մյուսներ",
@@ -168,6 +180,7 @@
     "sketch": "/images/construction_sketches/159160623521.jpg"
   },
   {
+    "id": 42,
     "district": "Արաբկիր",
     "address": "Սևքարեցի Սաքոյի փող․ հ․ 19 տուն",
     "constructors": "Ծերուն Հակոբյան և համակառուցապատողներ",
@@ -182,6 +195,7 @@
     "sketch": "/images/construction_sketches/arabkir/58 Arabkir.jpg"
   },
   {
+    "id": 43,
     "district": "Արաբկիր",
     "address": "Հ․Էմինի փող․ հ․ 52",
     "constructors": "Գարիկ Գրիգորյան",
@@ -196,6 +210,7 @@
     "sketch": "/images/construction_sketches/arabkir/60 Arabkir.jpg"
   },
   {
+    "id": 44,
     "district": "Արաբկիր",
     "address": "Գրիբոյեդովի փող․ հ․ 58",
     "constructors": "Օրիենթ Սթոն ՍՊԸ",
@@ -210,6 +225,7 @@
     "sketch": "/images/construction_sketches/arabkir/61 Arabkir.jpg"
   },
   {
+    "id": 45,
     "district": "Արաբկիր",
     "address": "Բաղրամյան պողոտա հ․ 37 և 39",
     "constructors": "Վալենսիա  ՀՁ ՍՊԸ",
@@ -224,6 +240,7 @@
     "sketch": "/images/construction_sketches/159160642683.jpg"
   },
   {
+    "id": 46,
     "district": "Արաբկիր",
     "address": "Արաբկիր 39 փող․ հ․ 25",
     "constructors": "Առլեն Շահվերդի և համակառուցապատողներ",
@@ -238,6 +255,7 @@
     "sketch": "/images/construction_sketches/arabkir/95 Arabkir.jpg"
   },
   {
+    "id": 47,
     "district": "Արաբկիր",
     "address": "Ն․Զարյան փող․ 1-ին նրբ․ հ․ 9",
     "constructors": "Վիգեն Ղահրեմանի",
@@ -252,6 +270,7 @@
     "sketch": ""
   },
   {
+    "id": 48,
     "district": "Արաբկիր",
     "address": "Հ․Էմինի փող․ հ․ 40 տուն",
     "constructors": "Ջոսեֆ Մեհրաբի",
@@ -266,6 +285,7 @@
     "sketch": "/images/construction_sketches/arabkir/98 Arabkir.jpg"
   },
   {
+    "id": 49,
     "district": "Արաբկիր",
     "address": "Բարբյուսի փող․ հ․ 60/1 և 63/1",
     "constructors": "Բարբյուս ՍՊԸ",
@@ -280,6 +300,7 @@
     "sketch": "/images/construction_sketches/arabkir/124 Arabkir.jpg"
   },
   {
+    "id": 50,
     "district": "Արաբկիր",
     "address": "Արաբկիր 29 փող․ 1-ին նրբ․ հ․ 5 տուն",
     "constructors": "ԱՆՏՈՇԵՆ ՍՊԸ",
@@ -294,6 +315,7 @@
     "sketch": "/images/construction_sketches/arabkir/130 Arabkir.jpg"
   },
   {
+    "id": 51,
     "district": "Արաբկիր",
     "address": "Հ․Արղության փող․ հ․ 10/15",
     "constructors": "Արմստրոյ Պրոյեկտ ՍՊԸ",
@@ -308,6 +330,7 @@
     "sketch": "/images/construction_sketches/arabkir/133 Arabkir.jpg"
   },
   {
+    "id": 52,
     "district": "Արաբկիր",
     "address": "39 փող․ հ․ 27 տուն",
     "constructors": "Առլեն Շահվերդի և համակառուցապատողներ, Սուսաննա Միրզոյան, Ռուբեն Գրիգորյան",
@@ -322,6 +345,7 @@
     "sketch": "/images/construction_sketches/arabkir/135 Arabkir.jpg"
   },
   {
+    "id": 53,
     "district": "Արաբկիր",
     "address": "39 փող․ հ․ 25 տուն",
     "constructors": "Առլեն Շահվերդի և համակառուցապատողներ",
@@ -336,6 +360,7 @@
     "sketch": "/images/construction_sketches/arabkir/136 Arabkir.jpg"
   },
   {
+    "id": 54,
     "district": "Արաբկիր",
     "address": "Սևքարեցի Սաքոյի փող․ հ․ 30",
     "constructors": "ՍԻԱՄՍ ՍՊԸ",
@@ -350,6 +375,7 @@
     "sketch": "/images/construction_sketches/arabkir/141 Arabkir.jpg"
   },
   {
+    "id": 55,
     "district": "Արաբկիր",
     "address": "Կոմիտասի Պողոտա հ․ 19/3",
     "constructors": "Արթուր Քերոբյան, Վահան Ավագյան, Կարեն Գասպարյան",
@@ -364,6 +390,7 @@
     "sketch": "/images/construction_sketches/arabkir/142 Arabkir.jpg"
   },
   {
+    "id": 56,
     "district": "Արաբկիր",
     "address": "Ա․Գրիբոյեդովի փող․ հ․ 21/8",
     "constructors": "Հիմք Դիր ՍՊԸ",
@@ -378,6 +405,7 @@
     "sketch": "/images/construction_sketches/arabkir/146 Arabkir.jpg"
   },
   {
+    "id": 57,
     "district": "Արաբկիր",
     "address": "25 փող․ հ․ 17 տուն",
     "constructors": "Արմ Կոնստրակտ ՍՊԸ",
@@ -392,6 +420,7 @@
     "sketch": "/images/construction_sketches/arabkir/154 Arabkir.jpg"
   },
   {
+    "id": 58,
     "district": "Արաբկիր",
     "address": "Արաբկիր 27 փող․ հ․ 9 տուն",
     "constructors": "Դակավա Քոնսթրաքշն ՍՊԸ",
@@ -406,6 +435,7 @@
     "sketch": "/images/construction_sketches/159160569680.jpg"
   },
   {
+    "id": 59,
     "district": "Արաբկիր",
     "address": "Ա․Սերոբի փող․ հ․ 50",
     "constructors": "Արման Ասլանյան, Արմեն Մուրադյան",
@@ -420,6 +450,7 @@
     "sketch": "/images/construction_sketches/159160606213.jpg"
   },
   {
+    "id": 60,
     "district": "Արաբկիր",
     "address": "21-րդ փող․ հ․ 26",
     "constructors": "ԱՎԱ Կոնստրակշն ՍՊԸ",
@@ -434,6 +465,7 @@
     "sketch": "/images/construction_sketches/159170681721.jpg"
   },
   {
+    "id": 61,
     "district": "Արաբկիր",
     "address": "Արղության փող․ հ․ 20/1 տուն",
     "constructors": "Դավիթ Ահարոնյան",
@@ -448,6 +480,7 @@
     "sketch": "/images/construction_sketches/arabkir/174 Arabkir.jpg"
   },
   {
+    "id": 62,
     "district": "Արաբկիր",
     "address": "51 փող․ հ․ 3/1",
     "constructors": "ՎԻՍ ՍՊԸ",
@@ -462,6 +495,7 @@
     "sketch": "/images/construction_sketches/159160645918.jpg"
   },
   {
+    "id": 63,
     "district": "Արաբկիր",
     "address": "Համբարձումյան փողոց հ․ 113",
     "constructors": "Արտքոմփանի ՍՊԸ",
@@ -476,6 +510,7 @@
     "sketch": "/images/construction_sketches/159160595648.jpg"
   },
   {
+    "id": 64,
     "district": "Արաբկիր",
     "address": "35 փող․ հ․ 24 տուն",
     "constructors": "Ժերժ Պետրոսյան և համակառուցապատողներ",
@@ -490,6 +525,7 @@
     "sketch": ""
   },
   {
+    "id": 65,
     "district": "Արաբկիր",
     "address": "23 փող․ հ․ 15 տուն և 17/1 տուն",
     "constructors": "Հիմք Դիր ՍՊԸ",
@@ -504,6 +540,7 @@
     "sketch": "/images/construction_sketches/158945512714.jpg"
   },
   {
+    "id": 66,
     "district": "Արաբկիր",
     "address": "Աղբյուր Սերոբի փող․ հ․ 18",
     "constructors": "Էդուարդ Սուքիասյան, Ագնեսա Մանուկյան",
@@ -518,6 +555,7 @@
     "sketch": "/images/construction_sketches/159826753130.jpg"
   },
   {
+    "id": 67,
     "district": "Արաբկիր",
     "address": "Սևքարեցի սաքոյի փող․ հ․ 20",
     "constructors": "Հարմիկ Զովելյան, Արթուր Ջաղասբանյան, Նարեկ Շահնազարյան",
@@ -532,6 +570,7 @@
     "sketch": ""
   },
   {
+    "id": 68,
     "district": "Արաբկիր",
     "address": "Գ․Սունդուկյան փող․ հ․ 22 տուն",
     "constructors": "Անաիդա Օդաբաշյան",
@@ -546,6 +585,7 @@
     "sketch": "/images/construction_sketches/159437941323.jpg"
   },
   {
+    "id": 69,
     "district": "Արաբկիր",
     "address": "21-րդ փող․ հ․ 2 և 28/1  տուն",
     "constructors": "2020 ԿՈՆՍՏՐՈԻԿՑԻՈՆ ՍՊԸ",
