@@ -35,7 +35,7 @@
     "use-http": "^1.0.13"
   },
   "scripts": {
-    "start": "nodemon server & react-scripts start",
+    "start": "react-scripts start",
     "data": "nodemon server",
     "build": "react-scripts build",
     "test": "react-scripts test",

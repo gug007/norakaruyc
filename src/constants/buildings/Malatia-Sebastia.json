@@ -1,0 +1,58 @@
+[
+  {
+    "district": "Մալաթիա-Սեբաստիա",
+    "address": "Բաբաջանյան փող.25/1",
+    "constructors": "Լևիկ Աղաբեկյան",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Ժամանակավորապես դադարեցված",
+    "x": 44.43701615,
+    "y": 40.17154009,
+    "permit_number": "01/18-Ա-7341-331",
+    "permit_start_dt": "08-04-2014",
+    "permit_end_dt": "08-09-2017",
+    "sketch": "/images/construction_sketches/159221762867.jpg"
+  },
+  {
+    "district": "Մալաթիա-Սեբաստիա",
+    "address": "Սեբաստիայի փող․ հ․ 3/3",
+    "constructors": "ԳԵՎՄԻԿ ՍՊԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.46247392,
+    "y": 40.18896551,
+    "permit_number": "01/18-23555-23",
+    "permit_start_dt": "12-04-2019",
+    "permit_end_dt": "10-07-2019",
+    "sketch": ""
+  },
+  {
+    "district": "Մալաթիա-Սեբաստիա",
+    "address": "Սեբաստիա փող․ հ․ 3/3",
+    "constructors": "ԳԵՎՄԻԿ ՍՊԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Ընթացքում գտնվող",
+    "x": 44.46185682,
+    "y": 40.18878397,
+    "permit_number": "01/18-Օ-301-790",
+    "permit_start_dt": "01-07-2020",
+    "permit_end_dt": "01-02-2022",
+    "sketch": "/images/construction_sketches/159221767264.jpg"
+  },
+  {
+    "district": "Մալաթիա-Սեբաստիա",
+    "address": "Սեբաստիայի փող․ հ․ 3/3",
+    "constructors": "ԳԵՎՄԻԿ ՍՊԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Ընթացքում գտնվող",
+    "x": 44.46172661,
+    "y": 40.18854695,
+    "permit_number": "01/18-Օ-302-789",
+    "permit_start_dt": "01-07-2020",
+    "permit_end_dt": "01-06-2022",
+    "sketch": ""
+  }
+]
