@@ -50,13 +50,7 @@ function Buildings() {
       }
       traceId={"load-burrito-status"}
     >
-      <Header
-        district={value}
-        buildings={data}
-        status={status}
-        onChangeStatus={setStatus}
-        onChangeDistrict={setValue}
-      />
+      <Header />
       <Divider />
       <Box
         p={10}
@@ -74,7 +68,14 @@ function Buildings() {
         <Container>loading...</Container>
       ) : (
         <>
-          <Nav view={view} />
+          <Nav
+            view={view}
+            district={value}
+            buildings={data}
+            status={status}
+            onChangeStatus={setStatus}
+            onChangeDistrict={setValue}
+          />
           {view === LIST ? (
             <Container>
               <List buildings={buildings} />

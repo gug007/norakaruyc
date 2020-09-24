@@ -1,4 +1,4 @@
-import React, { useCallback } from "react";
+import React, { useCallback, useMemo } from "react";
 import { useHistory } from "react-router-dom";
 import qs from "query-string";
 import Container from "@material-ui/core/Container";
@@ -9,12 +9,29 @@ import PlaceOutlinedIcon from "@material-ui/icons/PlaceOutlined";
 import ToggleButton from "@material-ui/lab/ToggleButton";
 import ToggleButtonGroup from "@material-ui/lab/ToggleButtonGroup";
 
+import Filter from "./Filter";
+import { useTranslation } from "react-i18next";
+import districts from "../../constants/districts";
+
 export const GRID = "grid";
 export const LIST = "list";
 export const MAP = "map";
 
-function Nav({ view }) {
+function Nav({
+  view,
+  district,
+  buildings,
+  status,
+  onChangeStatus,
+  onChangeDistrict,
+}) {
   const history = useHistory();
+  const { i18n } = useTranslation();
+
+  const options = useMemo(
+    () => districts.map((d) => [d.name_en, d[`name_${i18n.language}`]]),
+    [i18n.language]
+  );
 
   const handleChangeView = useCallback(
     (event, value) => {
@@ -29,10 +46,20 @@ function Nav({ view }) {
       height={70}
       display="flex"
       alignItems="center"
-      justifyContent="flex-end"
+      justifyContent="space-between"
       clone
     >
       <Container>
+        <Box display="flex">
+          <Filter
+            district={district}
+            districts={options}
+            buildings={buildings}
+            status={status}
+            onChangeDistrict={onChangeDistrict}
+            onChangeStatus={onChangeStatus}
+          />
+        </Box>
         <Box display="flex">
           <ToggleButtonGroup value={view} exclusive onChange={handleChangeView}>
             <ToggleButton value={GRID} classes={{}}>

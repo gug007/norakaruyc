@@ -21,44 +21,47 @@ function GridComponent({ buildings, displayDistrict = false }) {
       {buildings.map((building, i) => {
         return (
           <Grid key={i} item xs={12} sm={6} md={4}>
-            <Box component={Paper} p={2} boxSizing="border-box" height="100%">
-              <Typography variant="h3">{building.address}</Typography>
-              <Box mr={1.5} />
-              {displayDistrict && (
+            <Box component={Paper} boxSizing="border-box" height="100%">
+              <Box height={300} bgcolor="#f1f1f1" />
+              <Box p={2}>
+                <Typography variant="h3">{building.address}</Typography>
+                <Box mr={1.5} />
+                {displayDistrict && (
+                  <Box mt={1.5} display="flex">
+                    <Tooltip title={t("district")}>
+                      <MapOutlinedIcon />
+                    </Tooltip>
+                    <Box mr={1} />
+                    <Typography>{building.district}</Typography>
+                  </Box>
+                )}
                 <Box mt={1.5} display="flex">
-                  <Tooltip title={t("district")}>
-                    <MapOutlinedIcon />
+                  <Tooltip title={t("developer")}>
+                    <ApartmentOutlinedIcon color="action" />
                   </Tooltip>
                   <Box mr={1} />
-                  <Typography>{building.district}</Typography>
+                  <Typography>{building.developer}</Typography>
                 </Box>
-              )}
-              <Box mt={1.5} display="flex">
-                <Tooltip title={t("developer")}>
-                  <ApartmentOutlinedIcon color="action" />
-                </Tooltip>
-                <Box mr={1} />
-                <Typography>{building.developer}</Typography>
-              </Box>
-              <Box mt={1.5} display="flex">
-                <Tooltip title={t("status")}>
-                  <BlurOnOutlinedIcon color="action" />
-                </Tooltip>
-                <Box mr={1} />
-                <Typography>{t(`statuses.${building.status}`)}</Typography>
-              </Box>
-              <Box mt={1.5} display="flex">
-                <Tooltip title={t("startDate")}>
-                  <QueryBuilderOutlinedIcon color="action" />
-                </Tooltip>
-                <Box mr={1} />
-                <Typography>{formatDate(building.startDate)}</Typography>
-                <Box mr={1} />
-                <Tooltip title={t("endDate")}>
-                  <CheckCircleOutlineOutlinedIcon color="action" />
-                </Tooltip>
-                <Box mr={1} />
-                <Typography>{formatDate(building.endDate)}</Typography>
+                <Box mt={1.5} display="flex">
+                  <Tooltip title={t("status")}>
+                    <BlurOnOutlinedIcon color="action" />
+                  </Tooltip>
+                  <Box mr={1} />
+                  <Typography>{t(`statuses.${building.status}`)}</Typography>
+                </Box>
+                <Box mt={1.5} display="flex">
+                  <Tooltip title={t("startDate")}>
+                    <QueryBuilderOutlinedIcon color="action" />
+                  </Tooltip>
+                  <Box mr={1} />
+                  <Typography>{formatDate(building.startDate)}</Typography>
+                  <Box mr={1} />
+                  <Tooltip title={t("endDate")}>
+                    <CheckCircleOutlineOutlinedIcon color="action" />
+                  </Tooltip>
+                  <Box mr={1} />
+                  <Typography>{formatDate(building.endDate)}</Typography>
+                </Box>
               </Box>
             </Box>
           </Grid>
