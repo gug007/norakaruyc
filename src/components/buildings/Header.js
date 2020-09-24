@@ -1,5 +1,5 @@
 import React, { useMemo } from "react";
-import { useFirestore, useFirestoreCollectionData } from "reactfire";
+import { useTranslation } from "react-i18next";
 import FormControl from "@material-ui/core/FormControl";
 import InputLabel from "@material-ui/core/InputLabel";
 import Select from "@material-ui/core/Select";
@@ -8,15 +8,14 @@ import Container from "@material-ui/core/Container";
 import Box from "@material-ui/core/Box";
 
 import Language from "./language/Language";
-import { useTranslation } from "react-i18next";
+import districts from "../../constants/districts";
 
 function Header({ district, onChangeDistrict }) {
   const { i18n } = useTranslation();
-  const districtsRef = useFirestore().collection("districts");
-  const districts = useFirestoreCollectionData(districtsRef);
+
   const options = useMemo(
     () => districts.map((d) => [d.name_en, d[`name_${i18n.language}`]]),
-    [districts, i18n.language]
+    [i18n.language]
   );
 
   return (

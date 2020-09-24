@@ -2,11 +2,13 @@ import React, { useMemo, useState } from "react";
 import { SuspenseWithPerf } from "reactfire";
 import qs from "query-string";
 import { useLocation } from "react-router-dom";
+import { useTranslation } from "react-i18next";
 import Container from "@material-ui/core/Container";
 import Divider from "@material-ui/core/Divider";
 import Box from "@material-ui/core/Box";
+import CircularProgress from "@material-ui/core/CircularProgress";
 import Typography from "@material-ui/core/Typography";
-import districts from "../../constants/districts";
+
 import useStatus from "../../hooks/useStatus";
 import Grid from "./Grid";
 import List from "./List";
@@ -14,7 +16,7 @@ import Map from "./Map";
 import Header from "./Header";
 import Nav, { GRID, LIST } from "./Nav";
 import allBuildings from "../../constants/buildings";
-import { useTranslation } from "react-i18next";
+import { getBuildings } from "../../utils/buildings";
 
 function Buildings() {
   const { t } = useTranslation();
@@ -30,27 +32,24 @@ function Buildings() {
     const list = status.length
       ? data.filter((v) => status.includes(v.status))
       : data;
-    return list.map((building) => ({
-      ...building,
-      district: building.district,
-      address: building.address,
-      developer: building.constructors,
-      status: building.status,
-      startDate: building.permit_start_dt,
-      endDate: building.permit_end_dt,
-    }));
+    return getBuildings(list);
   }, [data, status]);
 
   return (
     <SuspenseWithPerf
-      fallback={<p>loading burrito status...</p>}
+      fallback={
+        <Box
+          display="flex"
+          alignItems="center"
+          justifyContent="center"
+          height="100vh"
+        >
+          <CircularProgress />
+        </Box>
+      }
       traceId={"load-burrito-status"}
     >
-      <Header
-        district={value}
-        onChangeDistrict={setValue}
-        districts={districts}
-      />
+      <Header district={value} onChangeDistrict={setValue} />
       <Divider />
       <Box
         p={10}
