@@ -1,16 +1,19 @@
 import React, { useMemo } from "react";
 import { useTranslation } from "react-i18next";
-import FormControl from "@material-ui/core/FormControl";
-import InputLabel from "@material-ui/core/InputLabel";
-import Select from "@material-ui/core/Select";
-import MenuItem from "@material-ui/core/MenuItem";
 import Container from "@material-ui/core/Container";
 import Box from "@material-ui/core/Box";
 
 import Language from "./language/Language";
 import districts from "../../constants/districts";
+import Filter from "./Filter";
 
-function Header({ district, onChangeDistrict }) {
+function Header({
+  district,
+  buildings,
+  status,
+  onChangeStatus,
+  onChangeDistrict,
+}) {
   const { i18n } = useTranslation();
 
   const options = useMemo(
@@ -27,19 +30,14 @@ function Header({ district, onChangeDistrict }) {
       clone
     >
       <Container>
-        <FormControl variant="outlined">
-          <InputLabel>Select district</InputLabel>
-          <Select
-            value={district}
-            onChange={(v) => onChangeDistrict(v.target.value)}
-          >
-            {options.map(([key, val]) => (
-              <MenuItem key={key} value={key}>
-                {val}
-              </MenuItem>
-            ))}
-          </Select>
-        </FormControl>
+        <Filter
+          district={district}
+          districts={options}
+          buildings={buildings}
+          status={status}
+          onChangeDistrict={onChangeDistrict}
+          onChangeStatus={onChangeStatus}
+        />
         <Box>
           <Language />
         </Box>

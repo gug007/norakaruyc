@@ -8,13 +8,12 @@ import ReorderSharpIcon from "@material-ui/icons/ReorderSharp";
 import PlaceOutlinedIcon from "@material-ui/icons/PlaceOutlined";
 import ToggleButton from "@material-ui/lab/ToggleButton";
 import ToggleButtonGroup from "@material-ui/lab/ToggleButtonGroup";
-import Filter from "./Filter";
 
 export const GRID = "grid";
 export const LIST = "list";
 export const MAP = "map";
 
-function Nav({ buildings, view, status, onChangeStatus }) {
+function Nav({ view }) {
   const history = useHistory();
 
   const handleChangeView = useCallback(
@@ -30,17 +29,10 @@ function Nav({ buildings, view, status, onChangeStatus }) {
       height={70}
       display="flex"
       alignItems="center"
-      justifyContent="space-between"
+      justifyContent="flex-end"
       clone
     >
       <Container>
-        <Box display="flex">
-          <Filter
-            buildings={buildings}
-            status={status}
-            onChangeStatus={onChangeStatus}
-          />
-        </Box>
         <Box display="flex">
           <ToggleButtonGroup value={view} exclusive onChange={handleChangeView}>
             <ToggleButton value={GRID} classes={{}}>

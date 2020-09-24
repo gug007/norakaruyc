@@ -1,4 +1,4 @@
-import React, { useMemo, useState } from "react";
+import React, { useMemo } from "react";
 import { SuspenseWithPerf } from "reactfire";
 import qs from "query-string";
 import { useLocation } from "react-router-dom";
@@ -9,7 +9,7 @@ import Box from "@material-ui/core/Box";
 import CircularProgress from "@material-ui/core/CircularProgress";
 import Typography from "@material-ui/core/Typography";
 
-import useStatus from "../../hooks/useStatus";
+import useList from "../../hooks/useList";
 import Grid from "./Grid";
 import List from "./List";
 import Map from "./Map";
@@ -20,13 +20,14 @@ import { getBuildings } from "../../utils/buildings";
 
 function Buildings() {
   const { t } = useTranslation();
-  const [value, setValue] = useState("Kentron");
-  const [status, setStatus] = useStatus();
+  const [value, setValue] = useList(["Kentron"]);
+  const [status, setStatus] = useList();
+
   const location = useLocation();
   const view = qs.parse(location.search).view || GRID;
 
   const loading = false;
-  const data = allBuildings[value];
+  const data = value.flatMap((key) => allBuildings[key]);
 
   const buildings = useMemo(() => {
     const list = status.length
@@ -49,7 +50,13 @@ function Buildings() {
       }
       traceId={"load-burrito-status"}
     >
-      <Header district={value} onChangeDistrict={setValue} />
+      <Header
+        district={value}
+        buildings={data}
+        status={status}
+        onChangeStatus={setStatus}
+        onChangeDistrict={setValue}
+      />
       <Divider />
       <Box
         p={10}
@@ -67,12 +74,7 @@ function Buildings() {
         <Container>loading...</Container>
       ) : (
         <>
-          <Nav
-            buildings={data}
-            view={view}
-            status={status}
-            onChangeStatus={setStatus}
-          />
+          <Nav view={view} />
           {view === LIST ? (
             <Container>
               <List buildings={buildings} />

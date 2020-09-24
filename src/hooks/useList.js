@@ -1,7 +1,7 @@
 import { useCallback, useState } from "react";
 
-const useStatus = () => {
-  const [status, setStatus] = useState([]);
+const useStatus = (list = []) => {
+  const [status, setStatus] = useState(list);
 
   const handleChangeStatus = useCallback(
     (value) => {

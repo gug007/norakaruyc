@@ -14,7 +14,14 @@ const groupBuildingsBy = (buildings, filter) => {
   return Object.entries(statuses);
 };
 
-function Filter({ buildings, status, onChangeStatus }) {
+function Filter({
+  district,
+  status,
+  buildings,
+  districts,
+  onChangeStatus,
+  onChangeDistrict,
+}) {
   const { t } = useTranslation();
   const options = useMemo(
     () =>
@@ -34,16 +41,25 @@ function Filter({ buildings, status, onChangeStatus }) {
           </IconButton>
           <Popover
             {...bindPopover(popupState)}
-            anchorOrigin={{
-              vertical: "bottom",
-              horizontal: "right",
-            }}
-            transformOrigin={{
-              vertical: "top",
-              horizontal: "center",
-            }}
+            anchorOrigin={{ vertical: "bottom", horizontal: "right" }}
+            transformOrigin={{ vertical: "top", horizontal: "center" }}
           >
             <Box p={2} maxWidth={800}>
+              <Typography variant="h4">{t("district")}</Typography>
+              <Box py={2} m={-0.5} display="flex" flexWrap="wrap">
+                {districts.map(([key, val]) => (
+                  <Box key={key} m={0.5}>
+                    <Button
+                      variant={
+                        district.includes(key) ? "contained" : "outlined"
+                      }
+                      onClick={() => onChangeDistrict(key)}
+                    >
+                      {val}
+                    </Button>
+                  </Box>
+                ))}
+              </Box>
               <Typography variant="h4">{t("status")}</Typography>
               <Box pt={2} m={-0.5} display="flex" flexWrap="wrap">
                 {options.map(([key, val]) => (
