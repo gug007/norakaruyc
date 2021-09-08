@@ -29,11 +29,9 @@ function GridComponent({ buildings, displayDistrict = false }) {
                 height={400}
                 bgcolor="#f1f1f1"
               >
-                {building.sketch && (
+                {building.image && (
                   <Box maxWidth="100%" maxHeight="100%" clone>
-                    <img
-                      src={`http://qhvv.yerevan.am:8080${building.sketch}`}
-                    />
+                    <img src={building.image} alt="" />
                   </Box>
                 )}
               </Box>

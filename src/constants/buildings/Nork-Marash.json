@@ -1,6 +1,7 @@
 [
   {
     "id": 113,
+    "image": "/images/Nork-Marash/113.jpg",
     "construction_id": 118,
     "district": "Նորք-Մարաշ",
     "address": "Արմենակյան փողոցի հ.125/4, հ.125 շենքի հ.հ.5,9,18, ավտոտնակներ և հ.125 շենքի հ.19 շինություն ու հ.20 արվեստանոց",
@@ -65,6 +66,7 @@
   },
   {
     "id": 115,
+    "image": "/images/Nork-Marash/115.jpg",
     "construction_id": 6304,
     "district": "Նորք-Մարաշ",
     "address": "Նորքի 11 փող․ հ․ 27/6",
@@ -81,6 +83,7 @@
   },
   {
     "id": 116,
+    "image": "/images/Nork-Marash/116.jpg",
     "construction_id": 6670,
     "district": "Նորք-Մարաշ",
     "address": "Գ․Հովսեփյան փող․ հ․ 2",
@@ -97,6 +100,7 @@
   },
   {
     "id": 117,
+    "image": "/images/Nork-Marash/117.jpg",
     "construction_id": 6985,
     "district": "Նորք-Մարաշ",
     "address": "Գ․Հովսեփյան փող․ հ․ 20/6",

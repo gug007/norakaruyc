@@ -1,6 +1,7 @@
 [
   {
     "id": 0,
+    "image": "/images/Avan/0.jpg",
     "construction_id": 1905,
     "district": "Ավան",
     "address": "Չարենցի թաղամաս հ․ 17/7",
@@ -17,6 +18,7 @@
   },
   {
     "id": 1,
+    "image": "/images/Avan/1.jpg",
     "construction_id": 4469,
     "district": "Ավան",
     "address": "Մ․Բաբաջանյան փող․ 70/7 և 72",
@@ -33,6 +35,7 @@
   },
   {
     "id": 2,
+    "image": "/images/Avan/2.jpg",
     "construction_id": 4897,
     "district": "Ավան",
     "address": "Աճառյան փող․ հ․ 37/24 (37/34)",
@@ -49,6 +52,7 @@
   },
   {
     "id": 124,
+    "image": "/images/Avan/124.jpg",
     "construction_id": 7016,
     "district": "Ավան",
     "address": "4-րդ փող․ հ․ 13/2",

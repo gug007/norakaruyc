@@ -17,6 +17,7 @@
   },
   {
     "id": 128,
+    "image": "/images/Kanaker-Zeytun/128.jpg",
     "construction_id": 4728,
     "district": "Քանաքեռ-Զեյթուն",
     "address": "Պ․Սևակի փող․ հ․ 1/7",
@@ -33,6 +34,7 @@
   },
   {
     "id": 129,
+    "image": "/images/Kanaker-Zeytun/129.jpg",
     "construction_id": 5909,
     "district": "Քանաքեռ-Զեյթուն",
     "address": "Ն․Գոգոլի փող․ հ․ 24/23",
@@ -65,6 +67,7 @@
   },
   {
     "id": 10,
+    "image": "/images/Kanaker-Zeytun/10.jpg",
     "construction_id": 6403,
     "district": "Քանաքեռ-Զեյթուն",
     "address": "Կ․Ուլնեցու փող․ 58/25",
@@ -81,6 +84,7 @@
   },
   {
     "id": 131,
+    "image": "/images/Kanaker-Zeytun/131.jpg",
     "construction_id": 6408,
     "district": "Քանաքեռ-Զեյթուն",
     "address": "Դավիթ Անհաղթի փողոց հ․14/15 և հ․14/12",
@@ -97,6 +101,7 @@
   },
   {
     "id": 132,
+    "image": "/images/Kanaker-Zeytun/132.jpg",
     "construction_id": 7045,
     "district": "Քանաքեռ-Զեյթուն",
     "address": "Ն․Գոգոլի փող․ հ․ 12 և 14 տներ",
@@ -129,6 +134,7 @@
   },
   {
     "id": 134,
+    "image": "/images/Kanaker-Zeytun/134.jpg",
     "construction_id": 7732,
     "district": "Քանաքեռ-Զեյթուն",
     "address": "Ա․Չոլաքյան փող․ հ․ 13/4",

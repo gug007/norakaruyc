@@ -1,8 +1,10 @@
 const fs = require("fs");
+const request = require("request");
 const fetch = require("isomorphic-fetch");
 const ids = require("./src/constants/buildings/ids.json");
 
 const API = "https://www.yerevan.am/permit";
+const IMAGE_URL = "http://qhvv.yerevan.am:8080";
 
 const districts = [
   ["Աջափնյակ", "Ajapnyak"],
@@ -18,6 +20,30 @@ const districts = [
   ["Նուբարաշեն", "Nubarashen"],
   ["Շենգավիթ", "Shengavit"],
 ];
+
+async function download(url, dest) {
+  /* Create an empty file where we can save data */
+  const file = fs.createWriteStream(dest);
+
+  /* Using Promises so that we can use the ASYNC AWAIT syntax */
+  await new Promise((resolve, reject) => {
+    request({
+      /* Here you should specify the exact link to the file you are trying to download */
+      uri: url,
+      gzip: true,
+    })
+      .pipe(file)
+      .on("finish", async () => {
+        console.log(`The file is finished downloading.`);
+        resolve();
+      })
+      .on("error", (error) => {
+        reject(error);
+      });
+  }).catch((error) => {
+    console.log(`Something happened: ${error}`);
+  });
+}
 
 const getBuildingsByDistrict = (district) => {
   const body = {
@@ -49,9 +75,21 @@ const getBuildingsByDistrict = (district) => {
         if (!ids.some((id) => id === uniqId)) {
           ids.push(uniqId);
         }
+
         const id = ids.findIndex((id) => id === uniqId);
+
+        if (v.sketch) {
+          const dir = `./public/images/${en}/`;
+          if (!fs.existsSync(dir)) {
+            fs.mkdirSync(dir);
+          }
+
+          download(`${IMAGE_URL}${v.sketch}`, `${dir}/${id}.jpg`);
+        }
+
         return {
           id,
+          image: v.sketch ? `/images/${en}/${id}.jpg` : undefined,
           ...v,
         };
       });

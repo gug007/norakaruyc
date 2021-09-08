@@ -1,6 +1,7 @@
 [
   {
     "id": 237,
+    "image": "/images/Ajapnyak/237.jpg",
     "construction_id": 2004,
     "district": "Աջափնյակ",
     "address": "Հալաբյան փող․ հ․ 55/1",
@@ -49,6 +50,7 @@
   },
   {
     "id": 240,
+    "image": "/images/Ajapnyak/240.jpg",
     "construction_id": 4775,
     "district": "Աջափնյակ",
     "address": "Արզումանյան փող․ հ․ 8/1",
@@ -65,6 +67,7 @@
   },
   {
     "id": 241,
+    "image": "/images/Ajapnyak/241.jpg",
     "construction_id": 4916,
     "district": "Աջափնյակ",
     "address": "Աբելյան փող․ հ․ 2/1",
@@ -97,6 +100,7 @@
   },
   {
     "id": 243,
+    "image": "/images/Ajapnyak/243.jpg",
     "construction_id": 7463,
     "district": "Աջափնյակ",
     "address": "Մ․Մազմանյան փողոց հ․10/6 հողամաս",

@@ -1,6 +1,7 @@
 [
   {
     "id": 206,
+    "image": "/images/Shengavit/206.jpg",
     "construction_id": 96,
     "district": "Շենգավիթ",
     "address": "Արարատյան փող. 83/6",
@@ -17,6 +18,7 @@
   },
   {
     "id": 207,
+    "image": "/images/Shengavit/207.jpg",
     "construction_id": 4470,
     "district": "Շենգավիթ",
     "address": "Հ․Հովսեփյան փող․ հ․ 31 և 31/2 , 12/3",
@@ -49,6 +51,7 @@
   },
   {
     "id": 209,
+    "image": "/images/Shengavit/209.jpg",
     "construction_id": 8037,
     "district": "Շենգավիթ",
     "address": "Եղբայրության փող․ 1-ին նրբ․ հ․ 2 տուն",

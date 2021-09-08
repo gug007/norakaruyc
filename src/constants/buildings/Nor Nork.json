@@ -1,6 +1,7 @@
 [
   {
     "id": 210,
+    "image": "/images/Nor Nork/210.jpg",
     "construction_id": 594,
     "district": "Նոր Նորք",
     "address": "Բակունցի 11/11",
@@ -17,6 +18,7 @@
   },
   {
     "id": 211,
+    "image": "/images/Nor Nork/211.jpg",
     "construction_id": 1986,
     "district": "Նոր Նորք",
     "address": "Լվովյան փող․ հ․ 14",
@@ -65,6 +67,7 @@
   },
   {
     "id": 214,
+    "image": "/images/Nor Nork/214.jpg",
     "construction_id": 6558,
     "district": "Նոր Նորք",
     "address": "Լվովյան փող․ հ․ 22",
@@ -97,6 +100,7 @@
   },
   {
     "id": 216,
+    "image": "/images/Nor Nork/216.jpg",
     "construction_id": 7673,
     "district": "Նոր Նորք",
     "address": "Լվովյան փող․ հ․ 32/2",
@@ -129,6 +133,7 @@
   },
   {
     "id": 218,
+    "image": "/images/Nor Nork/218.jpg",
     "construction_id": 8192,
     "district": "Նոր Նորք",
     "address": "Լվովյան փողոցի հ. 5/4 և 5/6",
@@ -145,6 +150,7 @@
   },
   {
     "id": 219,
+    "image": "/images/Nor Nork/219.jpg",
     "construction_id": 8324,
     "district": "Նոր Նորք",
     "address": "Լվովյան փողոցի հ. 28",
@@ -161,6 +167,7 @@
   },
   {
     "id": 220,
+    "image": "/images/Nor Nork/220.jpg",
     "construction_id": 8328,
     "district": "Նոր Նորք",
     "address": "Լվովյան փողոցի հ. 7/9",

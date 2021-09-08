@@ -1,6 +1,7 @@
 [
   {
     "id": 152,
+    "image": "/images/Arabkir/152.jpg",
     "construction_id": 193,
     "district": "Արաբկիր",
     "address": "Բաղրամյան 1-ին նրբ. 30, Լեռ Կամսար փողոցի հ. 30/4 և հ. 30/6",
@@ -17,6 +18,7 @@
   },
   {
     "id": 153,
+    "image": "/images/Arabkir/153.jpg",
     "construction_id": 198,
     "district": "Արաբկիր",
     "address": "Արաբկիր 17-րդ փողոցի հ.14",
@@ -33,6 +35,7 @@
   },
   {
     "id": 154,
+    "image": "/images/Arabkir/154.jpg",
     "construction_id": 354,
     "district": "Արաբկիր",
     "address": "Սոսեի փող․ 11",
@@ -49,6 +52,7 @@
   },
   {
     "id": 155,
+    "image": "/images/Arabkir/155.jpg",
     "construction_id": 442,
     "district": "Արաբկիր",
     "address": "Շչորսի /Քեռու/ փողոցի հ.53",
@@ -65,6 +69,7 @@
   },
   {
     "id": 156,
+    "image": "/images/Arabkir/156.jpg",
     "construction_id": 481,
     "district": "Արաբկիր",
     "address": "Մամիկոնյանց փողոցի հ.42/1",
@@ -97,6 +102,7 @@
   },
   {
     "id": 157,
+    "image": "/images/Arabkir/157.jpg",
     "construction_id": 1447,
     "district": "Արաբկիր",
     "address": "Մալխասյանց փող․ հ․ 12/2",
@@ -113,6 +119,7 @@
   },
   {
     "id": 158,
+    "image": "/images/Arabkir/158.jpg",
     "construction_id": 3070,
     "district": "Արաբկիր",
     "address": "Ն․ Զարյան փող․ հ․ 104/1 բն․ տուն",
@@ -129,6 +136,7 @@
   },
   {
     "id": 41,
+    "image": "/images/Arabkir/41.jpg",
     "construction_id": 3479,
     "district": "Արաբկիր",
     "address": "Արաբկիր 33-րդ փող․ հ․ 11",
@@ -145,6 +153,7 @@
   },
   {
     "id": 159,
+    "image": "/images/Arabkir/159.jpg",
     "construction_id": 3982,
     "district": "Արաբկիր",
     "address": "Սևքարեցի Սաքոյի փող․ հ․ 19 տուն",
@@ -161,6 +170,7 @@
   },
   {
     "id": 160,
+    "image": "/images/Arabkir/160.jpg",
     "construction_id": 4768,
     "district": "Արաբկիր",
     "address": "Արաբկիր փող․ հ․ 51/9 և 51 փող․ հ․ 12/2 տուն",
@@ -177,6 +187,7 @@
   },
   {
     "id": 161,
+    "image": "/images/Arabkir/161.jpg",
     "construction_id": 4779,
     "district": "Արաբկիր",
     "address": "Բաղրամյան պողոտա հ․ 37 և 39",
@@ -193,6 +204,7 @@
   },
   {
     "id": 46,
+    "image": "/images/Arabkir/46.jpg",
     "construction_id": 4842,
     "district": "Արաբկիր",
     "address": "Արաբկիր 39 փող․ հ․ 25",
@@ -215,7 +227,7 @@
     "constructors": "Վիգեն Ղահրեմանի",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
-    "status": "Ընթացքում գտնվող",
+    "status": "Ժամանակավորապես դադարեցված",
     "x": 44.5080343,
     "y": 40.2059555,
     "permit_number": "01/18-Ղ-1724-701",
@@ -225,6 +237,7 @@
   },
   {
     "id": 162,
+    "image": "/images/Arabkir/162.jpg",
     "construction_id": 5349,
     "district": "Արաբկիր",
     "address": "Բարբյուսի փող․ հ․ 60/1 և 63/1",
@@ -241,6 +254,7 @@
   },
   {
     "id": 163,
+    "image": "/images/Arabkir/163.jpg",
     "construction_id": 5451,
     "district": "Արաբկիր",
     "address": "Արաբկիր 29 փող․ 1-ին նրբ․ հ․ 5 տուն",
@@ -257,6 +271,7 @@
   },
   {
     "id": 164,
+    "image": "/images/Arabkir/164.jpg",
     "construction_id": 5493,
     "district": "Արաբկիր",
     "address": "Հ․Արղության փող․ հ․ 10/15",
@@ -273,6 +288,7 @@
   },
   {
     "id": 165,
+    "image": "/images/Arabkir/165.jpg",
     "construction_id": 5558,
     "district": "Արաբկիր",
     "address": "39 փող․ հ․ 27 տուն",
@@ -289,6 +305,7 @@
   },
   {
     "id": 166,
+    "image": "/images/Arabkir/166.jpg",
     "construction_id": 5578,
     "district": "Արաբկիր",
     "address": "39 փող․ հ․ 25 տուն",
@@ -305,6 +322,7 @@
   },
   {
     "id": 167,
+    "image": "/images/Arabkir/167.jpg",
     "construction_id": 5622,
     "district": "Արաբկիր",
     "address": "Կոմիտասի պողոտա հ․ 19/3",
@@ -321,6 +339,7 @@
   },
   {
     "id": 168,
+    "image": "/images/Arabkir/168.jpg",
     "construction_id": 5759,
     "district": "Արաբկիր",
     "address": "Ա․Գրիբոյեդովի փող․ հ․ 21/8",
@@ -337,6 +356,7 @@
   },
   {
     "id": 169,
+    "image": "/images/Arabkir/169.jpg",
     "construction_id": 5914,
     "district": "Արաբկիր",
     "address": "Արաբկիր 25 փողոցի հ․ 17 տուն",
@@ -353,6 +373,7 @@
   },
   {
     "id": 170,
+    "image": "/images/Arabkir/170.jpg",
     "construction_id": 5939,
     "district": "Արաբկիր",
     "address": "Արաբկիր 27 փող․ հ․ 9 տուն",
@@ -369,6 +390,7 @@
   },
   {
     "id": 171,
+    "image": "/images/Arabkir/171.jpg",
     "construction_id": 6017,
     "district": "Արաբկիր",
     "address": "Ա․Սերոբի փող․ հ․ 50",
@@ -385,6 +407,7 @@
   },
   {
     "id": 172,
+    "image": "/images/Arabkir/172.jpg",
     "construction_id": 6088,
     "district": "Արաբկիր",
     "address": "21-րդ փող․ հ․ 26",
@@ -401,6 +424,7 @@
   },
   {
     "id": 173,
+    "image": "/images/Arabkir/173.jpg",
     "construction_id": 6177,
     "district": "Արաբկիր",
     "address": "Արղության փող․ հ․ 20/1 տուն",
@@ -417,6 +441,7 @@
   },
   {
     "id": 174,
+    "image": "/images/Arabkir/174.jpg",
     "construction_id": 6270,
     "district": "Արաբկիր",
     "address": "Արաբկիր 51-րդ փողոց հ․ 3/1",
@@ -433,6 +458,7 @@
   },
   {
     "id": 175,
+    "image": "/images/Arabkir/175.jpg",
     "construction_id": 6442,
     "district": "Արաբկիր",
     "address": "Համբարձումյան փողոց հ․ 113",
@@ -481,6 +507,7 @@
   },
   {
     "id": 178,
+    "image": "/images/Arabkir/178.jpg",
     "construction_id": 7119,
     "district": "Արաբկիր",
     "address": "23 փող․ հ․ 15 տուն և 17/1 տուն",
@@ -497,6 +524,7 @@
   },
   {
     "id": 179,
+    "image": "/images/Arabkir/179.jpg",
     "construction_id": 7139,
     "district": "Արաբկիր",
     "address": "Արաբկիր 29-դ փողոց հ․ 51",
@@ -513,6 +541,7 @@
   },
   {
     "id": 180,
+    "image": "/images/Arabkir/180.jpg",
     "construction_id": 7145,
     "district": "Արաբկիր",
     "address": "Աղբյուր Սերոբի փող․ հ․ 18",
@@ -529,6 +558,7 @@
   },
   {
     "id": 181,
+    "image": "/images/Arabkir/181.jpg",
     "construction_id": 7438,
     "district": "Արաբկիր",
     "address": "Սևքարեցի Սաքոյի փող․ հ․ 20",
@@ -577,6 +607,7 @@
   },
   {
     "id": 184,
+    "image": "/images/Arabkir/184.jpg",
     "construction_id": 7660,
     "district": "Արաբկիր",
     "address": "Սևքարեցի Սաքոյի փող․ հ․ 8 տուն",
@@ -593,6 +624,7 @@
   },
   {
     "id": 185,
+    "image": "/images/Arabkir/185.jpg",
     "construction_id": 7664,
     "district": "Արաբկիր",
     "address": "Աղբյուր Սերբի փող․ հ․ 50/2  և 52/5",
@@ -609,6 +641,7 @@
   },
   {
     "id": 186,
+    "image": "/images/Arabkir/186.jpg",
     "construction_id": 7695,
     "district": "Արաբկիր",
     "address": "Կոմիտասի պողոտա հ․ 23/4",
@@ -625,6 +658,7 @@
   },
   {
     "id": 187,
+    "image": "/images/Arabkir/187.jpg",
     "construction_id": 7700,
     "district": "Արաբկիր",
     "address": "Գ․Սունդուկյան փող․ հ․ 22 տուն",
@@ -689,6 +723,7 @@
   },
   {
     "id": 69,
+    "image": "/images/Arabkir/69.jpg",
     "construction_id": 7794,
     "district": "Արաբկիր",
     "address": "21-րդ փող․ հ․ 2 և 28/1  տուն",
@@ -721,6 +756,7 @@
   },
   {
     "id": 192,
+    "image": "/images/Arabkir/192.jpg",
     "construction_id": 8022,
     "district": "Արաբկիր",
     "address": "Վրացական փող․ 2-րդ նրբ․ հ․ 8/1",

@@ -1,6 +1,7 @@
 [
   {
     "id": 70,
+    "image": "/images/Kentron/70.jpg",
     "construction_id": 119,
     "district": "Կենտրոն",
     "address": "Աղայան փող. 9/3 և 9/5",
@@ -17,6 +18,7 @@
   },
   {
     "id": 230,
+    "image": "/images/Kentron/230.jpg",
     "construction_id": 436,
     "district": "Կենտրոն",
     "address": "Չարենցի փող․ 70/8 (70 նախկինում)",
@@ -49,6 +51,7 @@
   },
   {
     "id": 75,
+    "image": "/images/Kentron/75.jpg",
     "construction_id": 1926,
     "district": "Կենտրոն",
     "address": "Թումանյան փող․ հ․ 30/1",
@@ -65,6 +68,7 @@
   },
   {
     "id": 76,
+    "image": "/images/Kentron/76.jpg",
     "construction_id": 3466,
     "district": "Կենտրոն",
     "address": "Անտառային փող․ հ․ 11/1",
@@ -81,6 +85,7 @@
   },
   {
     "id": 231,
+    "image": "/images/Kentron/231.jpg",
     "construction_id": 3642,
     "district": "Կենտրոն",
     "address": "Աբովյան փող․ հ․ 35/1",
@@ -97,6 +102,7 @@
   },
   {
     "id": 78,
+    "image": "/images/Kentron/78.jpg",
     "construction_id": 3655,
     "district": "Կենտրոն",
     "address": "Անտառային փող․ հ․ 24/9",
@@ -113,6 +119,7 @@
   },
   {
     "id": 79,
+    "image": "/images/Kentron/79.jpg",
     "construction_id": 3788,
     "district": "Կենտրոն",
     "address": "Արաբկիր կայարանին հարող տարածք",
@@ -129,6 +136,7 @@
   },
   {
     "id": 232,
+    "image": "/images/Kentron/232.jpg",
     "construction_id": 4662,
     "district": "Կենտրոն",
     "address": "Թումանյան փողոց 2-րդ անցուղի հ․5/9 բնակելի տուն",
@@ -145,6 +153,7 @@
   },
   {
     "id": 81,
+    "image": "/images/Kentron/81.jpg",
     "construction_id": 4679,
     "district": "Կենտրոն",
     "address": "Գ․Էմինի փող․ հ․ 25 /Անտառային փող․ հ․122/1/",
@@ -161,6 +170,7 @@
   },
   {
     "id": 233,
+    "image": "/images/Kentron/233.jpg",
     "construction_id": 5063,
     "district": "Կենտրոն",
     "address": "Անտառային  փող․ հ․ 164/5",
@@ -177,6 +187,7 @@
   },
   {
     "id": 85,
+    "image": "/images/Kentron/85.jpg",
     "construction_id": 5098,
     "district": "Կենտրոն",
     "address": "Անտառային փող․ հ․ 126/8",
@@ -193,6 +204,7 @@
   },
   {
     "id": 86,
+    "image": "/images/Kentron/86.jpg",
     "construction_id": 5150,
     "district": "Կենտրոն",
     "address": "Արգիշտի փող․ հ․ 7/15",
@@ -209,6 +221,7 @@
   },
   {
     "id": 234,
+    "image": "/images/Kentron/234.jpg",
     "construction_id": 5258,
     "district": "Կենտրոն",
     "address": "Վերին Անտառային փող․ հ․ 13/4",
@@ -225,6 +238,7 @@
   },
   {
     "id": 88,
+    "image": "/images/Kentron/88.jpg",
     "construction_id": 5560,
     "district": "Կենտրոն",
     "address": "Անտառային փող․ հ․ 126/5",
@@ -241,6 +255,7 @@
   },
   {
     "id": 90,
+    "image": "/images/Kentron/90.jpg",
     "construction_id": 5935,
     "district": "Կենտրոն",
     "address": "Լեոյի փող․ հ․ 6 տուն",
@@ -257,6 +272,7 @@
   },
   {
     "id": 91,
+    "image": "/images/Kentron/91.jpg",
     "construction_id": 6202,
     "district": "Կենտրոն",
     "address": "Վ․Անտառային փող․ հ․ 134 և 138/4",
@@ -273,6 +289,7 @@
   },
   {
     "id": 92,
+    "image": "/images/Kentron/92.jpg",
     "construction_id": 6461,
     "district": "Կենտրոն",
     "address": "Այգեստան 2-րդ փողոց հ․14 բն․ տուն",
@@ -289,6 +306,7 @@
   },
   {
     "id": 93,
+    "image": "/images/Kentron/93.jpg",
     "construction_id": 6651,
     "district": "Կենտրոն",
     "address": "Սախարովի փող․ հ․ 12",
@@ -305,6 +323,7 @@
   },
   {
     "id": 94,
+    "image": "/images/Kentron/94.jpg",
     "construction_id": 6797,
     "district": "Կենտրոն",
     "address": "Վ․Անտառային փող․ 121/7",
@@ -321,6 +340,7 @@
   },
   {
     "id": 95,
+    "image": "/images/Kentron/95.jpg",
     "construction_id": 6800,
     "district": "Կենտրոն",
     "address": "Լ․Ազգալդյան փող․ հ․12/6",
@@ -353,6 +373,7 @@
   },
   {
     "id": 99,
+    "image": "/images/Kentron/99.jpg",
     "construction_id": 7243,
     "district": "Կենտրոն",
     "address": "Սարմենի փող․ հ․ 88 և 88/1 բնակելի տուն",
@@ -385,6 +406,7 @@
   },
   {
     "id": 101,
+    "image": "/images/Kentron/101.jpg",
     "construction_id": 7482,
     "district": "Կենտրոն",
     "address": "Այգեստան 2-րդ փողոց հ․16",
@@ -417,6 +439,7 @@
   },
   {
     "id": 236,
+    "image": "/images/Kentron/236.jpg",
     "construction_id": 8064,
     "district": "Կենտրոն",
     "address": "Տիգրան Մեծի պողոտա հ․ 47/1",

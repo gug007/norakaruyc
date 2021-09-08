@@ -1,6 +1,7 @@
 [
   {
     "id": 199,
+    "image": "/images/Erebuni/199.jpg",
     "construction_id": 1806,
     "district": "Էրեբունի",
     "address": "Էրեբունու փող․ հ 15/3 և 15/4",
@@ -17,6 +18,7 @@
   },
   {
     "id": 200,
+    "image": "/images/Erebuni/200.jpg",
     "construction_id": 6299,
     "district": "Էրեբունի",
     "address": "Նոր Արեշ 35 փող․ հ․ 24",
@@ -49,6 +51,7 @@
   },
   {
     "id": 202,
+    "image": "/images/Erebuni/202.jpg",
     "construction_id": 7715,
     "district": "Էրեբունի",
     "address": "Մուրացանի փող․ հ․ 129",
@@ -65,6 +68,7 @@
   },
   {
     "id": 203,
+    "image": "/images/Erebuni/203.jpg",
     "construction_id": 8266,
     "district": "Էրեբունի",
     "address": "Տիտոգրադյան փող․ հ․1/2",

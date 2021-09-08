@@ -1,6 +1,7 @@
 [
   {
     "id": 221,
+    "image": "/images/Malatia-Sebastia/221.jpg",
     "construction_id": 66,
     "district": "Մալաթիա-Սեբաստիա",
     "address": "Բաբաջանյան փող.25/1",
@@ -17,6 +18,7 @@
   },
   {
     "id": 222,
+    "image": "/images/Malatia-Sebastia/222.jpg",
     "construction_id": 5495,
     "district": "Մալաթիա-Սեբաստիա",
     "address": "Լենինգրադյան փող․ հ․ 19/9",
@@ -81,6 +83,7 @@
   },
   {
     "id": 226,
+    "image": "/images/Malatia-Sebastia/226.jpg",
     "construction_id": 8122,
     "district": "Մալաթիա-Սեբաստիա",
     "address": "Լենինգրադյան փողոցի հ. 23/2, Լենինգրադյան փողոցի և «Նոյ» թաղամասի միջանկյալ հատվածում գտնվող հող",
