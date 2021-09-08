@@ -12,7 +12,14 @@ const langs = {
 
 const lg = window.navigator.userLanguage || window.navigator.language;
 const userLanguage = (langs[lg] || lg).split("-")[0] || langs.ru;
-const [, urlLanguage] = window.location.pathname.split("/");
+
+let urlLanguage;
+
+if (window.location.href.includes("/#/")) {
+  [, urlLanguage] = window.location.hash.split("/");
+} else {
+  [, urlLanguage] = window.location.pathname.split("/");
+}
 
 if (!urlLanguage) {
   // window.history.pushState({}, null, `${userLanguage}`);
