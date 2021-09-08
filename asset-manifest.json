@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/norakaruyc/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/norakaruyc/static/js/main.7888ad03.chunk.js",
-    "main.js.map": "/norakaruyc/static/js/main.7888ad03.chunk.js.map",
+    "main.js": "/norakaruyc/static/js/main.d3f6c1c9.chunk.js",
+    "main.js.map": "/norakaruyc/static/js/main.d3f6c1c9.chunk.js.map",
     "runtime-main.js": "/norakaruyc/static/js/runtime-main.69b96392.js",
     "runtime-main.js.map": "/norakaruyc/static/js/runtime-main.69b96392.js.map",
     "static/js/2.c95a4d7c.chunk.js": "/norakaruyc/static/js/2.c95a4d7c.chunk.js",
     "static/js/2.c95a4d7c.chunk.js.map": "/norakaruyc/static/js/2.c95a4d7c.chunk.js.map",
     "index.html": "/norakaruyc/index.html",
-    "precache-manifest.10143a47c50facee6d265bdb27bbde5c.js": "/norakaruyc/precache-manifest.10143a47c50facee6d265bdb27bbde5c.js",
+    "precache-manifest.84093f2527e2e8a6ac9a4eddf67c128f.js": "/norakaruyc/precache-manifest.84093f2527e2e8a6ac9a4eddf67c128f.js",
     "service-worker.js": "/norakaruyc/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/norakaruyc/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.c95a4d7c.chunk.js.LICENSE.txt": "/norakaruyc/static/js/2.c95a4d7c.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.69b96392.js",
     "static/js/2.c95a4d7c.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.7888ad03.chunk.js"
+    "static/js/main.d3f6c1c9.chunk.js"
   ]
 }
