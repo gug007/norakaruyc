@@ -17,6 +17,8 @@ export const GRID = "grid";
 export const LIST = "list";
 export const MAP = "map";
 
+
+
 function Nav({
   view,
   district,

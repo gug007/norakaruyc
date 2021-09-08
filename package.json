@@ -1,6 +1,7 @@
 {
   "name": "norakaruyc",
   "version": "0.1.0",
+  "homepage": "http://gug007.github.io/norakaruyc",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.0",
@@ -37,6 +38,7 @@
   "scripts": {
     "start": "react-scripts start",
     "data": "nodemon server --ignore src/constants",
+    "deploy": "npm run build && gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -55,5 +57,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }

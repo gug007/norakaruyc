@@ -10,7 +10,7 @@ import QueryBuilderOutlinedIcon from "@material-ui/icons/QueryBuilderOutlined";
 import CheckCircleOutlineOutlinedIcon from "@material-ui/icons/CheckCircleOutlineOutlined";
 import BlurOnOutlinedIcon from "@material-ui/icons/BlurOnOutlined";
 import { useTranslation } from "react-i18next";
-import useFormatDate from "../../hooks/useFormatDate";
+import useFormatDate from "../../../hooks/useFormatDate";
 
 function GridComponent({ buildings, displayDistrict = false }) {
   const { t } = useTranslation();

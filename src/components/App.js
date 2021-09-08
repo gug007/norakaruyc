@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import { FirebaseAppProvider } from "reactfire";
-import Buildings from "./buildings/Buildings";
+import BuildingsPage from "./buildings/BuildingsPage";
 import initLanguage from "../utils/initLanguage";
 
 initLanguage();
@@ -22,7 +22,7 @@ function App() {
     <FirebaseAppProvider firebaseConfig={firebaseConfig}>
       <Router>
         <Route path="/:lg">
-          <Buildings />
+          <BuildingsPage />
         </Route>
       </Router>
     </FirebaseAppProvider>

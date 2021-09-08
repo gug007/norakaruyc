@@ -7,7 +7,7 @@ import TableHead from "@material-ui/core/TableHead";
 import TableRow from "@material-ui/core/TableRow";
 import Paper from "@material-ui/core/Paper";
 import { useTranslation } from "react-i18next";
-import useFormatDate from "../../hooks/useFormatDate";
+import useFormatDate from "../../../hooks/useFormatDate";
 
 function GridComponent({ buildings, displayDistrict = false }) {
   const { t } = useTranslation();
