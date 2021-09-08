@@ -1,10 +1,8 @@
 import React from "react";
-import { SuspenseWithPerf } from "reactfire";
 import { useTranslation } from "react-i18next";
 import Container from "@material-ui/core/Container";
 import Divider from "@material-ui/core/Divider";
 import Box from "@material-ui/core/Box";
-import CircularProgress from "@material-ui/core/CircularProgress";
 import Typography from "@material-ui/core/Typography";
 
 import useList from "../../hooks/useList";
@@ -25,19 +23,7 @@ function BuildingsPage() {
   const data = value.flatMap((key) => allBuildings[key]);
 
   return (
-    <SuspenseWithPerf
-      fallback={
-        <Box
-          display="flex"
-          alignItems="center"
-          justifyContent="center"
-          height="100vh"
-        >
-          <CircularProgress />
-        </Box>
-      }
-      traceId={"load-burrito-status"}
-    >
+    <>
       <Header />
       <Divider />
       <Box
@@ -67,7 +53,7 @@ function BuildingsPage() {
           <Buildings districts={value} status={status} />
         </>
       )}
-    </SuspenseWithPerf>
+    </>
   );
 }
 
