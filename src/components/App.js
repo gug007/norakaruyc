@@ -5,9 +5,14 @@ import initLanguage from "../utils/initLanguage";
 
 initLanguage();
 
+const basename =
+  window.location.pathname.split("/")[1] === "norakaruyc"
+    ? "/norakaruyc"
+    : undefined;
+
 function App() {
   return (
-    <Router>
+    <Router basename={basename}>
       <Route path="/:lg">
         <BuildingsPage />
       </Route>
