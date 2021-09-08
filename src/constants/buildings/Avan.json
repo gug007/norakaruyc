@@ -1,6 +1,7 @@
 [
   {
     "id": 0,
+    "construction_id": 1905,
     "district": "Ավան",
     "address": "Չարենցի թաղամաս հ․ 17/7",
     "constructors": "էլեոնորա Սարգսյան",
@@ -16,12 +17,13 @@
   },
   {
     "id": 1,
+    "construction_id": 4469,
     "district": "Ավան",
     "address": "Մ․Բաբաջանյան փող․ 70/7 և 72",
     "constructors": "ՆԱՐԵԿԱՑԻ ՀԱՈՒԶ ՍՊԸ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
-    "status": "Չսկսված",
+    "status": "Ընթացքում գտնվող",
     "x": 44.5627464,
     "y": 40.2192416,
     "permit_number": "01/18-67685-1032",
@@ -31,6 +33,7 @@
   },
   {
     "id": 2,
+    "construction_id": 4897,
     "district": "Ավան",
     "address": "Աճառյան փող․ հ․ 37/24 (37/34)",
     "constructors": "Դի Կվադրա Քոնսթրաքշն ՍՊԸ",
@@ -43,5 +46,53 @@
     "permit_start_dt": "10-04-2019",
     "permit_end_dt": "09-04-2022",
     "sketch": "/images/construction_sketches/avan/3528.jpg"
+  },
+  {
+    "id": 124,
+    "construction_id": 7016,
+    "district": "Ավան",
+    "address": "4-րդ փող․ հ․ 13/2",
+    "constructors": "Քնարիկ Բայրամյան, Գեղամ Այվազյան",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Ընթացքում գտնվող",
+    "x": 44.56282125,
+    "y": 40.2105147,
+    "permit_number": "01/18-Բ-3756-1334",
+    "permit_start_dt": "25-09-2020",
+    "permit_end_dt": "25-09-2022",
+    "sketch": "/images/construction_sketches/160406248183.jpg"
+  },
+  {
+    "id": 125,
+    "construction_id": 7142,
+    "district": "Ավան",
+    "address": "Ավան—Առինջ թաղամաս 1-ին մ/շ հ․ 4/7",
+    "constructors": "ՊԵՏ․ԱՐՄ․ՇԻՆ ՍՊԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.57062793,
+    "y": 40.22244601,
+    "permit_number": "01/18-Հ-8375-1624",
+    "permit_start_dt": "06-11-2020",
+    "permit_end_dt": "05-03-2023",
+    "sketch": ""
+  },
+  {
+    "id": 126,
+    "construction_id": 8154,
+    "district": "Ավան",
+    "address": "Թումանյան թաղամասի հ. 46/2",
+    "constructors": "ԱՐՄԱՆ ԱՐՏԱԿ ԵՂԲԱՅՐՆԵՐ ՍՊԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Ընթացքում գտնվող",
+    "x": 44.5732878,
+    "y": 40.2188705,
+    "permit_number": "01/18-70829-1147",
+    "permit_start_dt": "08-07-2021",
+    "permit_end_dt": "07-07-2024",
+    "sketch": ""
   }
 ]

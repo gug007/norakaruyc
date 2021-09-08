@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": 112,
+    "construction_id": 7735,
+    "district": "Նուբարաշեն",
+    "address": "Նուբարաշեն 9-րդ փող․ հ․ 15/2",
+    "constructors": "Մարատ Խատայան",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.5485788906,
+    "y": 40.090194375,
+    "permit_number": "",
+    "permit_start_dt": "",
+    "permit_end_dt": "",
+    "sketch": ""
+  }
+]

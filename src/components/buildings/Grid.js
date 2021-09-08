@@ -22,7 +22,21 @@ function GridComponent({ buildings, displayDistrict = false }) {
         return (
           <Grid key={i} item xs={12} sm={6} md={4}>
             <Box component={Paper} boxSizing="border-box" height="100%">
-              <Box height={300} bgcolor="#f1f1f1" />
+              <Box
+                display="flex"
+                justifyContent="center"
+                alignItems="center"
+                height={400}
+                bgcolor="#f1f1f1"
+              >
+                {building.sketch && (
+                  <Box maxWidth="100%" maxHeight="100%" clone>
+                    <img
+                      src={`http://qhvv.yerevan.am:8080${building.sketch}`}
+                    />
+                  </Box>
+                )}
+              </Box>
               <Box p={2}>
                 <Typography variant="h3">{building.address}</Typography>
                 <Box mr={1.5} />

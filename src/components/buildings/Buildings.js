@@ -58,7 +58,7 @@ function Buildings() {
         alignItems="center"
         justifyContent="center"
         color="#fff"
-        bgcolor="primary.main"
+        style={{ background: "linear-gradient(to left top, #81c784, #4caf50)" }}
       >
         <Typography variant="h1">
           {t("newBuildings")} {t("yerevan")}
