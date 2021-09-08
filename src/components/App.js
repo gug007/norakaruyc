@@ -10,6 +10,8 @@ const basename =
     ? "/norakaruyc"
     : undefined;
 
+console.log("basename", basename);
+
 function App() {
   return (
     <Router basename={basename}>
