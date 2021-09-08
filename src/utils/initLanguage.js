@@ -16,7 +16,8 @@ const userLanguage = (langs[lg] || lg).split("-")[0] || langs.ru;
 let urlLanguage;
 
 if (window.location.href.includes("/#/")) {
-  [, urlLanguage] = window.location.hash.split("/");
+  [, urlLanguage = ""] = window.location.hash.split("/");
+  urlLanguage = urlLanguage.slice(0, 2);
 } else {
   [, urlLanguage] = window.location.pathname.split("/");
 }
