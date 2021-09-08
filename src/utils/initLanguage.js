@@ -15,7 +15,7 @@ const userLanguage = (langs[lg] || lg).split("-")[0] || langs.ru;
 const [, urlLanguage] = window.location.pathname.split("/");
 
 if (!urlLanguage) {
-  window.history.pushState({}, null, `${userLanguage}`);
+  // window.history.pushState({}, null, `${userLanguage}`);
 }
 
 const resources = {
