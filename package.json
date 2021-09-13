@@ -1,7 +1,7 @@
 {
   "name": "norakaruyc",
   "version": "0.1.0",
-  "homepage": "http://gug007.github.io/norakaruyc",
+  "__homepage": "http://gug007.github.io/norakaruyc",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.0",
@@ -11,6 +11,7 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "axios": "^0.21.4",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "es6-promise": "^4.2.8",
@@ -32,11 +33,12 @@
     "react-scripts": "3.4.3",
     "react-world-flags": "^1.4.0",
     "reactfire": "^2.0.3",
+    "sharp": "^0.29.1",
     "use-http": "^1.0.13"
   },
   "scripts": {
     "start": "react-scripts start",
-    "data": "nodemon server --ignore src/constants",
+    "data": "node server --ignore src/constants",
     "deploy": "npm run build && gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
