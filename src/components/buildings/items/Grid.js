@@ -1,4 +1,6 @@
 import React from "react";
+import { useTranslation } from "react-i18next";
+import { useHistory, useLocation } from "react-router-dom";
 import Typography from "@material-ui/core/Typography";
 import Grid from "@material-ui/core/Grid";
 import Paper from "@material-ui/core/Paper";
@@ -9,11 +11,13 @@ import MapOutlinedIcon from "@material-ui/icons/MapOutlined";
 import QueryBuilderOutlinedIcon from "@material-ui/icons/QueryBuilderOutlined";
 import CheckCircleOutlineOutlinedIcon from "@material-ui/icons/CheckCircleOutlineOutlined";
 import BlurOnOutlinedIcon from "@material-ui/icons/BlurOnOutlined";
-import { useTranslation } from "react-i18next";
+
 import useFormatDate from "../../../hooks/useFormatDate";
 
 function GridComponent({ buildings, displayDistrict = false }) {
   const { t } = useTranslation();
+  const history = useHistory();
+  const location = useLocation();
   const formatDate = useFormatDate();
 
   return (
@@ -21,7 +25,14 @@ function GridComponent({ buildings, displayDistrict = false }) {
       {buildings.map((building, i) => {
         return (
           <Grid key={i} item xs={12} sm={6} md={4}>
-            <Box component={Paper} boxSizing="border-box" height="100%">
+            <Box
+              component={Paper}
+              boxSizing="border-box"
+              height="100%"
+              onClick={() =>
+                history.push(`${location.pathname}/${building.id}`)
+              }
+            >
               <Box
                 display="flex"
                 justifyContent="center"
