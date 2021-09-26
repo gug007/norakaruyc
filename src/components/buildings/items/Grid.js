@@ -1,6 +1,6 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
-import { useHistory, useLocation } from "react-router-dom";
+import { useHistory, useLocation, useParams } from "react-router-dom";
 import Typography from "@material-ui/core/Typography";
 import Grid from "@material-ui/core/Grid";
 import Paper from "@material-ui/core/Paper";
@@ -17,6 +17,7 @@ import useFormatDate from "../../../hooks/useFormatDate";
 function GridComponent({ buildings, displayDistrict = false }) {
   const { t } = useTranslation();
   const history = useHistory();
+  const { ln } = useParams();
   const location = useLocation();
   const formatDate = useFormatDate();
 
@@ -30,7 +31,7 @@ function GridComponent({ buildings, displayDistrict = false }) {
               boxSizing="border-box"
               height="100%"
               onClick={() =>
-                history.push(`${location.pathname}/${building.id}`)
+                history.push(`${ln ? location.pathname : "am"}/${building.id}`)
               }
             >
               <Box
