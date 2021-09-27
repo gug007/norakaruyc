@@ -7,6 +7,13 @@ import Building from "./building/App";
 
 initLanguage();
 
+if (
+  window.location.hostname !== "localhost" &&
+  window.location.protocol === "http:"
+) {
+  window.location.href = window.location.href.replace("http:", "https:");
+}
+
 function App() {
   return (
     <Router>
