@@ -14,31 +14,57 @@
     "permit_number": "01/18-Ա-7341-331",
     "permit_start_dt": "08-04-2014",
     "permit_end_dt": "08-09-2017",
-    "sketch": "/images/construction_sketches/159221762867.jpg"
+    "sketch": "/images/construction_sketches/159221762867.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2011-10-25 00:00:00",
+          "number": "01/18-07/1-Ա-5034-826"
+        }
+      ]
+    }
   },
   {
     "id": 222,
     "image": "/images/Malatia-Sebastia/222.jpg",
     "construction_id": 5495,
     "district": "Մալաթիա-Սեբաստիա",
-    "address": "Լենինգրադյան փող․ հ․ 19/9",
+    "address": "Լենինգրադյան փողոց հ․19/9",
     "constructors": "Նորայր Գալստյան, Կարինե Սարգսյան",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
     "status": "Ընթացքում գտնվող",
     "x": 44.46833692,
     "y": 40.19030068,
-    "permit_number": "01/18-Բ-4490-1790",
-    "permit_start_dt": "24-12-2020",
-    "permit_end_dt": "24-12-2022",
-    "sketch": "/images/construction_sketches/160916128991.jpg"
+    "permit_number": "01/18-Դ-9256-802",
+    "permit_start_dt": "06-05-2022",
+    "permit_end_dt": "06-12-2022",
+    "sketch": "/images/construction_sketches/160916128991.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2006-02-17 00:00:00",
+          "number": "18-07/1-Կ-363"
+        },
+        {
+          "released_at": "2019-03-27 00:00:00",
+          "number": "01/18-07/1-Գ-1645-204"
+        }
+      ]
+    }
   },
   {
     "id": 223,
     "construction_id": 6984,
     "district": "Մալաթիա-Սեբաստիա",
-    "address": "Լենինգրադյան փող․ հ․29/9",
-    "constructors": "Տեխնոշեն ՍՊԸ",
+    "address": "Լենինգրադյան փողոց հ․29/9",
+    "constructors": "ՍԱՖ ԿԱՊԻՏԱԼ ՍՊԸ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
     "status": "Ընթացքում գտնվող",
@@ -47,39 +73,49 @@
     "permit_number": "01/18-45207-674",
     "permit_start_dt": "08-06-2020",
     "permit_end_dt": "29-06-2023",
-    "sketch": ""
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2019-12-03 00:00:00",
+          "number": "01/18-07/2-83310-1215"
+        },
+        {
+          "released_at": "2022-04-29 00:00:00",
+          "number": "01/18-07/1-Դ-6327-321"
+        }
+      ]
+    }
   },
   {
-    "id": 224,
-    "construction_id": 7272,
-    "district": "Մալաթիա-Սեբաստիա",
-    "address": "Սեբաստիայի փող․ հ․ 3/3",
-    "constructors": "ԳԵՎՄԻԿ ՍՊԸ",
-    "building_type": "Բնակելի շինություններ",
-    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
-    "status": "Կառուցապատման աշխատանքները փաստացի ավարտված",
-    "x": 44.46169984,
-    "y": 40.18845159,
-    "permit_number": "01/18-Ք-560-695․",
-    "permit_start_dt": "06-05-2021",
-    "permit_end_dt": "06-06-2022",
-    "sketch": ""
-  },
-  {
-    "id": 225,
+    "id": 345,
     "construction_id": 7596,
     "district": "Մալաթիա-Սեբաստիա",
     "address": "Շահումյան 1-ին փող․ հ․ 1/1",
     "constructors": "Գուրգեն Սարգսյան Համլետի ԱՁ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
-    "status": "Ընթացքում գտնվող",
-    "x": 44.4633252,
-    "y": 40.1709314,
+    "status": "Կառուցապատման աշխատանքները փաստացի ավարտված",
+    "x": 44.4633779,
+    "y": 40.1706342,
     "permit_number": "01/18-Ս-12963-1016",
     "permit_start_dt": "22-06-2021",
     "permit_end_dt": "22-02-2023",
-    "sketch": ""
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2020-03-23 00:00:00",
+          "number": "01/18-07/1-Ս-10944-256"
+        }
+      ]
+    }
   },
   {
     "id": 226,
@@ -96,7 +132,18 @@
     "permit_number": "01/18-Ք-1269-1785",
     "permit_start_dt": "23-12-2020",
     "permit_end_dt": "23-06-2023",
-    "sketch": "/images/construction_sketches/160914657249.jpg"
+    "sketch": "/images/construction_sketches/160914657249.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2020-07-24 00:00:00",
+          "number": "01/18-07/2-67835-653"
+        }
+      ]
+    }
   },
   {
     "id": 227,
@@ -118,17 +165,56 @@
     "id": 228,
     "construction_id": 8394,
     "district": "Մալաթիա-Սեբաստիա",
-    "address": "Լենինգրադյան փողոցի հ. 29/17",
-    "constructors": "Արմեն Սանոյան",
+    "address": "Լենինգրադյան փողոց հ.29/17",
+    "constructors": "ԳՐԻԳ ԴԵՎԵԼՈՓՄԵՆԹ ՍՊԸ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
     "status": "Ընթացքում գտնվող",
     "x": 44.4697805,
     "y": 40.1882417,
-    "permit_number": "01/18-Ս-14584-1256",
-    "permit_start_dt": "29-07-2021",
-    "permit_end_dt": "25-03-2026",
-    "sketch": ""
+    "permit_number": "01/18-Հ-14613-1957",
+    "permit_start_dt": "24-11-2021",
+    "permit_end_dt": "21-05-2026",
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2020-10-08 00:00:00",
+          "number": "01/18-07/1-Ս-7056-926"
+        }
+      ]
+    }
+  },
+  {
+    "id": 346,
+    "image": "/images/Malatia-Sebastia/346.jpg",
+    "construction_id": 9008,
+    "district": "Մալաթիա-Սեբաստիա",
+    "address": "Հ/Ա Բ-2 թաղամասի հ. 29/5 և Բաբաջանյան փողոցի հ. 111/1",
+    "constructors": "ՏՈՒՆ ՇԻՆ ՍՊԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Ընթացքում գտնվող",
+    "x": 44.44188874,
+    "y": 40.16391634,
+    "permit_number": "01/18-111827-1659",
+    "permit_start_dt": "08-10-2021",
+    "permit_end_dt": "08-10-2023",
+    "sketch": "/images/construction_sketches/163516559817.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-01-25 00:00:00",
+          "number": "01/18-07/2-118754-11"
+        }
+      ]
+    }
   },
   {
     "id": 229,
@@ -141,9 +227,65 @@
     "status": "Ընթացքում գտնվող",
     "x": 44.4645117,
     "y": 40.1649691,
-    "permit_number": "01/18-92404-1257",
-    "permit_start_dt": "30-07-2021",
-    "permit_end_dt": "29-09-2023",
+    "permit_number": "01/18-158435-2229",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "19-09-2023",
     "sketch": ""
+  },
+  {
+    "id": 347,
+    "image": "/images/Malatia-Sebastia/347.jpg",
+    "construction_id": 10977,
+    "district": "Մալաթիա-Սեբաստիա",
+    "address": "Ա․Բաբաջանյան փողոց հ․42/5",
+    "constructors": "ՄԼ Մայնինգ ՍՊԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Ընթացքում գտնվող",
+    "x": 44.4387783,
+    "y": 40.1645578,
+    "permit_number": "01/18-Դ-3053-132",
+    "permit_start_dt": "23-02-2022",
+    "permit_end_dt": "23-02-2025",
+    "sketch": "/images/construction_sketches/164638592039.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-09-09 00:00:00",
+          "number": "01/18-07/1-Դ-1922-846"
+        }
+      ]
+    }
+  },
+  {
+    "id": 347,
+    "image": "/images/Malatia-Sebastia/347.jpg",
+    "construction_id": 10978,
+    "district": "Մալաթիա-Սեբաստիա",
+    "address": "Ա․Բաբաջանյան փողոց հ․42/5",
+    "constructors": "ՄԼ Մայնինգ ՍՊԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Ընթացքում գտնվող",
+    "x": 44.4387783,
+    "y": 40.1645578,
+    "permit_number": "01/18-Դ-3053-131",
+    "permit_start_dt": "23-02-2022",
+    "permit_end_dt": "23-02-2025",
+    "sketch": "/images/construction_sketches/164638710328.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-09-09 00:00:00",
+          "number": "01/18-07/1-Դ-1922-846"
+        }
+      ]
+    }
   }
 ]

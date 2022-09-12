@@ -4,7 +4,7 @@
     "image": "/images/Avan/0.jpg",
     "construction_id": 1905,
     "district": "Ավան",
-    "address": "Չարենցի թաղամաս հ․ 17/7",
+    "address": "Չարենցի թաղամաս հ․17/7",
     "constructors": "էլեոնորա Սարգսյան",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
@@ -14,58 +14,134 @@
     "permit_number": "01/18-Ս-2179-347",
     "permit_start_dt": "20-04-2018",
     "permit_end_dt": "20-04-2023",
-    "sketch": "/images/construction_sketches/159160573787.jpg"
+    "sketch": "/images/construction_sketches/159160573787.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2017-11-17 00:00:00",
+          "number": "01/18-07/1-Բ-3309-795"
+        },
+        {
+          "released_at": "2022-05-06 00:00:00",
+          "number": "01/18-07/2-13268-357"
+        }
+      ]
+    }
   },
   {
     "id": 245,
     "image": "/images/Avan/245.jpg",
     "construction_id": 4469,
     "district": "Ավան",
-    "address": "Մ․Բաբաջանյան փող․ 70/7 և 72",
+    "address": "Մ․Բաբաջանյան փողոց հ․72",
     "constructors": "ՆԱՐԵԿԱՑԻ ՀԱՈՒԶ ՍՊԸ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
-    "status": "Ընթացքում գտնվող",
+    "status": "Ժամանակավորապես դադարեցված",
     "x": 44.57848767,
     "y": 40.21989231,
-    "permit_number": "01/18-67685-1032",
-    "permit_start_dt": "10-08-2020",
-    "permit_end_dt": "10-02-2023",
-    "sketch": "/images/construction_sketches/avan/2628.jpg"
+    "permit_number": "01/18-Դ-46882-1266",
+    "permit_start_dt": "22-07-2022",
+    "permit_end_dt": "22-07-2023",
+    "sketch": "/images/construction_sketches/avan/2628.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2018-06-19 00:00:00",
+          "number": "01/18-07/1-Պ-1133-402"
+        },
+        {
+          "released_at": "2022-04-04 00:00:00",
+          "number": "01/18-07/2-21097-240"
+        }
+      ]
+    }
   },
   {
     "id": 246,
     "image": "/images/Avan/246.jpg",
     "construction_id": 4897,
     "district": "Ավան",
-    "address": "Աճառյան փող․ հ․ 37/24 (37/34)",
+    "address": "Աճառյան փողոց հ․37/34",
     "constructors": "Դի Կվադրա Քոնսթրաքշն ՍՊԸ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
     "status": "Ընթացքում գտնվող",
     "x": 44.55199529,
     "y": 40.21914449,
-    "permit_number": "01/18-21099-309",
-    "permit_start_dt": "10-04-2019",
-    "permit_end_dt": "09-04-2022",
-    "sketch": "/images/construction_sketches/avan/3528.jpg"
+    "permit_number": "01/18-145658-1950",
+    "permit_start_dt": "23-11-2021",
+    "permit_end_dt": "19-08-2022",
+    "sketch": "/images/construction_sketches/163887522364.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2018-10-05 00:00:00",
+          "number": "01/18-07/1-Ս-4708-701"
+        },
+        {
+          "released_at": "2019-01-17 00:00:00",
+          "number": "01/18-07/1-S-7991-9"
+        }
+      ]
+    }
   },
   {
-    "id": 247,
-    "image": "/images/Avan/247.jpg",
+    "id": 312,
+    "image": "/images/Avan/312.jpg",
     "construction_id": 7016,
     "district": "Ավան",
-    "address": "4-րդ փող․ հ․ 13/2",
+    "address": "Ավան 4-րդ փողոց հ․13/2",
     "constructors": "Քնարիկ Բայրամյան, Գեղամ Այվազյան",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
-    "status": "Ընթացքում գտնվող",
-    "x": 44.56266506,
-    "y": 40.21070949,
+    "status": "Թույլտվությունը ուժը կորցրած ճանաչված",
+    "x": 44.5629496,
+    "y": 40.2104079,
     "permit_number": "01/18-Բ-3756-1334",
     "permit_start_dt": "25-09-2020",
     "permit_end_dt": "25-09-2022",
     "sketch": "/images/construction_sketches/160406248183.jpg"
+  },
+  {
+    "id": 313,
+    "construction_id": 7055,
+    "district": "Ավան",
+    "address": "Քուչակ թաղամաս հ․31/6 Ալմա-Աթայի փողոց հ․1/4",
+    "constructors": "Այգեձոր ՍՊԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Ընթացքում գտնվող",
+    "x": 44.5757634,
+    "y": 40.2193454,
+    "permit_number": "01/18-Ա-18108-1942",
+    "permit_start_dt": "18-11-2021",
+    "permit_end_dt": "16-12-2024",
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2019-12-09 00:00:00",
+          "number": "01/18-07/21-Ա-11579-1264"
+        },
+        {
+          "released_at": "2020-05-20 00:00:00",
+          "number": "01/18-07/2-40402-444"
+        }
+      ]
+    }
   },
   {
     "id": 248,
@@ -81,7 +157,45 @@
     "permit_number": "01/18-Հ-8375-1624",
     "permit_start_dt": "06-11-2020",
     "permit_end_dt": "05-03-2023",
-    "sketch": ""
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2019-12-27 00:00:00",
+          "number": "01/18-07/1-Հ-10946-1362"
+        }
+      ]
+    }
+  },
+  {
+    "id": 314,
+    "construction_id": 7499,
+    "district": "Ավան",
+    "address": "Աճառյան փողոց հ․35/27",
+    "constructors": "ԱՐՄԱՐՇԻՆ ԳՐՈՒՊ ՍՊԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Ընթացքում գտնվող",
+    "x": 44.5520747,
+    "y": 40.2197736,
+    "permit_number": "01/18-83825-1274",
+    "permit_start_dt": "02-08-2021",
+    "permit_end_dt": "01-11-2023",
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2020-03-12 00:00:00",
+          "number": "01/18-07/2-90019-218"
+        }
+      ]
+    }
   },
   {
     "id": 126,
@@ -94,9 +208,76 @@
     "status": "Ընթացքում գտնվող",
     "x": 44.5732878,
     "y": 40.2188705,
-    "permit_number": "01/18-70829-1147",
-    "permit_start_dt": "08-07-2021",
-    "permit_end_dt": "07-07-2024",
-    "sketch": ""
+    "permit_number": "01/18-Գ-8640-2063",
+    "permit_start_dt": "07-12-2021",
+    "permit_end_dt": "04-07-2024",
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2020-07-20 00:00:00",
+          "number": "01/18-07/2-58581-634"
+        }
+      ]
+    }
+  },
+  {
+    "id": 315,
+    "image": "/images/Avan/315.jpg",
+    "construction_id": 9011,
+    "district": "Ավան",
+    "address": "Աճառյան փողոց հ.43/20",
+    "constructors": "Աշոտ Հակոբյան",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.5500264,
+    "y": 40.2239448,
+    "permit_number": "01/18-Դ-9454-812",
+    "permit_start_dt": "10-05-2022",
+    "permit_end_dt": "10-05-2025",
+    "sketch": "/images/construction_sketches/165399016611.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-01-25 00:00:00",
+          "number": "01/18-07/1-Հ-11744-14"
+        }
+      ]
+    }
+  },
+  {
+    "id": 316,
+    "image": "/images/Avan/316.jpg",
+    "construction_id": 10458,
+    "district": "Ավան",
+    "address": "Ռուբինյանց փողոց հ․27/95",
+    "constructors": "Արթուր Վանյան, Լևոն Օհանյան, Գագիկ Շաղոյան",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.5518391,
+    "y": 40.2100176,
+    "permit_number": "01/18-Վ-253-228",
+    "permit_start_dt": "04-03-2022",
+    "permit_end_dt": "04-06-2025",
+    "sketch": "/images/construction_sketches/164784633848.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-11-12 00:00:00",
+          "number": "01/18-07/2-133639-962"
+        }
+      ]
+    }
   }
 ]

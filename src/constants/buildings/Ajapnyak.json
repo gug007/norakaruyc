@@ -11,10 +11,37 @@
     "status": "Ընթացքում գտնվող",
     "x": 44.47795457,
     "y": 40.20264281,
-    "permit_number": "01/18-Մ-13318-257",
-    "permit_start_dt": "24-02-2021",
-    "permit_end_dt": "24-02-2022",
-    "sketch": "/images/construction_sketches/ajapnyak/1021.jpg"
+    "permit_number": "01/18-Մ-1899-440",
+    "permit_start_dt": "25-03-2022",
+    "permit_end_dt": "25-01-2023",
+    "sketch": "/images/construction_sketches/ajapnyak/1021.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2007-07-13 00:00:00",
+          "number": "18-07/2-12130-675"
+        }
+      ]
+    }
+  },
+  {
+    "id": 355,
+    "construction_id": 2060,
+    "district": "Աջափնյակ",
+    "address": "Արզումանյան փող․ հ․ 8/1",
+    "constructors": "Նոբբի ՍՊԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Թույլտվությունը ուժը կորցրած ճանաչված",
+    "x": 44.475765,
+    "y": 40.1947657,
+    "permit_number": "01/50-22833-695",
+    "permit_start_dt": "11-11-2010",
+    "permit_end_dt": "11-07-2013",
+    "sketch": ""
   },
   {
     "id": 238,
@@ -49,38 +76,36 @@
     "sketch": ""
   },
   {
-    "id": 240,
-    "image": "/images/Ajapnyak/240.jpg",
-    "construction_id": 4775,
-    "district": "Աջափնյակ",
-    "address": "Արզումանյան փող․ հ․ 8/1",
-    "constructors": "Նոբբի ՍՊԸ",
-    "building_type": "Բնակելի շինություններ",
-    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
-    "status": "Կառուցապատման աշխատանքները փաստացի ավարտված",
-    "x": 44.47564797,
-    "y": 40.19402238,
-    "permit_number": "01/18-Ա-1845-735",
-    "permit_start_dt": "04-07-2019",
-    "permit_end_dt": "04-12-2021",
-    "sketch": "/images/construction_sketches/159160580641.jpg"
-  },
-  {
     "id": 241,
     "image": "/images/Ajapnyak/241.jpg",
     "construction_id": 4916,
     "district": "Աջափնյակ",
-    "address": "Աբելյան փող․ հ․ 2/1",
-    "constructors": "Ջեթ Սեթ ՍՊԸ",
+    "address": "Աբելյան փողոց հ․2/1",
+    "constructors": "ՋԵԹ ՍԵԹ ՍՊԸ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
     "status": "Ընթացքում գտնվող",
     "x": 44.47798542,
     "y": 40.19912901,
-    "permit_number": "01/18-Հ-2275-478",
-    "permit_start_dt": "22-04-2020",
-    "permit_end_dt": "22-08-2022",
-    "sketch": "/images/construction_sketches/ajapnyak/0141.jpg"
+    "permit_number": "01/18-Հ-251-396",
+    "permit_start_dt": "17-03-2022",
+    "permit_end_dt": "17-03-2023",
+    "sketch": "/images/construction_sketches/ajapnyak/0141.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2018-09-04 00:00:00",
+          "number": "01/18-07/1-Ս-4199-651"
+        },
+        {
+          "released_at": "2019-05-26 00:00:00",
+          "number": "01/18-07/2-42631-410"
+        }
+      ]
+    }
   },
   {
     "id": 242,
@@ -99,36 +124,1878 @@
     "sketch": ""
   },
   {
-    "id": 243,
-    "image": "/images/Ajapnyak/243.jpg",
-    "construction_id": 7463,
-    "district": "Աջափնյակ",
-    "address": "Մ․Մազմանյան փողոց հ․10/6 հողամաս",
-    "constructors": "Արամ Դեղոյան",
-    "building_type": "Բնակելի շինություններ",
-    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
-    "status": "Կառուցապատման աշխատանքները փաստացի ավարտված",
-    "x": 44.46416672,
-    "y": 40.20747147,
-    "permit_number": "01/18-Դ-292-262",
-    "permit_start_dt": "05-03-2020",
-    "permit_end_dt": "05-03-2022",
-    "sketch": "/images/construction_sketches/159160560492.jpg"
-  },
-  {
-    "id": 244,
+    "id": 356,
     "construction_id": 8152,
     "district": "Աջափնյակ",
-    "address": "Ալիխանյան Եղբայրներ փողոցի հ. 6/1",
+    "address": "Ալիխանյան Եղբայրներ փողոց հ.6/1",
     "constructors": "Ռատկո ՍՊԸ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
-    "status": "Ընթացքում գտնվող",
-    "x": 44.48423466,
-    "y": 40.20480945,
+    "status": "Ժամանակավորապես դադարեցված",
+    "x": 44.48395003,
+    "y": 40.20468414,
     "permit_number": "01/18-Մ-10735-1252",
     "permit_start_dt": "29-07-2021",
     "permit_end_dt": "24-05-2024",
-    "sketch": ""
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2020-07-20 00:00:00",
+          "number": "01/18-07/2-60077-630"
+        }
+      ]
+    }
+  },
+  {
+    "id": 357,
+    "image": "/images/Ajapnyak/357.jpg",
+    "construction_id": 8487,
+    "district": "Աջափնյակ",
+    "address": "Նազարբեկյան թաղամաս հ.12/4",
+    "constructors": "ՋԻ ԹԻ ԷՍ ԲԻԼԴԻՆԳ ՍՊԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Ընթացքում գտնվող",
+    "x": 44.4573769,
+    "y": 40.2139092,
+    "permit_number": "01/18-Բ-5681-2060",
+    "permit_start_dt": "07-12-2021",
+    "permit_end_dt": "05-06-2024",
+    "sketch": "/images/construction_sketches/164016647892.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2020-10-21 00:00:00",
+          "number": "01/18-07/1-Պ-2695-987"
+        },
+        {
+          "released_at": "2022-03-30 00:00:00",
+          "number": "01/18-07/1-Ա-18746-215"
+        }
+      ]
+    }
+  },
+  {
+    "id": 358,
+    "construction_id": 9489,
+    "district": "Աջափնյակ",
+    "address": "Արզումանյան փողոց հ․8/2 հ․8/4 Շինարարաների փողոց հ․10/3",
+    "constructors": "Նոբբի ՍՊԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4756869,
+    "y": 40.1942846,
+    "permit_number": "01/18-162660-54",
+    "permit_start_dt": "04-02-2022",
+    "permit_end_dt": "04-02-2025",
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-05-06 00:00:00",
+          "number": "01/18-07/2-33251-341"
+        }
+      ]
+    }
+  },
+  {
+    "id": 359,
+    "construction_id": 9772,
+    "district": "Աջափնյակ",
+    "address": "Շինարարների փողոց հ․23/1",
+    "constructors": "ՋԻԷՄ ՔՈՆՍԹՐԱՔՇՆ ՍՊԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Ընթացքում գտնվող",
+    "x": 44.4731379,
+    "y": 40.1963426,
+    "permit_number": "01/18-162657-53",
+    "permit_start_dt": "04-02-2022",
+    "permit_end_dt": "04-02-2025",
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-06-22 00:00:00",
+          "number": "01/18-07/2-57071-534"
+        }
+      ]
+    }
+  },
+  {
+    "id": 360,
+    "image": "/images/Ajapnyak/360.jpg",
+    "construction_id": 10268,
+    "district": "Աջափնյակ",
+    "address": "Նորաշեն թաղամաս հ․2",
+    "constructors": "Արմեն Ավթանդիլյան",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Ընթացքում գտնվող",
+    "x": 44.46609506,
+    "y": 40.21094953,
+    "permit_number": "01/18-Ա-19033-634",
+    "permit_start_dt": "13-04-2022",
+    "permit_end_dt": "13-01-2025",
+    "sketch": "/images/construction_sketches/165052810877.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-10-08 00:00:00",
+          "number": "01/18-07/1-Ա-17318-899"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10613,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2162",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164190469959.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10614,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2163",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "21-12-2027",
+    "sketch": "/images/construction_sketches/164190498839.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10615,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2164",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "21-12-2027",
+    "sketch": "/images/construction_sketches/164190527746.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10616,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2165",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "21-12-2027",
+    "sketch": "/images/construction_sketches/164190547014.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10617,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2166",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164190579239.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "construction_id": 10618,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2227",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10619,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2221",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "21-12-2027",
+    "sketch": "/images/construction_sketches/16419077748.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10620,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2222",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164190805565.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10621,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2223",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164190849679.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10622,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2224",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164190865950.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10623,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2225",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164190879953.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10624,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2226",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164190894296.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10625,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2215",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164190946519.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10626,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2216",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164190960284.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10627,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2217",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164190973182.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10628,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2218",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164190984562.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10629,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2219",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164190995858.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10630,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2220",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164191007576.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10631,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2209",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164197318339.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10632,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2210",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164197414988.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10633,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2211",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164197434960.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10634,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2212",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164197448431.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10635,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2213",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164197462524.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10636,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2214",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164197475451.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10637,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2201",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164197540361.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10638,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2202",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164197561694.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10639,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2203",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164197589234.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10640,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2204",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164197607127.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10641,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2205",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164197931731.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10642,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2206",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164197948956.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10643,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2195",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164198064795.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10644,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2196",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/16419807782.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10645,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2197",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164198091198.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10646,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2198",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164198102266.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10647,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2199",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164198117562.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10648,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2200",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164198136263.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10649,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2189",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164198238133.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10650,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2191",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164198256974.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10651,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2192",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164198268838.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10652,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2193",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164198280958.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10653,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2194",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164198304852.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10655,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2186",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164198428614.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10656,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2187",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164198463696.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10657,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2188",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164198518737.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10658,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2180",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164198589164.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10659,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2181",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164198613529.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10660,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2182",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164198625940.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10661,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2183",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164198640914.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10662,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2184",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164198652861.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10663,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2185",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164198665668.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10664,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2174",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/16419876434.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10665,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2175",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164198782848.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10666,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2176",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164198798862.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10667,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2177",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164198814468.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10668,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2178",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164198831493.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10669,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2179",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164198844140.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10670,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2168",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164198915449.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10671,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2169",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164198933668.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10672,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2170",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164198947731.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10674,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2172",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164198973051.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "image": "/images/Ajapnyak/361.jpg",
+    "construction_id": 10675,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ.320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2173",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "/images/construction_sketches/164198991540.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "construction_id": 11568,
+    "district": "Աջափնյակ",
+    "address": "Տիչինայի փողոց հ․320",
+    "constructors": "ԴԵՖԱՆՍ ՀԱՈՒԶԻՆԳ ԻՆՎԵՍՏ ՓԲԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.4451053711,
+    "y": 40.1944717361,
+    "permit_number": "01/18-157985-2171",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2027",
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-1889-98"
+        }
+      ]
+    }
   }
 ]

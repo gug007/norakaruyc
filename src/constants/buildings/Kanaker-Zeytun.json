@@ -1,69 +1,117 @@
 [
   {
-    "id": 127,
+    "id": 300,
     "construction_id": 2885,
     "district": "Քանաքեռ-Զեյթուն",
     "address": "Դավիթ Անհաղթի փող․ հ․ 15/8 և 15/7",
     "constructors": "Հայք-Շիննախագիծ ԲԲԸ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
-    "status": "Կառուցապատման աշխատանքները փաստացի ավարտված",
-    "x": 44.5334443,
-    "y": 40.2026696,
+    "status": "Ընթացքում գտնվող",
+    "x": 44.532797,
+    "y": 40.202553,
     "permit_number": "01/18-Ս-416-7",
     "permit_start_dt": "02-02-2018",
     "permit_end_dt": "02-08-2018",
-    "sketch": ""
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2020-04-20 00:00:00",
+          "number": "01/18-07/1490-Ա"
+        }
+      ]
+    }
   },
   {
-    "id": 128,
-    "image": "/images/Kanaker-Zeytun/128.jpg",
+    "id": 301,
+    "image": "/images/Kanaker-Zeytun/301.jpg",
     "construction_id": 4728,
     "district": "Քանաքեռ-Զեյթուն",
-    "address": "Պ․Սևակի փող․ հ․ 1/7",
+    "address": "Պ․Սևակի փողոց հ․1/7",
     "constructors": "ՀՀ ԳԱԱ Գիտության Զարգացման Հիմնադրամ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
     "status": "Ընթացքում գտնվող",
-    "x": 44.5333812,
-    "y": 40.2123279,
-    "permit_number": "01/18-Գ-1511-609",
-    "permit_start_dt": "19-04-2021",
-    "permit_end_dt": "19-10-2021",
-    "sketch": "/images/construction_sketches/159221816570.jpg"
+    "x": 44.5334932,
+    "y": 40.212455,
+    "permit_number": "01/18-Գ-1704-636",
+    "permit_start_dt": "13-04-2022",
+    "permit_end_dt": "13-09-2022",
+    "sketch": "/images/construction_sketches/159221816570.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2016-10-24 00:00:00",
+          "number": "01/18-07/2-70079-512"
+        },
+        {
+          "released_at": "2019-09-03 00:00:00",
+          "number": "01/18-07/1-Գ-5324-855"
+        }
+      ]
+    }
   },
   {
-    "id": 129,
-    "image": "/images/Kanaker-Zeytun/129.jpg",
+    "id": 302,
+    "image": "/images/Kanaker-Zeytun/302.jpg",
     "construction_id": 5909,
     "district": "Քանաքեռ-Զեյթուն",
-    "address": "Ն․Գոգոլի փող․ հ․ 24/23",
+    "address": "Ն․Գոգոլի փողոց հ․24/23",
     "constructors": "«ԻՄՊԵՐԻԱԼ ՔՈՆՍԹՐԱՔՇՆ»",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
     "status": "Ընթացքում գտնվող",
-    "x": 44.5396899,
-    "y": 40.1977856,
-    "permit_number": "01/18-91224-1363",
-    "permit_start_dt": "29-09-2020",
-    "permit_end_dt": "29-05-2022",
-    "sketch": "/images/construction_sketches/158877021850.jpg"
+    "x": 44.539972,
+    "y": 40.1979226,
+    "permit_number": "01/18-Դ-30320-1067",
+    "permit_start_dt": "29-06-2022",
+    "permit_end_dt": "29-08-2023",
+    "sketch": "/images/construction_sketches/158877021850.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2019-06-07 00:00:00",
+          "number": "01/18-07/2-39145-504"
+        }
+      ]
+    }
   },
   {
-    "id": 130,
+    "id": 303,
     "construction_id": 6197,
     "district": "Քանաքեռ-Զեյթուն",
-    "address": "Դավիթ Անհաղթի փող․ հ․ 16/1",
+    "address": "Դավիթ Անհաղթի փողոց հ․16/1",
     "constructors": "Մինեհ Մինասսյան Չահարմահալի",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
     "status": "Ընթացքում գտնվող",
-    "x": 44.5385414,
-    "y": 40.197385,
-    "permit_number": "01/18-Մ-11856-1491",
-    "permit_start_dt": "21-10-2020",
-    "permit_end_dt": "12-02-2021",
-    "sketch": ""
+    "x": 44.5385279,
+    "y": 40.1974348,
+    "permit_number": "01/18-Դ-32937-1059",
+    "permit_start_dt": "29-06-2022",
+    "permit_end_dt": "29-12-2022",
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2019-07-16 00:00:00",
+          "number": "01/18-07/1-Ա-6437-658"
+        }
+      ]
+    }
   },
   {
     "id": 10,
@@ -80,11 +128,22 @@
     "permit_number": "01/18-Օ-697-1349",
     "permit_start_dt": "18-10-2019",
     "permit_end_dt": "18-05-2020",
-    "sketch": "/images/construction_sketches/159221810728.jpg"
+    "sketch": "/images/construction_sketches/159221810728.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2019-08-15 00:00:00",
+          "number": "01/18-07/1-Օ-456-803"
+        }
+      ]
+    }
   },
   {
-    "id": 131,
-    "image": "/images/Kanaker-Zeytun/131.jpg",
+    "id": 304,
+    "image": "/images/Kanaker-Zeytun/304.jpg",
     "construction_id": 6408,
     "district": "Քանաքեռ-Զեյթուն",
     "address": "Դավիթ Անհաղթի փողոց հ․14/15 և հ․14/12",
@@ -92,45 +151,94 @@
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
     "status": "Ընթացքում գտնվող",
-    "x": 44.5358734,
-    "y": 40.1977315,
-    "permit_number": "01/18-121569-193",
-    "permit_start_dt": "11-02-2021",
-    "permit_end_dt": "11-05-2022",
-    "sketch": "/images/construction_sketches/15821871867.jpg"
+    "x": 44.5358946,
+    "y": 40.1978054,
+    "permit_number": "01/18-Դ-10744-883",
+    "permit_start_dt": "26-05-2022",
+    "permit_end_dt": "26-03-2023",
+    "sketch": "/images/construction_sketches/15821871867.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2019-08-20 00:00:00",
+          "number": "01/18-07/1-Գ-5413-809"
+        }
+      ]
+    }
   },
   {
     "id": 132,
     "image": "/images/Kanaker-Zeytun/132.jpg",
     "construction_id": 7045,
     "district": "Քանաքեռ-Զեյթուն",
-    "address": "Ն․Գոգոլի փող․ հ․ 12 և 14 տներ",
-    "constructors": "Արմենուհի Մալխասյան",
+    "address": "Ն․Գոգոլի փողոց հ․12 և հ․14",
+    "constructors": "4Ա ԿԱՊԻՏԱԼ ՍՊԸ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
     "status": "Ընթացքում գտնվող",
     "x": 44.5387893,
     "y": 40.198436,
-    "permit_number": "01/18-50623-786",
-    "permit_start_dt": "01-07-2020",
-    "permit_end_dt": "01-07-2022",
-    "sketch": "/images/construction_sketches/159602999414.jpg"
+    "permit_number": "01/18-Դ-39468-1228",
+    "permit_start_dt": "21-07-2022",
+    "permit_end_dt": "21-01-2024",
+    "sketch": "/images/construction_sketches/159602999414.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2019-12-06 00:00:00",
+          "number": "01/18-07/1-Ե-2013-1252"
+        },
+        {
+          "released_at": "2019-12-26 00:00:00",
+          "number": "01/18-07/1-Ս-10479-1345"
+        }
+      ]
+    }
   },
   {
-    "id": 133,
+    "id": 305,
     "construction_id": 7657,
     "district": "Քանաքեռ-Զեյթուն",
-    "address": "Կ․Ուլնեցու փող․ հ․ 54",
-    "constructors": "Աննա Տեր-Մովսիսյան",
+    "address": "Կ․Ուլնեցու փողոց հ․54",
+    "constructors": "ՄՈՆՈՒՄԵՆՏ ԲՈՒՏԻԿ ՀԱՈՒՍ ՍՊԸ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
-    "status": "Չսկսված",
-    "x": 44.5306937,
-    "y": 40.2002673,
+    "status": "Ընթացքում գտնվող",
+    "x": 44.5315197,
+    "y": 40.1999929,
     "permit_number": "01/18-Տ-512-899",
     "permit_start_dt": "04-06-2021",
     "permit_end_dt": "04-12-2023",
-    "sketch": ""
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2020-04-02 00:00:00",
+          "number": "01/18-07/1-Չ-164-298"
+        },
+        {
+          "released_at": "2021-03-30 00:00:00",
+          "number": "01/18-07/1-Տ-283-199"
+        },
+        {
+          "released_at": "2021-05-07 00:00:00",
+          "number": "01/18-07/1-Տ-418-348"
+        },
+        {
+          "released_at": "2022-06-28 00:00:00",
+          "number": "01/18-07/1-Դ-9391-563"
+        }
+      ]
+    }
   },
   {
     "id": 134,
@@ -150,23 +258,35 @@
     "sketch": "/images/construction_sketches/160413807460.jpg"
   },
   {
-    "id": 135,
+    "id": 306,
+    "image": "/images/Kanaker-Zeytun/306.jpg",
     "construction_id": 8354,
     "district": "Քանաքեռ-Զեյթուն",
     "address": "Ուլնեցու փողոցի հ. 32/10",
-    "constructors": "ԴԻԱՐ-ՊՍ  ՍՊԸ",
+    "constructors": "Դ․Ի․Ա․Ր․-Պ․Ս․  ՍՊԸ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
-    "status": "Չսկսված",
-    "x": 44.5330801,
-    "y": 40.195726,
-    "permit_number": "",
-    "permit_start_dt": "",
-    "permit_end_dt": "",
-    "sketch": ""
+    "status": "Ընթացքում գտնվող",
+    "x": 44.5284362,
+    "y": 40.1984891,
+    "permit_number": "01/18-100167-1892",
+    "permit_start_dt": "12-11-2021",
+    "permit_end_dt": "10-03-2024",
+    "sketch": "/images/construction_sketches/16385279721.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2020-09-01 00:00:00",
+          "number": "01/18-07/1-Խ-2438-807"
+        }
+      ]
+    }
   },
   {
-    "id": 136,
+    "id": 307,
     "construction_id": 8450,
     "district": "Քանաքեռ-Զեյթուն",
     "address": "Կ. Ուլնեցի փողոցի հ. 58/10",
@@ -174,11 +294,50 @@
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
     "status": "Ընթացքում գտնվող",
-    "x": 44.5347217,
-    "y": 40.1980077,
+    "x": 44.5362655,
+    "y": 40.1976434,
     "permit_number": "01/18-34159-698",
     "permit_start_dt": "06-05-2021",
     "permit_end_dt": "06-09-2023",
-    "sketch": ""
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2020-09-28 00:00:00",
+          "number": "01/18-07/2-59697-904"
+        }
+      ]
+    }
+  },
+  {
+    "id": 308,
+    "image": "/images/Kanaker-Zeytun/308.jpg",
+    "construction_id": 9213,
+    "district": "Քանաքեռ-Զեյթուն",
+    "address": "Ուլնեցու փողոց հ.45/5",
+    "constructors": "Դավիթ Աղաբեկյան",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.5346442,
+    "y": 40.2039749,
+    "permit_number": "01/18-Ա-61-232",
+    "permit_start_dt": "04-03-2022",
+    "permit_end_dt": "04-03-2025",
+    "sketch": "/images/construction_sketches/164758896220.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-03-17 00:00:00",
+          "number": "01/18-07/1-Ա-2692-150"
+        }
+      ]
+    }
   }
 ]

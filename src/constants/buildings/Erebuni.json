@@ -1,7 +1,7 @@
 [
   {
-    "id": 199,
-    "image": "/images/Erebuni/199.jpg",
+    "id": 348,
+    "image": "/images/Erebuni/348.jpg",
     "construction_id": 1806,
     "district": "Էրեբունի",
     "address": "Էրեբունու փող․ հ 15/3 և 15/4",
@@ -9,49 +9,64 @@
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
     "status": "Ընթացքում գտնվող",
-    "x": 44.5196853,
-    "y": 40.1431184,
+    "x": 44.5194791,
+    "y": 40.1436041,
     "permit_number": "01/18-94736-1400",
     "permit_start_dt": "18-08-2021",
     "permit_end_dt": "18-08-2022",
-    "sketch": "/images/construction_sketches/159221757987.jpg"
+    "sketch": "/images/construction_sketches/159221757987.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2017-11-15 00:00:00",
+          "number": "01/18-07/2-52449-777"
+        },
+        {
+          "released_at": "2018-08-27 00:00:00",
+          "number": "01/18-07/2-57070-626"
+        }
+      ]
+    }
   },
   {
-    "id": 200,
-    "image": "/images/Erebuni/200.jpg",
+    "id": 349,
+    "image": "/images/Erebuni/349.jpg",
     "construction_id": 6299,
     "district": "Էրեբունի",
     "address": "Նոր Արեշ 35 փող․ հ․ 24",
     "constructors": "Դավիթ Մարտիրոսյան",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
-    "status": "Չսկսված",
-    "x": 44.5329642,
-    "y": 40.1391244,
+    "status": "Կառուցապատման աշխատանքները փաստացի ավարտված",
+    "x": 44.5327672,
+    "y": 40.1391367,
     "permit_number": "01/18-Մ-13355-1779",
     "permit_start_dt": "23-12-2020",
     "permit_end_dt": "23-08-2022",
     "sketch": "/images/construction_sketches/160923360818.jpg"
   },
   {
-    "id": 201,
+    "id": 349,
     "construction_id": 7022,
     "district": "Էրեբունի",
     "address": "Նոր Արեշ 35 փող․ հ․ 24",
     "constructors": "Դավիթ Մարտիրոսյան",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
-    "status": "Ընթացքում գտնվող",
-    "x": 44.5329335,
-    "y": 40.1391678,
+    "status": "Չսկսված",
+    "x": 44.5327672,
+    "y": 40.1391367,
     "permit_number": "",
     "permit_start_dt": "",
     "permit_end_dt": "",
     "sketch": ""
   },
   {
-    "id": 202,
-    "image": "/images/Erebuni/202.jpg",
+    "id": 350,
+    "image": "/images/Erebuni/350.jpg",
     "construction_id": 7715,
     "district": "Էրեբունի",
     "address": "Մուրացանի փող․ հ․ 129",
@@ -59,60 +74,103 @@
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
     "status": "Ընթացքում գտնվող",
-    "x": 44.5158081,
-    "y": 40.1458049,
+    "x": 44.51579,
+    "y": 40.1457653,
     "permit_number": "01/18-95176-1346",
     "permit_start_dt": "28-09-2020",
     "permit_end_dt": "27-11-2022",
     "sketch": "/images/construction_sketches/159825849597.jpg"
   },
   {
-    "id": 203,
-    "image": "/images/Erebuni/203.jpg",
+    "id": 351,
+    "image": "/images/Erebuni/351.jpg",
     "construction_id": 8266,
     "district": "Էրեբունի",
-    "address": "Տիտոգրադյան փող․ հ․1/2",
+    "address": "Տիտոգրադյան փողոց հ․1/2",
     "constructors": "Ինժգարանտ ՍՊԸ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
-    "status": "Ընթացքում գտնվող",
-    "x": 44.5245068,
-    "y": 40.1303926,
-    "permit_number": "01/18-66647-1022",
-    "permit_start_dt": "10-08-2020",
-    "permit_end_dt": "10-03-2022",
-    "sketch": "/images/construction_sketches/159827195398.jpg"
+    "status": "Կառուցապատման աշխատանքները փաստացի ավարտված",
+    "x": 44.5250573941,
+    "y": 40.132285296,
+    "permit_number": "01/18-Դ-33150-1208",
+    "permit_start_dt": "20-07-2022",
+    "permit_end_dt": "20-10-2022",
+    "sketch": "/images/construction_sketches/159827195398.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2019-12-05 00:00:00",
+          "number": "4543-Ա"
+        }
+      ]
+    }
   },
   {
-    "id": 204,
+    "id": 352,
+    "image": "/images/Erebuni/352.jpg",
+    "construction_id": 8332,
+    "district": "Էրեբունի",
+    "address": "Դավիթ Բեկի 1-ին թաղամաս հ.48",
+    "constructors": "Արմեն Փարսանդյան, Հովհաննես Փարսանդյան",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Կառուցապատման աշխատանքները փաստացի ավարտված",
+    "x": 44.5242768,
+    "y": 40.1472626,
+    "permit_number": "01/18-Փ-104-543",
+    "permit_start_dt": "01-04-2022",
+    "permit_end_dt": "01-06-2023",
+    "sketch": "/images/construction_sketches/160749245749.jpg"
+  },
+  {
+    "id": 353,
     "construction_id": 8489,
     "district": "Էրեբունի",
     "address": "Դավիթ Բեկ փողոցի հ. 1/25",
     "constructors": "«ԷԿՈԼՈՋԻ ՔՈՆՍՏՐԱՔՇՆ» ՍՊԸ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
-    "status": "Ընթացքում գտնվող",
-    "x": 44.5240935,
-    "y": 40.1518916,
+    "status": "Կառուցապատման աշխատանքները փաստացի ավարտված",
+    "x": 44.5240432,
+    "y": 40.1518575,
     "permit_number": "01/18-81396-1590",
     "permit_start_dt": "05-11-2020",
     "permit_end_dt": "05-11-2022",
-    "sketch": ""
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2020-01-24 00:00:00",
+          "number": "01/18-07/191-Ա"
+        },
+        {
+          "released_at": "2020-10-21 00:00:00",
+          "number": "01/18-07/2-99761-981"
+        }
+      ]
+    }
   },
   {
-    "id": 205,
+    "id": 354,
     "construction_id": 9160,
     "district": "Էրեբունի",
-    "address": "Նոր Արեշ 22-րդ փողոցի հ. 65 հ. 65/4 և հ. 65/5",
-    "constructors": "Կարեն Գևորգյան, Նարինե Գևորգյան, Նարինե Բադալյան",
+    "address": "Նոր Արեշ 22-րդ փողոցի հ.65 հ.65/4 և հ.65/5",
+    "constructors": "Նարինե Բադալյան, Ալլա Դավթյան",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
-    "status": "Ընթացքում գտնվող",
-    "x": 44.5234344,
-    "y": 40.1385156,
-    "permit_number": "01/18-Ք-700-864",
-    "permit_start_dt": "01-06-2021",
-    "permit_end_dt": "01-02-2023",
+    "status": "Կառուցապատման աշխատանքները փաստացի ավարտված",
+    "x": 44.5234575,
+    "y": 40.1385257,
+    "permit_number": "01/18-Դ-15577-969",
+    "permit_start_dt": "07-06-2022",
+    "permit_end_dt": "07-11-2022",
     "sketch": ""
   }
 ]

@@ -8,7 +8,7 @@
     "constructors": "Կաստոր ՍՊԸ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
-    "status": "Ժամանակավորապես դադարեցված",
+    "status": "Ընթացքում գտնվող",
     "x": 44.5054798899,
     "y": 40.19537495,
     "permit_number": "01/18-42072-621",
@@ -21,17 +21,28 @@
     "image": "/images/Arabkir/153.jpg",
     "construction_id": 198,
     "district": "Արաբկիր",
-    "address": "Արաբկիր 17-րդ փողոցի հ.14",
+    "address": "Արաբկիր 17-րդ փողոց հ.14",
     "constructors": "ԷՅՉ ԸՆԴ ՎԻ ՔՈՆՍԹՐԱՔՇՆՍ ՍՊԸ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
-    "status": "Կառուցապատման աշխատանքները փաստացի ավարտված",
+    "status": "Ընթացքում գտնվող",
     "x": 44.5089719,
     "y": 40.2030027,
-    "permit_number": "01/18-100858-1457",
-    "permit_start_dt": "25-08-2021",
-    "permit_end_dt": "25-09-2021",
-    "sketch": "/images/construction_sketches/159160626883.jpg"
+    "permit_number": "01/18-Դ-45520-1216",
+    "permit_start_dt": "20-07-2022",
+    "permit_end_dt": "20-08-2022",
+    "sketch": "/images/construction_sketches/159160626883.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2012-11-07 00:00:00",
+          "number": "01/18-07/2-42085-1042"
+        }
+      ]
+    }
   },
   {
     "id": 154,
@@ -48,23 +59,38 @@
     "permit_number": "01/18-Թ-672-809",
     "permit_start_dt": "29-07-2014",
     "permit_end_dt": "29-03-2015",
-    "sketch": "/images/construction_sketches/15916063834.jpg"
+    "sketch": "/images/construction_sketches/15916063834.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2004-04-28 00:00:00",
+          "number": "82"
+        },
+        {
+          "released_at": "2011-12-08 00:00:00",
+          "number": "01/18-07/1-Ա-5952-96"
+        }
+      ]
+    }
   },
   {
-    "id": 155,
-    "image": "/images/Arabkir/155.jpg",
+    "id": 318,
+    "image": "/images/Arabkir/318.jpg",
     "construction_id": 442,
     "district": "Արաբկիր",
     "address": "Շչորսի /Քեռու/ փողոցի հ.53",
-    "constructors": "Միսակ Թեբելեկյան",
+    "constructors": "Միսակ Թեբելեկյանի իրավահաջորդներ Թագուհի, Լևոն, Նուբար Թեբելեկյաններ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
     "status": "Ընթացքում գտնվող",
-    "x": 44.48690579,
-    "y": 40.20030948,
-    "permit_number": "01/18-Հ-926-314",
-    "permit_start_dt": "11-03-2020",
-    "permit_end_dt": "08-09-2021",
+    "x": 44.4871874,
+    "y": 40.2009805,
+    "permit_number": "01/18-Դ-37152-1223",
+    "permit_start_dt": "21-07-2022",
+    "permit_end_dt": "21-01-2024",
     "sketch": "/images/construction_sketches/159160631146.jpg"
   },
   {
@@ -85,7 +111,7 @@
     "sketch": "/images/construction_sketches/arabkir/8 Arabkir.jpg"
   },
   {
-    "id": 37,
+    "id": 319,
     "construction_id": 1376,
     "district": "Արաբկիր",
     "address": "Հյուսիսային Ճառագայթ թաղ․",
@@ -93,29 +119,12 @@
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
     "status": "Թույլտվությունը ուժը կորցրած ճանաչված",
-    "x": 44.516204832,
-    "y": 40.2028007398,
+    "x": 44.5159469,
+    "y": 40.2010295,
     "permit_number": "02/18-Հ-1683-264",
     "permit_start_dt": "04-04-2008",
     "permit_end_dt": "04-04-2009",
     "sketch": ""
-  },
-  {
-    "id": 157,
-    "image": "/images/Arabkir/157.jpg",
-    "construction_id": 1447,
-    "district": "Արաբկիր",
-    "address": "Մալխասյանց փող․ հ․ 12/2",
-    "constructors": "Ա․Վ․Ա․Ս․ ՍՊԸ",
-    "building_type": "Բնակելի շինություններ",
-    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
-    "status": "Ընթացքում գտնվող",
-    "x": 44.5077802,
-    "y": 40.2102686,
-    "permit_number": "01/18-Պ-2065-1640",
-    "permit_start_dt": "18-11-2020",
-    "permit_end_dt": "18-11-2023",
-    "sketch": "/images/construction_sketches/arabkir/20 Arabkir.jpg"
   },
   {
     "id": 158,
@@ -126,7 +135,7 @@
     "constructors": "Սվետլանա Օհանյան",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
-    "status": "Ընթացքում գտնվող",
+    "status": "Կառուցապատման աշխատանքները փաստացի ավարտված",
     "x": 44.5208706092,
     "y": 40.2043878104,
     "permit_number": "01/18-Օ-598-1397",
@@ -156,21 +165,32 @@
     "image": "/images/Arabkir/159.jpg",
     "construction_id": 3982,
     "district": "Արաբկիր",
-    "address": "Սևքարեցի Սաքոյի փող․ հ․ 19 տուն",
+    "address": "Սևքարեցի Սաքոյի փողոց հ․19 տուն",
     "constructors": "Ծերուն Հակոբյան և համակառուցապատողներ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
     "status": "Ընթացքում գտնվող",
     "x": 44.4946085,
     "y": 40.2065745,
-    "permit_number": "01/18-Մ-10962-1399",
-    "permit_start_dt": "18-08-2021",
-    "permit_end_dt": "17-02-2022",
-    "sketch": "/images/construction_sketches/arabkir/58 Arabkir.jpg"
+    "permit_number": "01/18-Մ-1922-442",
+    "permit_start_dt": "25-03-2022",
+    "permit_end_dt": "25-08-2022",
+    "sketch": "/images/construction_sketches/arabkir/58 Arabkir.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2019-04-29 00:00:00",
+          "number": "01/18-07/1362-Ա"
+        }
+      ]
+    }
   },
   {
-    "id": 160,
-    "image": "/images/Arabkir/160.jpg",
+    "id": 320,
+    "image": "/images/Arabkir/320.jpg",
     "construction_id": 4768,
     "district": "Արաբկիր",
     "address": "Արաբկիր փող․ հ․ 51/9 և 51 փող․ հ․ 12/2 տուն",
@@ -178,12 +198,27 @@
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
     "status": "Ընթացքում գտնվող",
-    "x": 44.5207214892,
-    "y": 40.2019428154,
+    "x": 44.5206888,
+    "y": 40.2017261,
     "permit_number": "01/18-Հ-2996-383",
     "permit_start_dt": "17-03-2021",
     "permit_end_dt": "16-03-2024",
-    "sketch": "/images/construction_sketches/161771172215.jpg"
+    "sketch": "/images/construction_sketches/161771172215.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2018-09-03 00:00:00",
+          "number": "01/18-07/1-Ս-4968-661"
+        },
+        {
+          "released_at": "2019-08-20 00:00:00",
+          "number": "01/18-07/1-Հ-7135-810"
+        }
+      ]
+    }
   },
   {
     "id": 161,
@@ -200,7 +235,18 @@
     "permit_number": "02/18-2792-188",
     "permit_start_dt": "12-03-2008",
     "permit_end_dt": "12-01-2011",
-    "sketch": "/images/construction_sketches/159160642683.jpg"
+    "sketch": "/images/construction_sketches/159160642683.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2007-09-27 00:00:00",
+          "number": "50/2-15913-915"
+        }
+      ]
+    }
   },
   {
     "id": 46,
@@ -217,7 +263,18 @@
     "permit_number": "40",
     "permit_start_dt": "09-07-2018",
     "permit_end_dt": "09-07-2020",
-    "sketch": "/images/construction_sketches/arabkir/95 Arabkir.jpg"
+    "sketch": "/images/construction_sketches/arabkir/95 Arabkir.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2018-06-21 00:00:00",
+          "number": "25/01-29"
+        }
+      ]
+    }
   },
   {
     "id": 47,
@@ -236,38 +293,96 @@
     "sketch": ""
   },
   {
+    "id": 321,
+    "image": "/images/Arabkir/321.jpg",
+    "construction_id": 5004,
+    "district": "Արաբկիր",
+    "address": "Հ․Բաբայան փողոց հ․26/3 և հ․39/1",
+    "constructors": "Վահե Մաթոսյան",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.5131692,
+    "y": 40.1997259,
+    "permit_number": "60",
+    "permit_start_dt": "20-09-2018",
+    "permit_end_dt": "20-09-2020",
+    "sketch": "/images/construction_sketches/arabkir/104 Arabkir.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2018-08-31 00:00:00",
+          "number": "25/01-50"
+        },
+        {
+          "released_at": "2019-11-27 00:00:00",
+          "number": "01/18-07/1-Մ-11066-1211"
+        },
+        {
+          "released_at": "2022-03-16 00:00:00",
+          "number": "01/18-07/1-Բ-386-150"
+        }
+      ]
+    }
+  },
+  {
     "id": 162,
     "image": "/images/Arabkir/162.jpg",
     "construction_id": 5349,
     "district": "Արաբկիր",
-    "address": "Բարբյուսի փող․ հ․ 60/1 և 63/1",
+    "address": "Բարբյուսի փողոց հ․60/1 և հ․63/1",
     "constructors": "Բարբյուս ՍՊԸ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
     "status": "Ընթացքում գտնվող",
     "x": 44.48357849,
     "y": 40.19445103,
-    "permit_number": "01/18-Ղ-1214-722",
-    "permit_start_dt": "15-06-2020",
-    "permit_end_dt": "15-09-2022",
-    "sketch": "/images/construction_sketches/arabkir/124 Arabkir.jpg"
+    "permit_number": "01/18-Դ-34801-1322",
+    "permit_start_dt": "27-07-2022",
+    "permit_end_dt": "27-09-2023",
+    "sketch": "/images/construction_sketches/arabkir/124 Arabkir.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2019-02-28 00:00:00",
+          "number": "01/18-07/1-Ղ-388-101"
+        }
+      ]
+    }
   },
   {
     "id": 163,
     "image": "/images/Arabkir/163.jpg",
     "construction_id": 5451,
     "district": "Արաբկիր",
-    "address": "Արաբկիր 29 փող․ 1-ին նրբ․ հ․ 5 տուն",
+    "address": "Արաբկիր 29 փողոց 1-ին նրբանցք հ․5 տուն",
     "constructors": "ԱՆՏՈՇԵՆ ՍՊԸ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
     "status": "Ընթացքում գտնվող",
     "x": 44.5119473,
     "y": 40.1976482,
-    "permit_number": "01/18-Ք-841-1090",
-    "permit_start_dt": "05-09-2019",
-    "permit_end_dt": "03-10-2021",
-    "sketch": "/images/construction_sketches/arabkir/130 Arabkir.jpg"
+    "permit_number": "01/18-Ք-165-579",
+    "permit_start_dt": "08-04-2022",
+    "permit_end_dt": "08-12-2023",
+    "sketch": "/images/construction_sketches/arabkir/130 Arabkir.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2019-03-19 00:00:00",
+          "number": "01/18-07/1-Խ-486-162"
+        }
+      ]
+    }
   },
   {
     "id": 164,
@@ -278,81 +393,112 @@
     "constructors": "Արմստրոյ Պրոյեկտ ՍՊԸ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
-    "status": "Ժամանակավորապես դադարեցված",
+    "status": "Դատարանի որոշումով կասեցված",
     "x": 44.5122198,
     "y": 40.213348,
     "permit_number": "01/18-104100-1540",
     "permit_start_dt": "03-12-2019",
     "permit_end_dt": "03-04-2022",
-    "sketch": "/images/construction_sketches/arabkir/133 Arabkir.jpg"
+    "sketch": "/images/construction_sketches/arabkir/133 Arabkir.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2019-03-27 00:00:00",
+          "number": "01/18-07/2-19513-203"
+        }
+      ]
+    }
   },
   {
-    "id": 165,
-    "image": "/images/Arabkir/165.jpg",
+    "id": 322,
+    "image": "/images/Arabkir/322.jpg",
     "construction_id": 5558,
     "district": "Արաբկիր",
-    "address": "39 փող․ հ․ 27 տուն",
+    "address": "Արաբկիր 39-րդ փողոց հ․27",
     "constructors": "Առլեն Շահվերդի և համակառուցապատողներ, Սուսաննա Միրզոյան, Ռուբեն Գրիգորյան",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
     "status": "Կառուցապատման աշխատանքները փաստացի ավարտված",
-    "x": 44.5150532305,
-    "y": 40.2022232602,
-    "permit_number": "01/18-Շ-1264-1503",
-    "permit_start_dt": "20-11-2019",
-    "permit_end_dt": "20-11-2021",
-    "sketch": "/images/construction_sketches/arabkir/135 Arabkir.jpg"
+    "x": 44.5151527,
+    "y": 40.2019417,
+    "permit_number": "01/18-Դ-27599-1060",
+    "permit_start_dt": "29-06-2022",
+    "permit_end_dt": "29-09-2022",
+    "sketch": "/images/construction_sketches/arabkir/135 Arabkir.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2019-04-10 00:00:00",
+          "number": "01/18-07/1-Գ-1502-259"
+        },
+        {
+          "released_at": "2019-06-07 00:00:00",
+          "number": "01/18-07/1-Գ-3126-488"
+        }
+      ]
+    }
   },
   {
     "id": 166,
     "image": "/images/Arabkir/166.jpg",
     "construction_id": 5578,
     "district": "Արաբկիր",
-    "address": "39 փող․ հ․ 25 տուն",
+    "address": "Արաբկիր 39 փողոց հ․25 տուն",
     "constructors": "Առլեն Շահվերդի և համակառուցապատողներ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
     "status": "Կառուցապատման աշխատանքները փաստացի ավարտված",
     "x": 44.5148425704,
     "y": 40.2024847337,
-    "permit_number": "01/18-Շ-281-392",
-    "permit_start_dt": "17-03-2021",
-    "permit_end_dt": "17-09-2021",
-    "sketch": "/images/construction_sketches/arabkir/136 Arabkir.jpg"
+    "permit_number": "01/18-Դ-2797-1061",
+    "permit_start_dt": "29-06-2022",
+    "permit_end_dt": "29-09-2022",
+    "sketch": "/images/construction_sketches/arabkir/136 Arabkir.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2019-02-18 00:00:00",
+          "number": "01/18-07/1-Շ-97-72"
+        }
+      ]
+    }
   },
   {
-    "id": 167,
-    "image": "/images/Arabkir/167.jpg",
-    "construction_id": 5622,
-    "district": "Արաբկիր",
-    "address": "Կոմիտասի պողոտա հ․ 19/3",
-    "constructors": "Կապիտալ Բիլդ ՍՊԸ",
-    "building_type": "Բնակելի շինություններ",
-    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
-    "status": "Կառուցապատման աշխատանքները փաստացի ավարտված",
-    "x": 44.50054197,
-    "y": 40.20428497,
-    "permit_number": "01/18-Գ-1224-428",
-    "permit_start_dt": "23-03-2021",
-    "permit_end_dt": "23-09-2021",
-    "sketch": "/images/construction_sketches/arabkir/142 Arabkir.jpg"
-  },
-  {
-    "id": 168,
-    "image": "/images/Arabkir/168.jpg",
+    "id": 323,
+    "image": "/images/Arabkir/323.jpg",
     "construction_id": 5759,
     "district": "Արաբկիր",
-    "address": "Ա․Գրիբոյեդովի փող․ հ․ 21/8",
+    "address": "Ա․Գրիբոյեդովի փողոց հ․21/8",
     "constructors": "Հիմք Դիր ՍՊԸ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
-    "status": "Կառուցապատման աշխատանքները փաստացի ավարտված",
-    "x": 44.5139411543,
-    "y": 40.2123096619,
-    "permit_number": "01/18-117922-1758",
-    "permit_start_dt": "16-12-2020",
-    "permit_end_dt": "17-02-2022",
-    "sketch": "/images/construction_sketches/arabkir/146 Arabkir.jpg"
+    "status": "Ընթացքում գտնվող",
+    "x": 44.5156865,
+    "y": 40.2136427,
+    "permit_number": "01/18-Դ-30760-1212",
+    "permit_start_dt": "20-07-2022",
+    "permit_end_dt": "20-10-2022",
+    "sketch": "/images/construction_sketches/arabkir/146 Arabkir.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2019-05-20 00:00:00",
+          "number": "01/18-07/1-Խ-1568-388"
+        }
+      ]
+    }
   },
   {
     "id": 169,
@@ -369,24 +515,50 @@
     "permit_number": "01/18-87598-1454",
     "permit_start_dt": "12-10-2020",
     "permit_end_dt": "12-02-2022",
-    "sketch": "/images/construction_sketches/arabkir/154 Arabkir.jpg"
+    "sketch": "/images/construction_sketches/arabkir/154 Arabkir.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2019-06-07 00:00:00",
+          "number": "01/18-07/1-Հ-4439-485"
+        },
+        {
+          "released_at": "2019-08-05 00:00:00",
+          "number": "01/18-07/1-Հ-1658-770"
+        }
+      ]
+    }
   },
   {
     "id": 170,
     "image": "/images/Arabkir/170.jpg",
     "construction_id": 5939,
     "district": "Արաբկիր",
-    "address": "Արաբկիր 27 փող․ հ․ 9 տուն",
+    "address": "Արաբկիր 27-րդ փողոց հ․9 տուն",
     "constructors": "Դակավա Քոնսթրաքշն ՍՊԸ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
     "status": "Ընթացքում գտնվող",
     "x": 44.5100616926,
     "y": 40.2004901023,
-    "permit_number": "01/18-124232-5",
-    "permit_start_dt": "20-01-2020",
-    "permit_end_dt": "20-05-2022",
-    "sketch": "/images/construction_sketches/159160569680.jpg"
+    "permit_number": "01/18-Դ-26358-976",
+    "permit_start_dt": "13-06-2022",
+    "permit_end_dt": "13-12-2022",
+    "sketch": "/images/construction_sketches/159160569680.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2019-06-06 00:00:00",
+          "number": "01/18-07/2-44075-471"
+        }
+      ]
+    }
   },
   {
     "id": 171,
@@ -403,24 +575,46 @@
     "permit_number": "01/18-82268-1238",
     "permit_start_dt": "22-07-2021",
     "permit_end_dt": "21-09-2023",
-    "sketch": "/images/construction_sketches/159160606213.jpg"
+    "sketch": "/images/construction_sketches/159160606213.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2019-06-21 00:00:00",
+          "number": "01/18-07/1-Ա-5626-553"
+        }
+      ]
+    }
   },
   {
     "id": 172,
     "image": "/images/Arabkir/172.jpg",
     "construction_id": 6088,
     "district": "Արաբկիր",
-    "address": "21-րդ փող․ հ․ 26",
+    "address": "Արաբկիր 21-րդ փողոց հ․26",
     "constructors": "ԱՎԱ Կոնստրակշն ՍՊԸ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
     "status": "Ընթացքում գտնվող",
     "x": 44.50896938,
     "y": 40.20151761,
-    "permit_number": "01/18-38030-619",
-    "permit_start_dt": "20-05-2020",
-    "permit_end_dt": "20-05-2022",
-    "sketch": "/images/construction_sketches/159170681721.jpg"
+    "permit_number": "01/18-Դ-16695-892",
+    "permit_start_dt": "01-06-2022",
+    "permit_end_dt": "01-12-2023",
+    "sketch": "/images/construction_sketches/159170681721.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2019-06-27 00:00:00",
+          "number": "01/18-07/2-46540-582"
+        }
+      ]
+    }
   },
   {
     "id": 173,
@@ -437,11 +631,22 @@
     "permit_number": "01/18-Ա-8861-1104",
     "permit_start_dt": "06-09-2019",
     "permit_end_dt": "06-09-2021",
-    "sketch": "/images/construction_sketches/arabkir/174 Arabkir.jpg"
+    "sketch": "/images/construction_sketches/arabkir/174 Arabkir.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2019-07-15 00:00:00",
+          "number": "01/18-07/1-Ա-6453-648"
+        }
+      ]
+    }
   },
   {
-    "id": 174,
-    "image": "/images/Arabkir/174.jpg",
+    "id": 324,
+    "image": "/images/Arabkir/324.jpg",
     "construction_id": 6270,
     "district": "Արաբկիր",
     "address": "Արաբկիր 51-րդ փողոց հ․ 3/1",
@@ -449,36 +654,62 @@
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
     "status": "Ընթացքում գտնվող",
-    "x": 44.51736352,
-    "y": 40.20189398,
+    "x": 44.5175010199,
+    "y": 40.2021319256,
     "permit_number": "01/18-120584-506",
     "permit_start_dt": "05-04-2021",
     "permit_end_dt": "04-05-2023",
-    "sketch": "/images/construction_sketches/159160645918.jpg"
+    "sketch": "/images/construction_sketches/159160645918.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2008-02-13 00:00:00",
+          "number": "50/2-2383-74"
+        },
+        {
+          "released_at": "2019-07-24 00:00:00",
+          "number": "01/18-07/2-56172-708"
+        }
+      ]
+    }
   },
   {
-    "id": 175,
-    "image": "/images/Arabkir/175.jpg",
+    "id": 325,
+    "image": "/images/Arabkir/325.jpg",
     "construction_id": 6442,
     "district": "Արաբկիր",
     "address": "Համբարձումյան փողոց հ․ 113",
-    "constructors": "Արտքոմփանի ՍՊԸ",
+    "constructors": "ԱՐՏՔՈՄՓԱՆԻ ՍՊԸ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
     "status": "Ընթացքում գտնվող",
-    "x": 44.5042814,
-    "y": 40.1987577,
-    "permit_number": "01/18-16307-410",
-    "permit_start_dt": "02-04-2020",
-    "permit_end_dt": "02-04-2024",
-    "sketch": "/images/construction_sketches/159160595648.jpg"
+    "x": 44.5040923,
+    "y": 40.1985771,
+    "permit_number": "01/18-Ք-1825-2248",
+    "permit_start_dt": "29-12-2021",
+    "permit_end_dt": "29-12-2022",
+    "sketch": "/images/construction_sketches/159160595648.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2019-08-27 00:00:00",
+          "number": "01/18-07/1-Ս-5614-832"
+        }
+      ]
+    }
   },
   {
     "id": 176,
     "construction_id": 6955,
     "district": "Արաբկիր",
     "address": "Հ․Էմինի փող․ հ․ 74",
-    "constructors": "Ալֆրեդ Մաիլյան և համակառուցապատողներ",
+    "constructors": "Վաս-Շին ՍՊԸ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
     "status": "Չսկսված",
@@ -487,7 +718,22 @@
     "permit_number": "",
     "permit_start_dt": "",
     "permit_end_dt": "",
-    "sketch": ""
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2019-11-20 00:00:00",
+          "number": "01/18-07/1-Հ-8349-1176"
+        },
+        {
+          "released_at": "2021-09-09 00:00:00",
+          "number": "01/18-07/2-101903-850"
+        }
+      ]
+    }
   },
   {
     "id": 177,
@@ -503,7 +749,18 @@
     "permit_number": "01/18-89597-1550",
     "permit_start_dt": "27-10-2020",
     "permit_end_dt": "27-06-2022",
-    "sketch": ""
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2019-12-06 00:00:00",
+          "number": "01/18-07/1-Պ-2732-1250"
+        }
+      ]
+    }
   },
   {
     "id": 178,
@@ -520,58 +777,122 @@
     "permit_number": "01/18-129752-1872",
     "permit_start_dt": "30-12-2020",
     "permit_end_dt": "30-04-2023",
-    "sketch": "/images/construction_sketches/158945512714.jpg"
+    "sketch": "/images/construction_sketches/158945512714.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2019-12-19 00:00:00",
+          "number": "01/18-07/1-Է-299-1311"
+        }
+      ]
+    }
   },
   {
     "id": 179,
     "image": "/images/Arabkir/179.jpg",
     "construction_id": 7139,
     "district": "Արաբկիր",
-    "address": "Արաբկիր 29-դ փողոց հ․ 51",
+    "address": "Արաբկիր 29-րդ փողոց հ․51",
     "constructors": "ԱՄԵԼԻ ԳՐՈՒՊՍ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
     "status": "Ընթացքում գտնվող",
     "x": 44.5095685099,
     "y": 40.2032105027,
-    "permit_number": "01/18-84033-1343",
-    "permit_start_dt": "28-09-2020",
-    "permit_end_dt": "18-09-2022",
-    "sketch": "/images/construction_sketches/160387270792.jpg"
+    "permit_number": "01/18-25538-467",
+    "permit_start_dt": "25-03-2022",
+    "permit_end_dt": "05-02-2024",
+    "sketch": "/images/construction_sketches/160387270792.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2019-12-27 00:00:00",
+          "number": "01/18-07/1-Բ-4059-1361"
+        },
+        {
+          "released_at": "2021-01-25 00:00:00",
+          "number": "01/18-07/2-6846-6"
+        }
+      ]
+    }
   },
   {
     "id": 180,
     "image": "/images/Arabkir/180.jpg",
     "construction_id": 7145,
     "district": "Արաբկիր",
-    "address": "Աղբյուր Սերոբի փող․ հ․ 18",
-    "constructors": "Էդուարդ Սուքիասյան, Ագնեսա Մանուկյան",
+    "address": "Աղբյուր Սերոբի փողոց հ․18",
+    "constructors": "ԱՐՍԱԼԵԴԱ ՍՊԸ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
     "status": "Ընթացքում գտնվող",
     "x": 44.5035477,
     "y": 40.1970889,
-    "permit_number": "01/18-Ս-4181-1006",
-    "permit_start_dt": "10-08-2020",
-    "permit_end_dt": "10-08-2022",
-    "sketch": "/images/construction_sketches/159826753130.jpg"
+    "permit_number": "01/18-159723-233",
+    "permit_start_dt": "04-03-2022",
+    "permit_end_dt": "04-03-2024",
+    "sketch": "/images/construction_sketches/159826753130.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2019-12-16 00:00:00",
+          "number": "01/18-07/2-116226-1352"
+        },
+        {
+          "released_at": "2020-05-20 00:00:00",
+          "number": "01/18-07/1-Ս-1742-438"
+        },
+        {
+          "released_at": "2021-08-24 00:00:00",
+          "number": "01/18-07/2-104527-778"
+        }
+      ]
+    }
   },
   {
     "id": 181,
     "image": "/images/Arabkir/181.jpg",
     "construction_id": 7438,
     "district": "Արաբկիր",
-    "address": "Սևքարեցի Սաքոյի փող․ հ․ 20",
+    "address": "Սևքարեցի Սաքոյի փողոց հ․20",
     "constructors": "Հարմիկ Զովելյան, Արթուր Ջաղասբանյան, Նարեկ Շահնազարյան",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
     "status": "Ընթացքում գտնվող",
     "x": 44.4945585,
     "y": 40.2069615,
-    "permit_number": "01/18-Շ-1488-190",
-    "permit_start_dt": "11-02-2021",
-    "permit_end_dt": "11-02-2023",
-    "sketch": "/images/construction_sketches/161423941668.jpg"
+    "permit_number": "01/18-Դ-28299-1283",
+    "permit_start_dt": "25-07-2022",
+    "permit_end_dt": "25-02-2023",
+    "sketch": "/images/construction_sketches/161423941668.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2020-02-28 00:00:00",
+          "number": "01/18-07/1-Ք-1534-173"
+        },
+        {
+          "released_at": "2020-07-01 00:00:00",
+          "number": "01/18-07/1-Շ-531-542"
+        },
+        {
+          "released_at": "2020-08-31 00:00:00",
+          "number": "01/18-07/1-Շ-938-770"
+        }
+      ]
+    }
   },
   {
     "id": 182,
@@ -587,7 +908,22 @@
     "permit_number": "",
     "permit_start_dt": "",
     "permit_end_dt": "",
-    "sketch": ""
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2020-03-12 00:00:00",
+          "number": "01/18-07/1-Մ-15923-219"
+        },
+        {
+          "released_at": "2022-02-17 00:00:00",
+          "number": "01/18-07/1-Մ-421-53"
+        }
+      ]
+    }
   },
   {
     "id": 183,
@@ -597,13 +933,28 @@
     "constructors": "«ՏՆԱԿ ՇԻՆ» ՍՊԸ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
-    "status": "Չսկսված",
+    "status": "Ընթացքում գտնվող",
     "x": 44.5095330407,
     "y": 40.2024672469,
     "permit_number": "01/18-Կ-3837-55",
     "permit_start_dt": "21-10-2020",
     "permit_end_dt": "21-01-2021",
-    "sketch": ""
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2020-04-03 00:00:00",
+          "number": "01/18-07/1-Ա-2175-300"
+        },
+        {
+          "released_at": "2021-06-04 00:00:00",
+          "number": "01/18-07/1-Շ-505-461"
+        }
+      ]
+    }
   },
   {
     "id": 184,
@@ -620,7 +971,18 @@
     "permit_number": "01/18-Շ-1504-195",
     "permit_start_dt": "11-02-2021",
     "permit_end_dt": "11-02-2023",
-    "sketch": "/images/construction_sketches/161423290159.jpg"
+    "sketch": "/images/construction_sketches/161423290159.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2020-04-03 00:00:00",
+          "number": "01/18-07/1-Մ-1190-301"
+        }
+      ]
+    }
   },
   {
     "id": 185,
@@ -637,7 +999,18 @@
     "permit_number": "01/18-Ղ-3110-1801",
     "permit_start_dt": "28-12-2020",
     "permit_end_dt": "28-06-2023",
-    "sketch": "/images/construction_sketches/160931860742.jpg"
+    "sketch": "/images/construction_sketches/160931860742.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2020-04-03 00:00:00",
+          "number": "01/18-07/1-Փ-555-305"
+        }
+      ]
+    }
   },
   {
     "id": 186,
@@ -651,17 +1024,28 @@
     "status": "Ընթացքում գտնվող",
     "x": 44.5031664,
     "y": 40.2053106,
-    "permit_number": "01/18-125936-191",
-    "permit_start_dt": "11-02-2021",
-    "permit_end_dt": "11-05-2024",
-    "sketch": "/images/construction_sketches/161416944543.jpg"
+    "permit_number": "01/18-Դ-17028-900",
+    "permit_start_dt": "02-06-2022",
+    "permit_end_dt": "02-05-2024",
+    "sketch": "/images/construction_sketches/161416944543.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2020-04-23 00:00:00",
+          "number": "01/18-07/2-32474-355"
+        }
+      ]
+    }
   },
   {
     "id": 187,
     "image": "/images/Arabkir/187.jpg",
     "construction_id": 7700,
     "district": "Արաբկիր",
-    "address": "Գ․Սունդուկյան փող․ հ․ 22 տուն",
+    "address": "Գ․Սունդուկյան փողոց հ․22 տուն",
     "constructors": "Անաիդա Օդաբաշյան",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
@@ -671,7 +1055,22 @@
     "permit_number": "01/18-Գ-6511-56",
     "permit_start_dt": "21-10-2020",
     "permit_end_dt": "21-01-2021",
-    "sketch": "/images/construction_sketches/159437941323.jpg"
+    "sketch": "/images/construction_sketches/159437941323.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2020-04-10 00:00:00",
+          "number": "01/18-07/1-Գ-607-325"
+        },
+        {
+          "released_at": "2022-04-15 00:00:00",
+          "number": "01/18-07/1-Դ-830-278"
+        }
+      ]
+    }
   },
   {
     "id": 188,
@@ -687,30 +1086,52 @@
     "permit_number": "",
     "permit_start_dt": "",
     "permit_end_dt": "",
-    "sketch": ""
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2020-04-29 00:00:00",
+          "number": "01/18-07/1-Ղ-830-380"
+        }
+      ]
+    }
   },
   {
     "id": 189,
     "construction_id": 7748,
     "district": "Արաբկիր",
-    "address": "Ռիգայի փող․ հ․ 126/8",
+    "address": "Ռիգայի փողոց հ․126/8",
     "constructors": "Մեծն Էրիկ ՍՊԸ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
     "status": "Ընթացքում գտնվող",
     "x": 44.509652,
     "y": 40.1982272,
-    "permit_number": "01/18-111631-1666",
-    "permit_start_dt": "23-11-2020",
-    "permit_end_dt": "23-09-2023",
-    "sketch": ""
+    "permit_number": "01/18-Դ-17654-1141",
+    "permit_start_dt": "01-07-2022",
+    "permit_end_dt": "01-05-2025",
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2020-04-28 00:00:00",
+          "number": "01/18-07/1-Ս-1307-369"
+        }
+      ]
+    }
   },
   {
     "id": 190,
     "construction_id": 7765,
     "district": "Արաբկիր",
-    "address": "Ս․Մալխասյանց փող․1-ին նրբ․ հ․ 3",
-    "constructors": "Կարեն Նահապետյան, Էրիկ Պետրոսյան",
+    "address": "Ս․Մալխասյանց փողոց 1-ին նրբանցք հ․3",
+    "constructors": "ԷԴԻՖԱՅՍ ՍՊԸ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
     "status": "Չսկսված",
@@ -719,7 +1140,22 @@
     "permit_number": "",
     "permit_start_dt": "",
     "permit_end_dt": "",
-    "sketch": ""
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2020-05-06 00:00:00",
+          "number": "01/18-07/1-Ն-654-394"
+        },
+        {
+          "released_at": "2022-05-25 00:00:00",
+          "number": "01/18-07/1-դ-17518-432"
+        }
+      ]
+    }
   },
   {
     "id": 69,
@@ -736,36 +1172,59 @@
     "permit_number": "01/18-31384-606",
     "permit_start_dt": "19-04-2021",
     "permit_end_dt": "19-04-2023",
-    "sketch": "/images/construction_sketches/161901125816.jpg"
+    "sketch": "/images/construction_sketches/161901125816.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2020-05-11 00:00:00",
+          "number": "01/18-07/1-Մ-2766-412"
+        }
+      ]
+    }
   },
   {
     "id": 191,
+    "image": "/images/Arabkir/191.jpg",
     "construction_id": 7977,
     "district": "Արաբկիր",
-    "address": "Վ․Համբարձումյան փող․ հ․ 25,27,27/1,27/2",
-    "constructors": "Տիգրան Դարբինյան և համակառուցապատողներ",
-    "building_type": "Բնակելի շինություններ",
-    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
-    "status": "Չսկսված",
-    "x": 44.4982473,
-    "y": 40.1963134,
-    "permit_number": "",
-    "permit_start_dt": "",
-    "permit_end_dt": "",
-    "sketch": ""
-  },
-  {
-    "id": 192,
-    "image": "/images/Arabkir/192.jpg",
-    "construction_id": 8022,
-    "district": "Արաբկիր",
-    "address": "Վրացական փող․ 2-րդ նրբ․ հ․ 8/1",
-    "constructors": "Լիանա Ղազարյան, Թումաս Քրի Քուրյան Շահբազի",
+    "address": "Վ․Համբարձումյան փողոց հ․25",
+    "constructors": "Գևորկ Դարբինյան",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
     "status": "Ընթացքում գտնվող",
-    "x": 44.5122245,
-    "y": 40.2050323,
+    "x": 44.4982473,
+    "y": 40.1963134,
+    "permit_number": "01/18-Դ-42522-1260",
+    "permit_start_dt": "21-07-2022",
+    "permit_end_dt": "21-11-2024",
+    "sketch": "/images/construction_sketches/163851964859.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2020-06-26 00:00:00",
+          "number": "01/18-07/1-Դ-1034-527"
+        }
+      ]
+    }
+  },
+  {
+    "id": 326,
+    "image": "/images/Arabkir/326.jpg",
+    "construction_id": 8022,
+    "district": "Արաբկիր",
+    "address": "Վրացական փող․ 2-րդ նրբ․ հ․ 8/1",
+    "constructors": "ԲՐԱՆՔՍ ՍՊԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Ընթացքում գտնվող",
+    "x": 44.5117773,
+    "y": 40.2051807,
     "permit_number": "01/18-Զ-1095-217",
     "permit_start_dt": "17-02-2021",
     "permit_end_dt": "17-02-2023",
@@ -775,17 +1234,28 @@
     "id": 193,
     "construction_id": 8036,
     "district": "Արաբկիր",
-    "address": "Արաբկիր 44 փող․ հ․ 41 և 41/1",
-    "constructors": "Վարթան Էսրայիլյան",
+    "address": "Արաբկիր 44-րդ փողոց հ․41 և 41/1",
+    "constructors": "Վարթան Էսրայիլի Էսրայիլյան Լիվասգանի",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
-    "status": "Չսկսված",
+    "status": "Ընթացքում գտնվող",
     "x": 44.4978153287,
     "y": 40.2060350485,
-    "permit_number": "",
-    "permit_start_dt": "",
-    "permit_end_dt": "",
-    "sketch": ""
+    "permit_number": "01/18-Հ-11-110",
+    "permit_start_dt": "17-02-2022",
+    "permit_end_dt": "17-02-2024",
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2020-07-01 00:00:00",
+          "number": "01/18-07/1-Է-71-541"
+        }
+      ]
+    }
   },
   {
     "id": 194,
@@ -801,29 +1271,102 @@
     "permit_number": "",
     "permit_start_dt": "",
     "permit_end_dt": "",
-    "sketch": ""
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2020-08-10 00:00:00",
+          "number": "01/18-07/1-Հ-4511-686"
+        }
+      ]
+    }
   },
   {
     "id": 195,
     "construction_id": 8395,
     "district": "Արաբկիր",
-    "address": "Գ. Արծրունու փողոցի հ. 78",
+    "address": "Գ. Արծրունու փողոց հ.78",
     "constructors": "Անդրե Հարությունյան",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
     "status": "Չսկսված",
     "x": 44.504356041,
     "y": 40.203731098,
-    "permit_number": "01/18-Բ-4592-60",
-    "permit_start_dt": "30-11-2020",
-    "permit_end_dt": "02-03-2021",
+    "permit_number": "01/18-Հ-1299-629",
+    "permit_start_dt": "13-04-2022",
+    "permit_end_dt": "13-04-2024",
     "sketch": ""
+  },
+  {
+    "id": 327,
+    "construction_id": 8674,
+    "district": "Արաբկիր",
+    "address": "Արաբկիր 39-րդ փողոցի հ.21-23",
+    "constructors": "ԲԵՍՏ ԲԻԼԴ ՍՊԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Ժամանակավորապես դադարեցված",
+    "x": 44.5149278641,
+    "y": 40.2020182448,
+    "permit_number": "01/18-Շ-1588-104",
+    "permit_start_dt": "15-12-2021",
+    "permit_end_dt": "15-04-2022",
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2020-11-23 00:00:00",
+          "number": "01/18-07/1-Շ-1100-1086"
+        },
+        {
+          "released_at": "2021-10-08 00:00:00",
+          "number": "01/18-07/1-Շ-1258-898"
+        },
+        {
+          "released_at": "2022-05-16 00:00:00",
+          "number": "01/18-07/2-Դ-1604-403"
+        }
+      ]
+    }
+  },
+  {
+    "id": 328,
+    "construction_id": 9007,
+    "district": "Արաբկիր",
+    "address": "Արաբկիր 25-րդ փողոցի հ. 14",
+    "constructors": "ԱՐԹ ԷՆԴ ԷՄ ԳՐՈՒՓ ՍՊԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Ընթացքում գտնվող",
+    "x": 44.50980816,
+    "y": 40.20008612,
+    "permit_number": "01/18-146605-1949",
+    "permit_start_dt": "23-11-2021",
+    "permit_end_dt": "23-11-2023",
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-01-25 00:00:00",
+          "number": "01/18-07/1-Խ-3844-10"
+        }
+      ]
+    }
   },
   {
     "id": 196,
     "construction_id": 9025,
     "district": "Արաբկիր",
-    "address": "Քանաքեռ ՀԷԿ հ. 13",
+    "address": "Ղափանցյան փողոց հ․3 /Քանաքեռ ՀԷԿ հ.13/",
     "constructors": "ՍՎ ԵՎ ԳԱ ՍՊԸ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
@@ -833,23 +1376,45 @@
     "permit_number": "01/18-Պ-1942-1009",
     "permit_start_dt": "21-06-2021",
     "permit_end_dt": "20-06-2024",
-    "sketch": ""
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-01-29 00:00:00",
+          "number": "01/18-07/182-Ա"
+        }
+      ]
+    }
   },
   {
     "id": 197,
     "construction_id": 9083,
     "district": "Արաբկիր",
-    "address": "Օրբելի եղբայրների փողոցի հ.հ. 27,29 բնակելի տուն",
+    "address": "Օրբելի եղբայրների փողոցի հ.հ. 27, 29 բնակելի տուն",
     "constructors": "ԱՐԹ ԷՆԴ ԷՄ ԳՐՈՒՓ ՍՊԸ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
-    "status": "Կառուցապատման աշխատանքները փաստացի ավարտված",
+    "status": "Չսկսված",
     "x": 44.49335511,
     "y": 40.19363176,
-    "permit_number": "",
-    "permit_start_dt": "",
-    "permit_end_dt": "",
-    "sketch": ""
+    "permit_number": "01/18-Հ-11743-1936",
+    "permit_start_dt": "17-11-2021",
+    "permit_end_dt": "07-11-2023",
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-01 00:00:00",
+          "number": "01/18-047/2-7009-35"
+        }
+      ]
+    }
   },
   {
     "id": 198,
@@ -865,6 +1430,212 @@
     "permit_number": "01/18-Մ-8694-957",
     "permit_start_dt": "16-06-2021",
     "permit_end_dt": "15-06-2024",
-    "sketch": ""
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-08 00:00:00",
+          "number": "01/18-07/217-Ա"
+        }
+      ]
+    }
+  },
+  {
+    "id": 329,
+    "image": "/images/Arabkir/329.jpg",
+    "construction_id": 9157,
+    "district": "Արաբկիր",
+    "address": "Թբիլիսյան խճուղի հ.7/23 և հ.7/8",
+    "constructors": "ՍԻԹԻՄԱՍՏԵՐ ՍՊԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Ընթացքում գտնվող",
+    "x": 44.5296608,
+    "y": 40.2223426,
+    "permit_number": "01/18-Մ-17083-2273",
+    "permit_start_dt": "30-12-2021",
+    "permit_end_dt": "30-12-2024",
+    "sketch": "/images/construction_sketches/164447192417.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-02-18 00:00:00",
+          "number": "01/18-07/2-2115-99"
+        }
+      ]
+    }
+  },
+  {
+    "id": 330,
+    "construction_id": 9277,
+    "district": "Արաբկիր",
+    "address": "Արաբկիր 23-րդ փողոց հ.20",
+    "constructors": "ԴԱՐԱ ՍՊԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Ընթացքում գտնվող",
+    "x": 44.50927547,
+    "y": 40.20063898,
+    "permit_number": "01/18-13525-5",
+    "permit_start_dt": "18-02-2022",
+    "permit_end_dt": "18-05-2022",
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-03-30 00:00:00",
+          "number": "01/18-07/1-Մ-739-208"
+        }
+      ]
+    }
+  },
+  {
+    "id": 331,
+    "construction_id": 9364,
+    "district": "Արաբկիր",
+    "address": "Ադոնց փողոցի հ. 19/19",
+    "constructors": "ՄԼ Մայնինգ ՍՊԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Ընթացքում գտնվող",
+    "x": 44.51923507,
+    "y": 40.21364749,
+    "permit_number": "01/18-Դ-1934-1253",
+    "permit_start_dt": "29-07-2021",
+    "permit_end_dt": "28-07-2024",
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-04-19 00:00:00",
+          "number": "01/18-07/1159-Ա"
+        }
+      ]
+    }
+  },
+  {
+    "id": 332,
+    "image": "/images/Arabkir/332.jpg",
+    "construction_id": 9477,
+    "district": "Արաբկիր",
+    "address": "Արաբկիր 19-րդ փողոց հ․21",
+    "constructors": "ՄՈԴԵՐՆ ԹԱՈՒՆ ՍՊԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Ընթացքում գտնվող",
+    "x": 44.50885236,
+    "y": 40.20215378,
+    "permit_number": "01/18-36774-493",
+    "permit_start_dt": "31-03-2022",
+    "permit_end_dt": "31-03-2024",
+    "sketch": "/images/construction_sketches/164983589170.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-04-08 00:00:00",
+          "number": "01/18-07/2-29391-233"
+        }
+      ]
+    }
+  },
+  {
+    "id": 333,
+    "construction_id": 9563,
+    "district": "Արաբկիր",
+    "address": "Ն․Դումանի փողոց հ․43",
+    "constructors": "Հիմք Դիր ՍՊԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Ընթացքում գտնվող",
+    "x": 44.4882157,
+    "y": 40.2006354,
+    "permit_number": "01/18-ՈՒ-4795-2167",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2023",
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-04-19 00:00:00",
+          "number": "01/18-07/1-Զ-320-279"
+        }
+      ]
+    }
+  },
+  {
+    "id": 334,
+    "construction_id": 10612,
+    "district": "Արաբկիր",
+    "address": "Գրիբոյեդով փողոց հ․48",
+    "constructors": "ՕՐԴ Դիվելոփմենթ ՍՊԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Ընթացքում գտնվող",
+    "x": 44.5159765,
+    "y": 40.2104274,
+    "permit_number": "01/18-141393-2241",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "22-12-2024",
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2019-12-09 00:00:00",
+          "number": "01/18-07/4547-Ա"
+        }
+      ]
+    }
+  },
+  {
+    "id": 335,
+    "construction_id": 11049,
+    "district": "Արաբկիր",
+    "address": "Գյուլբենկյան փողոց հ․30 և հ․34 շենքերի միջանկյալ հատված",
+    "constructors": "ՊՈԼԻՏԵԽՆԻԿ-7 ԲՆԱԿԱՐԱՆԱՅԻՆ ՇԻՆԱՐԱՐԱԿԱՆ ՍՊԱՌՈՂԱԿԱՆ ԿՈՈՊԵՐԱՏԻՎ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Կառուցապատման աշխատանքները փաստացի ավարտված",
+    "x": 44.4962451,
+    "y": 40.2000131,
+    "permit_number": "01/18-Դ-25703-1209",
+    "permit_start_dt": "20-07-2022",
+    "permit_end_dt": "20-10-2022",
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2007-07-12 00:00:00",
+          "number": "18-07/2-10459-598"
+        },
+        {
+          "released_at": "2010-05-20 00:00:00",
+          "number": "50/1-6712-234"
+        }
+      ]
+    }
   }
 ]

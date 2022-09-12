@@ -13,6 +13,17 @@
     "permit_number": "",
     "permit_start_dt": "",
     "permit_end_dt": "",
-    "sketch": ""
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2020-04-29 00:00:00",
+          "number": "01/18-07/2-27434-386"
+        }
+      ]
+    }
   }
 ]

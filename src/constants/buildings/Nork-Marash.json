@@ -8,7 +8,7 @@
     "constructors": "Ինժեներ Լիգա ՓԲԸ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
-    "status": "Ընթացքում գտնվող",
+    "status": "Ժամանակավորապես դադարեցված",
     "x": 44.5354695,
     "y": 40.1875296,
     "permit_number": "01/18-31675-507",
@@ -17,7 +17,7 @@
     "sketch": "/images/construction_sketches/159221796389.jpg"
   },
   {
-    "id": 4,
+    "id": 286,
     "construction_id": 484,
     "district": "Նորք-Մարաշ",
     "address": "Գ․ Հովսեփյան փող․ 24/9",
@@ -25,15 +25,15 @@
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
     "status": "Թույլտվությունը ուժը կորցրած ճանաչված",
-    "x": 44.5358819,
-    "y": 40.1763543,
+    "x": 44.53608523,
+    "y": 40.1763398,
     "permit_number": "01/18-Մ-5180-475",
     "permit_start_dt": "21-05-2019",
     "permit_end_dt": "18-11-2019",
     "sketch": ""
   },
   {
-    "id": 5,
+    "id": 287,
     "construction_id": 810,
     "district": "Նորք-Մարաշ",
     "address": "Նորքի այգիներ 179/1",
@@ -41,12 +41,23 @@
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
     "status": "Թույլտվությունը ուժը կորցրած ճանաչված",
-    "x": 44.543462,
-    "y": 40.1857255,
+    "x": 44.54335002,
+    "y": 40.18558107,
     "permit_number": "02/18-67434-1174",
     "permit_start_dt": "04-12-2013",
     "permit_end_dt": "04-12-2017",
-    "sketch": ""
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2008-05-13 00:00:00",
+          "number": "50/2-9493-379"
+        }
+      ]
+    }
   },
   {
     "id": 114,
@@ -62,7 +73,18 @@
     "permit_number": "",
     "permit_start_dt": "",
     "permit_end_dt": "",
-    "sketch": ""
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2019-07-25 00:00:00",
+          "number": "01/18-07/1-Ա-6870-717"
+        }
+      ]
+    }
   },
   {
     "id": 115,
@@ -73,17 +95,28 @@
     "constructors": "Արքաշեն ՍՊԸ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
-    "status": "Դատարանի որոշումով կասեցված",
+    "status": "Ժամանակավորապես դադարեցված",
     "x": 44.5425474,
     "y": 40.178232,
     "permit_number": "01/18-104938-4",
     "permit_start_dt": "20-01-2020",
     "permit_end_dt": "20-10-2020",
-    "sketch": "/images/construction_sketches/159221800981.jpg"
+    "sketch": "/images/construction_sketches/159221800981.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2019-07-30 00:00:00",
+          "number": "01/18-07/2-61460-750"
+        }
+      ]
+    }
   },
   {
-    "id": 116,
-    "image": "/images/Nork-Marash/116.jpg",
+    "id": 288,
+    "image": "/images/Nork-Marash/288.jpg",
     "construction_id": 6670,
     "district": "Նորք-Մարաշ",
     "address": "Գ․Հովսեփյան փող․ հ․ 2",
@@ -91,12 +124,50 @@
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
     "status": "Ընթացքում գտնվող",
-    "x": 44.5389658,
-    "y": 40.1775003,
+    "x": 44.5396466302,
+    "y": 40.1773427821,
     "permit_number": "01/18-Ա-6211-1207",
     "permit_start_dt": "03-09-2020",
     "permit_end_dt": "30-06-2023",
-    "sketch": "/images/construction_sketches/158952209973.jpg"
+    "sketch": "/images/construction_sketches/158952209973.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2019-10-02 00:00:00",
+          "number": "01/18-07/1-Մ-9770-981"
+        }
+      ]
+    }
+  },
+  {
+    "id": 289,
+    "construction_id": 6786,
+    "district": "Նորք-Մարաշ",
+    "address": "Նորքի 1-ին նրբանցք հ․19/3",
+    "constructors": "ՎԱՂԱՐՇ ԵՎ ՈՐԴԻՆԵՐ ԿՈՆՑԵՌՆ ՍՊԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Ընթացքում գտնվող",
+    "x": 44.5432353,
+    "y": 40.1914646,
+    "permit_number": "01/18-Մ-15143-667",
+    "permit_start_dt": "21-04-2022",
+    "permit_end_dt": "21-04-2024",
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2006-08-11 00:00:00",
+          "number": "18-09/1-Ա-305-111"
+        }
+      ]
+    }
   },
   {
     "id": 117,
@@ -107,13 +178,28 @@
     "constructors": "«Գ.Թ. ԲԻԼԴԻՆԳ» ՍՊԸ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
-    "status": "Չսկսված",
+    "status": "Ժամանակավորապես դադարեցված",
     "x": 44.5372117,
     "y": 40.1756927,
     "permit_number": "01/18-92982-1453",
     "permit_start_dt": "12-10-2020",
     "permit_end_dt": "12-10-2023",
-    "sketch": "/images/construction_sketches/160414184429.jpg"
+    "sketch": "/images/construction_sketches/160414184429.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2019-12-03 00:00:00",
+          "number": "01/18-07/1-Դ-2451-1216"
+        },
+        {
+          "released_at": "2020-02-11 00:00:00",
+          "number": "01/18-07/1-Դ-3003-97"
+        }
+      ]
+    }
   },
   {
     "id": 118,
@@ -129,10 +215,21 @@
     "permit_number": "",
     "permit_start_dt": "",
     "permit_end_dt": "",
-    "sketch": ""
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2019-12-03 00:00:00",
+          "number": "01/18-07/1-Հ-9163-1218"
+        }
+      ]
+    }
   },
   {
-    "id": 119,
+    "id": 290,
     "construction_id": 6988,
     "district": "Նորք-Մարաշ",
     "address": "Գ․Հովսեփյան փողոցի հ․10/4 և հ. 10/5",
@@ -140,12 +237,23 @@
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
     "status": "Ընթացքում գտնվող",
-    "x": 44.5421924,
-    "y": 40.1840097,
+    "x": 44.54218617,
+    "y": 40.18400201,
     "permit_number": "01/18-Ք-750-898",
     "permit_start_dt": "04-06-2021",
     "permit_end_dt": "04-06-2023",
-    "sketch": ""
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2019-12-03 00:00:00",
+          "number": "01/18-07/1-Ք-1231-1219"
+        }
+      ]
+    }
   },
   {
     "id": 120,
@@ -161,23 +269,45 @@
     "permit_number": "",
     "permit_start_dt": "",
     "permit_end_dt": "",
-    "sketch": ""
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2020-04-07 00:00:00",
+          "number": "01/18-07/1339-Ա"
+        }
+      ]
+    }
   },
   {
     "id": 121,
     "construction_id": 8014,
     "district": "Նորք-Մարաշ",
-    "address": "Գ․ Հովսեփյան փող․ 62/6",
-    "constructors": "Անրանիկ Նազոյան",
+    "address": "Գ․Հովսեփյան փողոց հ․62/6",
+    "constructors": "ՊԱՆԱՐԱՄԱ ՌԵԶԻԴԵՆՍ ՍՊԸ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
-    "status": "Չսկսված",
+    "status": "Ընթացքում գտնվող",
     "x": 44.5350552,
     "y": 40.1758075,
-    "permit_number": "",
-    "permit_start_dt": "",
-    "permit_end_dt": "",
-    "sketch": ""
+    "permit_number": "01/18-Ն-2554-2238",
+    "permit_start_dt": "22-12-2021",
+    "permit_end_dt": "21-12-2024",
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2020-07-13 00:00:00",
+          "number": "01/18-07/1-Ք-531-597"
+        }
+      ]
+    }
   },
   {
     "id": 122,
@@ -193,7 +323,22 @@
     "permit_number": "",
     "permit_start_dt": "",
     "permit_end_dt": "",
-    "sketch": ""
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2020-08-28 00:00:00",
+          "number": "01/18-07/1-Ս-4249-768"
+        },
+        {
+          "released_at": "2021-11-12 00:00:00",
+          "number": "01/18-07/1-Ա-18568-964"
+        }
+      ]
+    }
   },
   {
     "id": 123,
@@ -209,6 +354,247 @@
     "permit_number": "",
     "permit_start_dt": "",
     "permit_end_dt": "",
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2020-09-01 00:00:00",
+          "number": "01/18-07/1-Ն-1284-805"
+        }
+      ]
+    }
+  },
+  {
+    "id": 291,
+    "construction_id": 9482,
+    "district": "Նորք-Մարաշ",
+    "address": "Չարենցի փողոց 1-ին նրբանցք հ․49",
+    "constructors": "Վարդանուշ Պողոսյան",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Ընթացքում գտնվող",
+    "x": 44.52853547,
+    "y": 40.17250816,
+    "permit_number": "01/18-Մ-10048-1288",
+    "permit_start_dt": "03-08-2021",
+    "permit_end_dt": "03-08-2023",
     "sketch": ""
+  },
+  {
+    "id": 292,
+    "image": "/images/Nork-Marash/292.jpg",
+    "construction_id": 9961,
+    "district": "Նորք-Մարաշ",
+    "address": "Ա․Արմենակյան փողոց հ․143",
+    "constructors": "ՍԻԱՄՍ ՍՊԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Ընթացքում գտնվող",
+    "x": 44.5420238,
+    "y": 40.18605751,
+    "permit_number": "01/18-128369-2018",
+    "permit_start_dt": "26-11-2021",
+    "permit_end_dt": "26-11-2023",
+    "sketch": "/images/construction_sketches/163887203561.jpg"
+  },
+  {
+    "id": 293,
+    "construction_id": 10051,
+    "district": "Նորք-Մարաշ",
+    "address": "Նորքի հ․19/5",
+    "constructors": "ՎԱՂԱՐՇ ԵՎ ՈՐԴԻՆԵՐ ԿՈՆՑԵՌՆ ՍՊԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Ընթացքում գտնվող",
+    "x": 44.54280859,
+    "y": 40.19069168,
+    "permit_number": "01/18-Մ-11681-1521",
+    "permit_start_dt": "09-09-2021",
+    "permit_end_dt": "09-09-2023",
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2006-08-11 00:00:00",
+          "number": "18-09/1-Ա-305-111"
+        }
+      ]
+    }
+  },
+  {
+    "id": 294,
+    "construction_id": 10692,
+    "district": "Նորք-Մարաշ",
+    "address": "Գ․Հովսեփյան փողոց հ․38/10",
+    "constructors": "Ավետիս Խախամյան",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Ընթացքում գտնվող",
+    "x": 44.5361005,
+    "y": 40.1803768,
+    "permit_number": "01/18-Դ-17496-901",
+    "permit_start_dt": "02-06-2022",
+    "permit_end_dt": "02-03-2025",
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-12-20 00:00:00",
+          "number": "01/18-07/1-Հ-11008-1126"
+        }
+      ]
+    }
+  },
+  {
+    "id": 295,
+    "construction_id": 10693,
+    "district": "Նորք-Մարաշ",
+    "address": "Գ․Հովսեփյան փողոց հ․38/6",
+    "constructors": "ԽԱԽԱՄՅԱՆ ՀԵՐԻԹԻՋ ՍՊԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Ընթացքում գտնվող",
+    "x": 44.5360961,
+    "y": 40.1803727,
+    "permit_number": "01/18-Դ-17494-903",
+    "permit_start_dt": "02-06-2022",
+    "permit_end_dt": "02-04-2025",
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-12-20 00:00:00",
+          "number": "01/18-07/1-Հ-11006-1125"
+        },
+        {
+          "released_at": "2022-05-18 00:00:00",
+          "number": "01/18-07/1-Դ-20688-426"
+        }
+      ]
+    }
+  },
+  {
+    "id": 296,
+    "construction_id": 10695,
+    "district": "Նորք-Մարաշ",
+    "address": "Գ․Հովսեփյան փողոց հ․38/11",
+    "constructors": "ԽԱԽԱՄՅԱՆ ՀԵՐԻԹԻՋ ՍՊԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Ընթացքում գտնվող",
+    "x": 44.5352508,
+    "y": 40.1802193,
+    "permit_number": "01/18-Դ-17497-902",
+    "permit_start_dt": "02-06-2022",
+    "permit_end_dt": "02-04-2025",
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-12-20 00:00:00",
+          "number": "01/18-07/1-Հ-11005-1123"
+        },
+        {
+          "released_at": "2022-05-18 00:00:00",
+          "number": "01/18-07/1-Դ-20687-425"
+        }
+      ]
+    }
+  },
+  {
+    "id": 297,
+    "construction_id": 10810,
+    "district": "Նորք-Մարաշ",
+    "address": "Նորքի Այգիներ փողոց հ․252",
+    "constructors": "Կարլ Գրիգորյան",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Կառուցապատման աշխատանքները փաստացի ավարտված",
+    "x": 44.5306482,
+    "y": 40.1853159,
+    "permit_number": "01/18-Դ-47235-1224",
+    "permit_start_dt": "21-07-2022",
+    "permit_end_dt": "21-09-2022",
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2015-06-08 00:00:00",
+          "number": "18-07/1-Գ-237"
+        }
+      ]
+    }
+  },
+  {
+    "id": 298,
+    "construction_id": 10946,
+    "district": "Նորք-Մարաշ",
+    "address": "Նորքի 7-րդ փողոց հ․70/4",
+    "constructors": "ԾԱՂԿ ՍՊԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Ժամանակավորապես դադարեցված",
+    "x": 44.54098066,
+    "y": 40.17808495,
+    "permit_number": "01/18-23728-1380",
+    "permit_start_dt": "09-08-2022",
+    "permit_end_dt": "09-06-2023",
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2008-10-02 00:00:00",
+          "number": "50/2-22015-668"
+        }
+      ]
+    }
+  },
+  {
+    "id": 299,
+    "construction_id": 11202,
+    "district": "Նորք-Մարաշ",
+    "address": "Նորքի 1-ին նրբանցք հ․19/4",
+    "constructors": "ՎԱՂԱՐՇ ԵՎ ՈՐԴԻՆԵՐ ԿՈՆՑԵՌՆ ՍՊԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Չսկսված",
+    "x": 44.5431855,
+    "y": 40.1912075,
+    "permit_number": "01/18-Դ-54848-1377",
+    "permit_start_dt": "09-08-2022",
+    "permit_end_dt": "09-04-2024",
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2006-08-11 00:00:00",
+          "number": "18-09/1-Ա-305-111"
+        }
+      ]
+    }
   }
 ]

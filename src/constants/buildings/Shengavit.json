@@ -4,16 +4,16 @@
     "image": "/images/Shengavit/206.jpg",
     "construction_id": 96,
     "district": "Շենգավիթ",
-    "address": "Արարատյան փող. 83/6",
+    "address": "Արարատյան փողոց հ․83/6",
     "constructors": "Կարեն Բաղդասարյան",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
-    "status": "Ընթացքում գտնվող",
+    "status": "Կառուցապատման աշխատանքները փաստացի ավարտված",
     "x": 44.4812734,
     "y": 40.1451434,
-    "permit_number": "01/18-Բ-1469-557",
-    "permit_start_dt": "13-04-2021",
-    "permit_end_dt": "13-02-2022",
+    "permit_number": "01/18-31237-524",
+    "permit_start_dt": "01-04-2022",
+    "permit_end_dt": "01-10-2022",
     "sketch": "/images/construction_sketches/159221819070.jpg"
   },
   {
@@ -21,17 +21,32 @@
     "image": "/images/Shengavit/207.jpg",
     "construction_id": 4470,
     "district": "Շենգավիթ",
-    "address": "Հ․Հովսեփյան փող․ հ․ 31 և 31/2 , 12/3",
-    "constructors": "Սահակյանշին ՓԲԸ",
+    "address": "Հ․Հովսեփյան փողոց հ․հ․31, 31/2, 12/3",
+    "constructors": "ՍԱՀԱԿՅԱՆՇԻՆ ՓԲԸ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
     "status": "Ընթացքում գտնվող",
     "x": 44.4812256,
     "y": 40.1483298,
-    "permit_number": "01/18-Տ-849-1784",
-    "permit_start_dt": "23-12-2020",
-    "permit_end_dt": "23-12-2021",
-    "sketch": "/images/construction_sketches/15922182679.jpg"
+    "permit_number": "01/18-Դ-3021-875",
+    "permit_start_dt": "25-05-2022",
+    "permit_end_dt": "25-11-2022",
+    "sketch": "/images/construction_sketches/15922182679.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2012-11-26 00:00:00",
+          "number": "01/18-07/2-53633-1087"
+        },
+        {
+          "released_at": "2020-03-20 00:00:00",
+          "number": "01/18-07/1-Տ-1072-229"
+        }
+      ]
+    }
   },
   {
     "id": 208,
@@ -47,14 +62,25 @@
     "permit_number": "01/18-122154-187",
     "permit_start_dt": "10-02-2021",
     "permit_end_dt": "09-02-2024",
-    "sketch": ""
+    "sketch": "",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2020-04-02 00:00:00",
+          "number": "01/18-07/2-9464-292"
+        }
+      ]
+    }
   },
   {
     "id": 209,
     "image": "/images/Shengavit/209.jpg",
     "construction_id": 8037,
     "district": "Շենգավիթ",
-    "address": "Եղբայրության փող․ 1-ին նրբ․ հ․ 2 տուն",
+    "address": "Եղբայրության փողոց 1-ին նրբանցք հ․2 տուն",
     "constructors": "ՀՈՎ-ՄԱՆ ՇԻՆ ՍՊԸ",
     "building_type": "Բնակելի շինություններ",
     "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
@@ -64,6 +90,49 @@
     "permit_number": "01/18-55128-794",
     "permit_start_dt": "20-05-2021",
     "permit_end_dt": "20-01-2024",
-    "sketch": "/images/construction_sketches/161278017643.jpg"
+    "sketch": "/images/construction_sketches/161278017643.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2020-07-01 00:00:00",
+          "number": "01/18-07/1-Ք-489-543"
+        },
+        {
+          "released_at": "2022-05-17 00:00:00",
+          "number": "01/18-07/2-Դ-8310-405"
+        }
+      ]
+    }
+  },
+  {
+    "id": 317,
+    "image": "/images/Shengavit/317.jpg",
+    "construction_id": 9703,
+    "district": "Շենգավիթ",
+    "address": "Չեխովի փողոց հ․26",
+    "constructors": "ՖԵՄԻԼԻ ԲԱԼՅԱՆ ՍՊԸ",
+    "building_type": "Բնակելի շինություններ",
+    "building_subtype": "Բազմաբնակարան բնակելի շենքի կառուցում",
+    "status": "Ընթացքում գտնվող",
+    "x": 44.4799769,
+    "y": 40.1526204,
+    "permit_number": "01/18-Դ-43330-1345",
+    "permit_start_dt": "04-08-2022",
+    "permit_end_dt": "04-04-2024",
+    "sketch": "/images/construction_sketches/164182155743.jpg",
+    "architecture_tasks": {
+      "risk_category": "IV",
+      "max_floor": null,
+      "max_height": null,
+      "architecture_task_permits": [
+        {
+          "released_at": "2021-06-04 00:00:00",
+          "number": "01/18-07/1-Բ-1582-455"
+        }
+      ]
+    }
   }
 ]
